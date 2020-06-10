@@ -25,11 +25,12 @@ Packages are collection of functions, data and code developed by the people in R
 - [CRAN](https://cran.r-project.org/web/packages/): R's main repository
 - [BioConductor](https://bioconductor.org/packages/release/BiocViews.html#___Software): A repository mainly for bioinformatic-focused packages
 - [GitHub](https://github.com/collections): Of course
+- [RDocumentation](https://www.rdocumentation.org/): Definitely  
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0ODcxMDQ4Miw5MzkxNjU4MTksMTg4Mj
-M2NTk3OCwzNTIxMjY2NDUsLTIxMjMxNDA2MTYsLTY1MzA3MzAy
-OSwtOTM5MTE0ODc0XX0=
+eyJoaXN0b3J5IjpbLTE4ODc2MjEyMDQsLTI0ODcxMDQ4Miw5Mz
+kxNjU4MTksMTg4MjM2NTk3OCwzNTIxMjY2NDUsLTIxMjMxNDA2
+MTYsLTY1MzA3MzAyOSwtOTM5MTE0ODc0XX0=
 -->
