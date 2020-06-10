@@ -35,11 +35,17 @@ To install a package from CRAN repository is used `install.packages()`, with the
 install.packages("ggplot2")
 install.packages(c("ggplot2", "devtools", "lme4"))
 ```
-To 
+To install a package from Bioconductor:
+```r
+source("https://bioconductor.org/biocLite.R")
+biocLite()
+biocLite("GenomicFeatures")
+```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIxOTg2OTQ1LC0yMDMzODYyMjg0LC0yND
-g3MTA0ODIsOTM5MTY1ODE5LDE4ODIzNjU5NzgsMzUyMTI2NjQ1
-LC0yMTIzMTQwNjE2LC02NTMwNzMwMjksLTkzOTExNDg3NF19
+eyJoaXN0b3J5IjpbMTc3NzM0ODgwOSwtMjAzMzg2MjI4NCwtMj
+Q4NzEwNDgyLDkzOTE2NTgxOSwxODgyMzY1OTc4LDM1MjEyNjY0
+NSwtMjEyMzE0MDYxNiwtNjUzMDczMDI5LC05MzkxMTQ4NzRdfQ
+==
 -->
