@@ -75,12 +75,12 @@ To know more about a package it is used the `help()` function. It will open the 
 help(package = "ggplot2")
 ```
 
-
+### R Projects
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjg0NDg2NCwxNjg1NjY0MjI5LC0yMD
-MzODYyMjg0LC0yNDg3MTA0ODIsOTM5MTY1ODE5LDE4ODIzNjU5
-NzgsMzUyMTI2NjQ1LC0yMTIzMTQwNjE2LC02NTMwNzMwMjksLT
-kzOTExNDg3NF19
+eyJoaXN0b3J5IjpbLTQzNTk0MDk5NywtMTcyODQ0ODY0LDE2OD
+U2NjQyMjksLTIwMzM4NjIyODQsLTI0ODcxMDQ4Miw5MzkxNjU4
+MTksMTg4MjM2NTk3OCwzNTIxMjY2NDUsLTIxMjMxNDA2MTYsLT
+Y1MzA3MzAyOSwtOTM5MTE0ODc0XX0=
 -->
