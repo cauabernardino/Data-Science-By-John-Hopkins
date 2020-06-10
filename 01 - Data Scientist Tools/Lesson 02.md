@@ -2,7 +2,7 @@
 
 R is both a programming language and an environment, focused mainly on statistical analysis and graphics.
 
-R is downloaded from the [Comprehensive R Archive Network](https://cran.r-project.org/).
+R is downloaded from the [Comprehensive R Archive Network (CRAN)](https://cran.r-project.org/).
 
 ## Why should you use R?
 
@@ -20,13 +20,16 @@ RStudio is one of the most popular GUI for R and will be the one used here. Ther
 
 ## R Packages
 
-Packages are collection of functions, data and code developed by the people in R community to help expand and/or accelerate the basic R funcionalities.
+Packages are collection of functions, data and code developed by the people in R community to help expand and/or accelerate the basic R funcionalities. They often are deposited in repositories like
+
+- [CRAN](https://cran.r-project.org/web/packages/): R's main repository
+- [BioConductor](https://bioconductor.org/packages/release/BiocViews.html#___Software)
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MzIzMTc1Niw5MzkxNjU4MTksMTg4Mj
+eyJoaXN0b3J5IjpbLTE3OTAxNTI5MSw5MzkxNjU4MTksMTg4Mj
 M2NTk3OCwzNTIxMjY2NDUsLTIxMjMxNDA2MTYsLTY1MzA3MzAy
 OSwtOTM5MTE0ODc0XX0=
 -->
