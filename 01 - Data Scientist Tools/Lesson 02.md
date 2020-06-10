@@ -66,14 +66,15 @@ remove.packages("ggplot2")
 
 To avoid any version problems between packages and the language itself, there are some commands that help to keep track of it
 ```r
-version  # Check 
+version  # Check the information about the R version running
+sessionInfo() # Check the R version alongside all packages loaded in the session
 ```
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwOTU3NTM4MiwtMjAzMzg2MjI4NCwtMj
+eyJoaXN0b3J5IjpbMTgyMzQzMDEwNCwtMjAzMzg2MjI4NCwtMj
 Q4NzEwNDgyLDkzOTE2NTgxOSwxODgyMzY1OTc4LDM1MjEyNjY0
 NSwtMjEyMzE0MDYxNiwtNjUzMDczMDI5LC05MzkxMTQ4NzRdfQ
 ==
