@@ -36,25 +36,27 @@ install.packages("ggplot2")
 install.packages(c("ggplot2", "devtools", "lme4"))
 library(ggplot2)  # library() function does not need quotes
 ```
+
 To install a package from Bioconductor:
 ```r
 source("https://bioconductor.org/biocLite.R")  # Get the function
 biocLite()  # Function 
 biocLite("GenomicFeatures")  # Example
 ```
+
 To install a package from GitHub:
 ```r
 install.packages("devtools")
 library(devtools)
 install_github("author/package") # author: GitHub username, package: its name
 ```
-Using `library()`, with no parameters inside it, show
+
+Use `library()`, with no parameters inside it, to check what packages are installed.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTAzMjIyODQsLTIwMzM4NjIyODQsLT
-I0ODcxMDQ4Miw5MzkxNjU4MTksMTg4MjM2NTk3OCwzNTIxMjY2
-NDUsLTIxMjMxNDA2MTYsLTY1MzA3MzAyOSwtOTM5MTE0ODc0XX
-0=
+eyJoaXN0b3J5IjpbMjUwNzMzNjc2LC0yMDMzODYyMjg0LC0yND
+g3MTA0ODIsOTM5MTY1ODE5LDE4ODIzNjU5NzgsMzUyMTI2NjQ1
+LC0yMTIzMTQwNjE2LC02NTMwNzMwMjksLTkzOTExNDg3NF19
 -->
