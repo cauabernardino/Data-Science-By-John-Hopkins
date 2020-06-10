@@ -53,13 +53,17 @@ install_github("author/package") # author: GitHub username, package: its name
 
 Use `library()`, with no parameters inside it, to check what packages are installed.
 
-If, for any reason, it is neede to *unload* a package y
+If, for any reason, it is needed to *unload* a package, use `detach()`, as example below:
+```r
+detach("package:ggplot2", unload=TRUE)
+```
+
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3Njg0NzYzMSwtMjAzMzg2MjI4NCwtMj
+eyJoaXN0b3J5IjpbMTA1OTE0Mjc5MSwtMjAzMzg2MjI4NCwtMj
 Q4NzEwNDgyLDkzOTE2NTgxOSwxODgyMzY1OTc4LDM1MjEyNjY0
 NSwtMjEyMzE0MDYxNiwtNjUzMDczMDI5LC05MzkxMTQ4NzRdfQ
 ==
