@@ -11,7 +11,7 @@ Big data involves:
 **A data scientist uses data to answer questions!**
 A good data scientist asks questions first and seeks out relevant data second.
 
-<img src="https://images.squarespace-cdn.com/content/v1/5150aec6e4b0e340ec52710a/1364352051365-HZAS3CLBF7ABLE3F5OBY/ke17ZwdGBToddI8pDm48kB2M2-8_3EzuSSXvzQBRsa1Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxPe_8B-x4gq2tfVez1FwLYYZXud0o-3jV-FAs7tmkMHY-a7GzQZKbHRGZboWC-fOc/Data_Science_VD.png" height="300" width="320" align="r">
+<img src="https://images.squarespace-cdn.com/content/v1/5150aec6e4b0e340ec52710a/1364352051365-HZAS3CLBF7ABLE3F5OBY/ke17ZwdGBToddI8pDm48kB2M2-8_3EzuSSXvzQBRsa1Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxPe_8B-x4gq2tfVez1FwLYYZXud0o-3jV-FAs7tmkMHY-a7GzQZKbHRGZboWC-fOc/Data_Science_VD.png" height="300" width="320">
 
 ## What is data?
 
@@ -54,6 +54,6 @@ Some useful tips to solve problems:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM2ODYxODkzLDc2NDM0ODA0Myw4MDU4Nj
+eyJoaXN0b3J5IjpbNzY0MzQ4MDQzLDc2NDM0ODA0Myw4MDU4Nj
 E0MTEsLTEzODYxMTQzNDgsLTg0MjQ0NjQ0MV19
 -->
