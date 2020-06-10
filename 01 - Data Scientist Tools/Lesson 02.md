@@ -35,10 +35,11 @@ To install a package from CRAN repository is used `install.packages()`, with the
 install.packages("ggplot2")
 install.packages(c("ggplot2", "devtools", "lme4"))
 ```
+To 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzM4NjIyODQsLTI0ODcxMDQ4Miw5Mz
-kxNjU4MTksMTg4MjM2NTk3OCwzNTIxMjY2NDUsLTIxMjMxNDA2
-MTYsLTY1MzA3MzAyOSwtOTM5MTE0ODc0XX0=
+eyJoaXN0b3J5IjpbMzIxOTg2OTQ1LC0yMDMzODYyMjg0LC0yND
+g3MTA0ODIsOTM5MTY1ODE5LDE4ODIzNjU5NzgsMzUyMTI2NjQ1
+LC0yMTIzMTQwNjE2LC02NTMwNzMwMjksLTkzOTExNDg3NF19
 -->
