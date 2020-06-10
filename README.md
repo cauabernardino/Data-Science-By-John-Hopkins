@@ -5,8 +5,8 @@ Link to the course [here](https://www.coursera.org/specializations/jhu-data-scie
 
 ## Purpose
 
-As a person who has very basic knowledge on data science concepts and R, I'll try to sumarize the most importante topics I'll find during the course, as well as other materials that I find relevant to it.
-There is no intention of replacing teh c ourse importance, just to be a notebook and a place to look for quick tips and reminders. 
+As a person who has a very basic knowledge on data science concepts and R, I'll try to sumarize the most importante topics I'll find during the course, as well as other materials that I find relevant to it.
+There is no intention of replacing the course importance, just to be a notebook and a place to look for quick tips and reminders. 
 
 ## Content
 
@@ -22,6 +22,6 @@ There is no intention of replacing teh c ourse importance, just to be a notebook
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTY3Nzc1NiwtMTgwNTE0Mjc5NCw3OD
+eyJoaXN0b3J5IjpbMTY3NzgyNzYyMywtMTgwNTE0Mjc5NCw3OD
 g2OTE2ODZdfQ==
 -->
