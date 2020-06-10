@@ -14,10 +14,10 @@ R is downloaded from the [Comprehensive R Archive Network](https://cran.r-projec
 ## Installing R
 
 There's a tutorial on the course, but there's plenty on the internet as well.
-
+I'll leve this Data Camp tutorial that is up-to-das
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjMxNDA2MTYsLTY1MzA3MzAyOSwtOT
-M5MTE0ODc0XX0=
+eyJoaXN0b3J5IjpbLTQ2MjI2Mzk2LC0yMTIzMTQwNjE2LC02NT
+MwNzMwMjksLTkzOTExNDg3NF19
 -->
