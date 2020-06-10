@@ -6,8 +6,11 @@ R is downloaded from the [Comprehensive R Archive Network](https://cran.r-projec
 
 ## Why should you use R?
 
+1. Popularity, which means new functionalities developed with frequency and better support
+2. R is **free**!
+3. Versatility, c
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA2NTU1MDQsLTkzOTExNDg3NF19
+eyJoaXN0b3J5IjpbNzUxOTc4MjY1LC05MzkxMTQ4NzRdfQ==
 -->
