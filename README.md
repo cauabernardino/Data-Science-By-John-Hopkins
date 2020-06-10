@@ -6,6 +6,7 @@ My notes and views regarding the Data Science coursework by John Hopkins, using 
 
 ### Data Scientist Tools
 1. [Data Science Fundamentals](https://github.com/cauabernardino/Data-Science-By-John-Hopkins/blob/master/01%20-%20Data%20Scientist%20Tools/Lesson%2001.md)
+2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDc4NzEzMTVdfQ==
+eyJoaXN0b3J5IjpbLTQwNDQ4MTkzMV19
 -->
