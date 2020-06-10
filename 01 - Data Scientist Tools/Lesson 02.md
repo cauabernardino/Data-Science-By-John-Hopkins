@@ -50,6 +50,7 @@ install.packages("devtools")
 library(devtools)
 install_github("author/package") # author: GitHub username, package: its name
 ```
+### Managing packages
 
 Use `library()`, with no parameters inside it, to check what packages are installed.
 
@@ -58,12 +59,17 @@ If, for any reason, it is needed to *unload* a package, use `detach()`, as examp
 detach("package:ggplot2", unload=TRUE)
 ```
 
+To delete a package use:
+```r
+remove.packages("ggplot2")
+```
+
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1OTE0Mjc5MSwtMjAzMzg2MjI4NCwtMj
+eyJoaXN0b3J5IjpbMTM1MzMwODMxMCwtMjAzMzg2MjI4NCwtMj
 Q4NzEwNDgyLDkzOTE2NTgxOSwxODgyMzY1OTc4LDM1MjEyNjY0
 NSwtMjEyMzE0MDYxNiwtNjUzMDczMDI5LC05MzkxMTQ4NzRdfQ
 ==
