@@ -64,7 +64,7 @@ To delete a package use:
 remove.packages("ggplot2")
 ```
 
-To avoid any version problems between packages and the language itself, there are some commands that help to keep track of it
+To avoid any version problems between packages and the language itself, there are some commands that help to keep track of it.
 ```r
 version  # Check the information about the R version running
 sessionInfo() # Check the R version alongside all packages loaded in the session
@@ -74,8 +74,8 @@ sessionInfo() # Check the R version alongside all packages loaded in the session
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzQzMDEwNCwtMjAzMzg2MjI4NCwtMj
-Q4NzEwNDgyLDkzOTE2NTgxOSwxODgyMzY1OTc4LDM1MjEyNjY0
-NSwtMjEyMzE0MDYxNiwtNjUzMDczMDI5LC05MzkxMTQ4NzRdfQ
-==
+eyJoaXN0b3J5IjpbLTExNjc5NDcwNDAsLTIwMzM4NjIyODQsLT
+I0ODcxMDQ4Miw5MzkxNjU4MTksMTg4MjM2NTk3OCwzNTIxMjY2
+NDUsLTIxMjMxNDA2MTYsLTY1MzA3MzAyOSwtOTM5MTE0ODc0XX
+0=
 -->
