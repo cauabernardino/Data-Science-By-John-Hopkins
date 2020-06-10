@@ -29,7 +29,7 @@ Packages are collection of functions, data and code developed by the people in R
 
 ### Installing packages
 
-To install a package from CRAN repository is used `install.packages()`, with the name of the package in single or double quotes, between the parentheses. Also it is possible to install multiple packages using a character vector. For last, is used `library()` to activate the package. Examples below.
+To install a package from CRAN repository is used `install.packages()`, with the name of the package in single or double quotes, between the parentheses. Also it is possible to install multiple packages using a character vector. For last, is used `library()` to *load* the package. Examples below.
 
 ```r
 install.packages("ggplot2")
@@ -53,10 +53,14 @@ install_github("author/package") # author: GitHub username, package: its name
 
 Use `library()`, with no parameters inside it, to check what packages are installed.
 
+If, for any reason, it is neede to *unload* a package y
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUwNzMzNjc2LC0yMDMzODYyMjg0LC0yND
-g3MTA0ODIsOTM5MTY1ODE5LDE4ODIzNjU5NzgsMzUyMTI2NjQ1
-LC0yMTIzMTQwNjE2LC02NTMwNzMwMjksLTkzOTExNDg3NF19
+eyJoaXN0b3J5IjpbLTU3Njg0NzYzMSwtMjAzMzg2MjI4NCwtMj
+Q4NzEwNDgyLDkzOTE2NTgxOSwxODgyMzY1OTc4LDM1MjEyNjY0
+NSwtMjEyMzE0MDYxNiwtNjUzMDczMDI5LC05MzkxMTQ4NzRdfQ
+==
 -->
