@@ -77,11 +77,13 @@ help(package = "ggplot2")
 
 ### R Projects
 
-Creating a project is helpful to keep files organized, specially if working in multiple projects, and also keep 
+Creating a project is helpful to keep files organized, specially if working in multiple projects. It also helps to keep version control (like Git) easier.
+
+Can be c
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMzU5MjE5OCwtMTcyODQ0ODY0LDE2OD
+eyJoaXN0b3J5IjpbMTIxNzQzMjU5NSwtMTcyODQ0ODY0LDE2OD
 U2NjQyMjksLTIwMzM4NjIyODQsLTI0ODcxMDQ4Miw5MzkxNjU4
 MTksMTg4MjM2NTk3OCwzNTIxMjY2NDUsLTIxMjMxNDA2MTYsLT
 Y1MzA3MzAyOSwtOTM5MTE0ODc0XX0=
