@@ -29,11 +29,11 @@ Packages are collection of functions, data and code developed by the people in R
 
 ### Installing packages
 
-To install 
+To install a package from CRAN repository is used `install.packages()`, with the name 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwOTk0MDQ0NiwtMjQ4NzEwNDgyLDkzOT
-E2NTgxOSwxODgyMzY1OTc4LDM1MjEyNjY0NSwtMjEyMzE0MDYx
-NiwtNjUzMDczMDI5LC05MzkxMTQ4NzRdfQ==
+eyJoaXN0b3J5IjpbMTE0MDMzNDg3LC0yNDg3MTA0ODIsOTM5MT
+Y1ODE5LDE4ODIzNjU5NzgsMzUyMTI2NjQ1LC0yMTIzMTQwNjE2
+LC02NTMwNzMwMjksLTkzOTExNDg3NF19
 -->
