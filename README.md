@@ -3,7 +3,11 @@
 My notes and views regarding the Data Science coursework by John Hopkins, using R language, in Coursera.
 Link to the course [here](https://www.coursera.org/specializations/jhu-data-science).
 
-## Content:
+## Purpose
+
+As a person who has bas
+
+## Content
 
 ### Data Scientist Tools
 1. [Data Science Fundamentals](https://github.com/cauabernardino/Data-Science-By-John-Hopkins/blob/master/01%20-%20Data%20Scientist%20Tools/Lesson%2001.md)
@@ -17,5 +21,6 @@ Link to the course [here](https://www.coursera.org/specializations/jhu-data-scie
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDUxNDI3OTQsNzg4NjkxNjg2XX0=
+eyJoaXN0b3J5IjpbMTYyODY3OTA1NCwtMTgwNTE0Mjc5NCw3OD
+g2OTE2ODZdfQ==
 -->
