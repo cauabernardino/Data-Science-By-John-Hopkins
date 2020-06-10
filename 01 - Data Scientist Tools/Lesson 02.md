@@ -70,7 +70,7 @@ version  # Check the information about the R version running
 sessionInfo() # Check the R version alongside all packages loaded in the session
 ```
 
-To know more about a package it is used the `help()` function, as below:
+To know more about a package it is used the `help()` function. It will open the associated help page (if using RStudio). Example:
 ```r
 help(package = "ggplot2")
 ```
@@ -78,7 +78,8 @@ help(package = "ggplot2")
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY2NTA4Mjc1LC0yMDMzODYyMjg0LC0yND
-g3MTA0ODIsOTM5MTY1ODE5LDE4ODIzNjU5NzgsMzUyMTI2NjQ1
-LC0yMTIzMTQwNjE2LC02NTMwNzMwMjksLTkzOTExNDg3NF19
+eyJoaXN0b3J5IjpbMTIxOTQxNjg1MCwtMjAzMzg2MjI4NCwtMj
+Q4NzEwNDgyLDkzOTE2NTgxOSwxODgyMzY1OTc4LDM1MjEyNjY0
+NSwtMjEyMzE0MDYxNiwtNjUzMDczMDI5LC05MzkxMTQ4NzRdfQ
+==
 -->
