@@ -29,29 +29,31 @@ Packages are collection of functions, data and code developed by the people in R
 
 ### Installing packages
 
-To install a package from CRAN repository is used `install.packages()`, with the name of the package in single or double quotes, between the parentheses. Also it is possible to install multiple packages using a character vector. Both examples below.
+To install a package from CRAN repository is used `install.packages()`, with the name of the package in single or double quotes, between the parentheses. Also it is possible to install multiple packages using a character vector. For last, is used `library()` to activate the package. Examples below.
 
 ```r
 install.packages("ggplot2")
 install.packages(c("ggplot2", "devtools", "lme4"))
+library(ggplot2)  # library() function does not need quotes
 ```
 To install a package from Bioconductor:
 ```r
-source("https://bioconductor.org/biocLite.R") # Get the function
-biocLite() # Function 
-biocLite("GenomicFeatures") # Example
+source("https://bioconductor.org/biocLite.R")  # Get the function
+biocLite()  # Function 
+biocLite("GenomicFeatures")  # Example
 ```
 To install a package from GitHub:
 ```r
 install.packages("devtools")
 library(devtools)
+install_github("author/package")
 ```
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTI0NDE4LC0yMDMzODYyMjg0LC0yND
+eyJoaXN0b3J5IjpbLTcyMzEzMTYzLC0yMDMzODYyMjg0LC0yND
 g3MTA0ODIsOTM5MTY1ODE5LDE4ODIzNjU5NzgsMzUyMTI2NjQ1
 LC0yMTIzMTQwNjE2LC02NTMwNzMwMjksLTkzOTExNDg3NF19
 -->
