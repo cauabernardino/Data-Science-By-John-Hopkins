@@ -31,13 +31,14 @@ Packages are collection of functions, data and code developed by the people in R
 
 To install a package from CRAN repository is used `install.packages()`, with the name of the package in single or double quotes, between the parentheses. Also it is possible to install multiple packages using a character vector. Both examples below.
 
-```R
-
+```r
+install.packages("ggplot2")
+install.packages(c("ggplot2", "devtools", "lme4"))
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTQ4MjE3MiwtMjQ4NzEwNDgyLDkzOT
-E2NTgxOSwxODgyMzY1OTc4LDM1MjEyNjY0NSwtMjEyMzE0MDYx
-NiwtNjUzMDczMDI5LC05MzkxMTQ4NzRdfQ==
+eyJoaXN0b3J5IjpbLTIwMzM4NjIyODQsLTI0ODcxMDQ4Miw5Mz
+kxNjU4MTksMTg4MjM2NTk3OCwzNTIxMjY2NDUsLTIxMjMxNDA2
+MTYsLTY1MzA3MzAyOSwtOTM5MTE0ODc0XX0=
 -->
