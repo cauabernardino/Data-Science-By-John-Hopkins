@@ -16,11 +16,11 @@ R is downloaded from the [Comprehensive R Archive Network](https://cran.r-projec
 There's a tutorial on the course, but there's plenty on the internet as well. I'll leave this recent Data Camp tutorial that is very complete and easy:
 [How to Install R on Windows, Mac OS X, and Ubuntu](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu)
 
-RStudio is one of the most popular GUI for R and it will be 
+RStudio is one of the most popular GUI for R and will be the one used here.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2ODE4OTkwNywzNTIxMjY2NDUsLTIxMj
+eyJoaXN0b3J5IjpbMTg4MjM2NTk3OCwzNTIxMjY2NDUsLTIxMj
 MxNDA2MTYsLTY1MzA3MzAyOSwtOTM5MTE0ODc0XX0=
 -->
