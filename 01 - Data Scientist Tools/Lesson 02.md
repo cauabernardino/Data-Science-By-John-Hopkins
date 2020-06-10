@@ -70,12 +70,15 @@ version  # Check the information about the R version running
 sessionInfo() # Check the R version alongside all packages loaded in the session
 ```
 
+To know more about a package it is used the `help()` function, as below:
+```r
+help(package = "ggplot2")
+```
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjc5NDcwNDAsLTIwMzM4NjIyODQsLT
-I0ODcxMDQ4Miw5MzkxNjU4MTksMTg4MjM2NTk3OCwzNTIxMjY2
-NDUsLTIxMjMxNDA2MTYsLTY1MzA3MzAyOSwtOTM5MTE0ODc0XX
-0=
+eyJoaXN0b3J5IjpbMjY2NTA4Mjc1LC0yMDMzODYyMjg0LC0yND
+g3MTA0ODIsOTM5MTY1ODE5LDE4ODIzNjU5NzgsMzUyMTI2NjQ1
+LC0yMTIzMTQwNjE2LC02NTMwNzMwMjksLTkzOTExNDg3NF19
 -->
