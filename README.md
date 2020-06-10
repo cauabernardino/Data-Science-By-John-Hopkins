@@ -5,7 +5,7 @@ Link to the course [here](https://www.coursera.org/specializations/jhu-data-scie
 
 ## Purpose
 
-As a person who has bas
+As a person who has very basic knowledge on data science concepts and R, I'll try to sumarize the most importante topics I'll find during the course, as well as other materials that I find relevant to it.
 
 ## Content
 
@@ -21,6 +21,6 @@ As a person who has bas
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyODY3OTA1NCwtMTgwNTE0Mjc5NCw3OD
+eyJoaXN0b3J5IjpbMTI1MzE4NzkzMCwtMTgwNTE0Mjc5NCw3OD
 g2OTE2ODZdfQ==
 -->
