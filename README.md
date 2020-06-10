@@ -11,7 +11,7 @@ There is no intention of replacing the course importance, just to be a notebook 
 
 ## Content
 
-### Data Scientist Tools
+- Data Scientist Tools
 1. [Data Science Fundamentals](https://github.com/cauabernardino/Data-Science-By-John-Hopkins/blob/master/01%20-%20Data%20Scientist%20Tools/Lesson%2001.md)
 2. [R Language](https://github.com/cauabernardino/Data-Science-By-John-Hopkins/blob/master/01%20-%20Data%20Scientist%20Tools/Lesson%2002.md)
 
@@ -23,6 +23,6 @@ There is no intention of replacing the course importance, just to be a notebook 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNjg2MDE4NSwxMzMwMzY2NDU0LC05Nj
+eyJoaXN0b3J5IjpbMTE5MTIzMTg2OSwxMzMwMzY2NDU0LC05Nj
 U1MjA4MTEsLTE4MDUxNDI3OTQsNzg4NjkxNjg2XX0=
 -->
