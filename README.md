@@ -1,4 +1,4 @@
-# Data Science by John Hopkings University
+# Data Science by John Hopkins University
 
 My notes and views regarding the Data Science coursework by John Hopkins, using R language.
 
@@ -16,5 +16,5 @@ My notes and views regarding the Data Science coursework by John Hopkins, using 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NTUyNjQxM119
+eyJoaXN0b3J5IjpbNzg4NjkxNjg2XX0=
 -->
