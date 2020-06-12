@@ -33,7 +33,11 @@ When we talk about version control systems, commits are at the heart of them. If
 
 > **Merge:**  Independent edits of the same file are incorporated into a single, unified file. Independent edits are identified by Git and are brought together into a single file, with both sets of edits incorporated. But, you can see a potential problem here - if both people made an edit to the same sentence that precludes one of the edits from being possible, we have a problem! Git recognizes this disparity (**conflict**) and asks for user assistance in picking which edit to keep.
 
+> **Clone:**  Making a copy of an existing Git repository. If you have just been brought on to a project that has been tracked with version control, you would  _clone_  the repository to get access to and create a local version of all of the repository’s files  _and all of the tracked changes._
+
+> **Fork:**  A personal copy of a repository that you have taken from another person. If somebody is working on a cool project and you want to play around with it, you can fork their repository and then when you make changes, the edits are logged on  _your_  repository, not theirs.
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDE2MjQ0MDIsLTYxMDY1MjE0NF19
+eyJoaXN0b3J5IjpbMTA0MTQ1NzU3MiwtNjEwNjUyMTQ0XX0=
 -->
