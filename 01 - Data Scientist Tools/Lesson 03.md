@@ -1,11 +1,10 @@
 
 # Version Control
 
-
-
+Version control is a system that records changes that are made to a file or a set of files over time.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE0ODU2MDM2XX0=
+eyJoaXN0b3J5IjpbLTE1NTA1MjYxOTRdfQ==
 -->
