@@ -48,11 +48,11 @@ To set the username and email, use the following in Git Bash:
 git config --global user.name "username"
 git config --global user.email your@email.com
 ```
-Making sure to use the same email as the GitHub account.
-
+Replace "username" for a desired one and make sure to use the same email as the GitHub account.
+You can check if everything
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4MTMzNTI0LDc1MTMzNTgxNCwxMDQxND
-U3NTcyLC02MTA2NTIxNDRdfQ==
+eyJoaXN0b3J5IjpbLTE3OTUyNTA3MDUsNzUxMzM1ODE0LDEwND
+E0NTc1NzIsLTYxMDY1MjE0NF19
 -->
