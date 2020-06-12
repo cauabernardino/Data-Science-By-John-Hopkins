@@ -52,10 +52,10 @@ Replace "username" for a desired one and make sure to use the same email as the 
 
 You can check if everything went well using `git config --list` and confirming your username and email are in the list.
 
-To set up the link between GitHub and RStudio, there is this very interesting manual called [Happy Git and GitHub for the useR](https://happygitwithr.com/)
+To set up the link between GitHub and RStudio, there is this very interesting manual called [Happy Git and GitHub for the useR](https://happygitwithr.com/), that has way more information than the course.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMjc2NjA2OSwxNDgzMjkxMzQyLDc1MT
+eyJoaXN0b3J5IjpbMjA1MjYyMzM5NSwxNDgzMjkxMzQyLDc1MT
 MzNTgxNCwxMDQxNDU3NTcyLC02MTA2NTIxNDRdfQ==
 -->
