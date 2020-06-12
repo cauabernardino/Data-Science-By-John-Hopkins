@@ -37,10 +37,10 @@ When we talk about version control systems, commits are at the heart of them. If
 
 > **Fork:**  A personal copy of a repository that you have taken from another person. If somebody is working on a cool project and you want to play around with it, you can fork their repository and then when you make changes, the edits are logged on  _your_  repository, not theirs.
 
-GI
+GitHub gives us this helpful [guide](https://guides.github.com/activities/hello-world/) to starters.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0OTMzMzA4NiwxMDQxNDU3NTcyLC02MT
-A2NTIxNDRdfQ==
+eyJoaXN0b3J5IjpbNzUxMzM1ODE0LDEwNDE0NTc1NzIsLTYxMD
+Y1MjE0NF19
 -->
