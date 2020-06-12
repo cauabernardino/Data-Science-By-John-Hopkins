@@ -49,11 +49,12 @@ git config --global user.name "username"
 git config --global user.email your@email.com
 ```
 Replace "username" for a desired one and make sure to use the same email as the GitHub account.
-You can check if everything went well using `git config --list` and confirming your username and email are in the bottom of the list.
+
+You can check if everything went well using `git config --list` and confirming your username and email are in the list.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1MzE1NzExLDc1MTMzNTgxNCwxMDQxND
-U3NTcyLC02MTA2NTIxNDRdfQ==
+eyJoaXN0b3J5IjpbMTQ4MzI5MTM0Miw3NTEzMzU4MTQsMTA0MT
+Q1NzU3MiwtNjEwNjUyMTQ0XX0=
 -->
