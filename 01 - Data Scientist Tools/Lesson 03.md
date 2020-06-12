@@ -40,13 +40,18 @@ When we talk about version control systems, commits are at the heart of them. If
 ## Setting up
 
 GitHub gives us this helpful [guide](https://guides.github.com/activities/hello-world/) to starters.
-
 Git can be downloaded from [here](https://git-scm.com/download) to be used locally.
+
+To set the username and email, use the following in Git Bash:
+
+```git
+git config --global user.name "Jane Doe"
+```
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODQ4MDY2MTQsNzUxMzM1ODE0LDEwND
-E0NTc1NzIsLTYxMDY1MjE0NF19
+eyJoaXN0b3J5IjpbOTMyMzc1MDEyLDc1MTMzNTgxNCwxMDQxND
+U3NTcyLC02MTA2NTIxNDRdfQ==
 -->
