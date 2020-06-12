@@ -39,12 +39,14 @@ When we talk about version control systems, commits are at the heart of them. If
 
 ## Setting up
 
-Git can be downloaded from [here](https://git-scm.com/download).
-
 GitHub gives us this helpful [guide](https://guides.github.com/activities/hello-world/) to starters.
+
+Git can be downloaded from [here](https://git-scm.com/download) to be used locally.
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MDc2ODU1NSw3NTEzMzU4MTQsMTA0MT
-Q1NzU3MiwtNjEwNjUyMTQ0XX0=
+eyJoaXN0b3J5IjpbLTE4ODQ4MDY2MTQsNzUxMzM1ODE0LDEwND
+E0NTc1NzIsLTYxMDY1MjE0NF19
 -->
