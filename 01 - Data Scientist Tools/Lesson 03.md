@@ -7,7 +7,9 @@ Version control is a system that records changes that are made to a file or a se
 
 This comic from [PHD Comics](http://phdcomics.com/comics/archive.php?comicid=1531) is what we want to avoid using version control.
 
+Also, the version control software keeps track of who, when, and why changes were made, which is very helpful when working in a team.
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjQ5MDI0MzJdfQ==
+eyJoaXN0b3J5IjpbMTA0NzIxNzY5OV19
 -->
