@@ -6,9 +6,9 @@ To use R Markdown, we nee to install it with `install.packages("rmarkdown")`. In
 
 To save the file and export to the desired output (PDF, HTML or Word), use the **Knit** command in the script area. If there is an error saying that LaTeX is misssing, install TinyTex with `tinytex::install_tinytex()` on the console to solve the problem.
 
-
+To see more information about it, check [here](https://rmarkdown.rstudio.com/).
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MzIwMzY1OCwtMTE3ODQwNDQzMV19
+eyJoaXN0b3J5IjpbLTU5MTI4MzU0MiwtMTE3ODQwNDQzMV19
 -->
