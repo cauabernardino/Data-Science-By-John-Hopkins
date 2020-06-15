@@ -51,11 +51,8 @@ Some useful tips to solve problems:
 4. Analyze the data by modeling
 5. Communicate to others
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MzEyNzYxLDc2NDM0ODA0Myw3NjQzND
-gwNDMsODA1ODYxNDExLC0xMzg2MTE0MzQ4LC04NDI0NDY0NDFd
-fQ==
+eyJoaXN0b3J5IjpbMTc1NDQ5NDg4MSwxNzkzMTI3NjEsNzY0Mz
+Q4MDQzLDc2NDM0ODA0Myw4MDU4NjE0MTEsLTEzODYxMTQzNDgs
+LTg0MjQ0NjQ0MV19
 -->
