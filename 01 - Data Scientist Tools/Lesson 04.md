@@ -8,7 +8,9 @@ To save the file and export to the desired output (PDF, HTML or Word), use the *
 
 To see more information about it, check [here](https://rmarkdown.rstudio.com/).
 
-> Written with [StackEdit](https://stackedit.io/).
+## Basic commands
+
+**B
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MTI4MzU0MiwtMTE3ODQwNDQzMV19
+eyJoaXN0b3J5IjpbOTEyODE3NTIsLTExNzg0MDQ0MzFdfQ==
 -->
