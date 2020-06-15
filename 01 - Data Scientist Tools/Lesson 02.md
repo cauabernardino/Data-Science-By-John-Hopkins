@@ -81,10 +81,9 @@ Creating a project is helpful to keep files organized, specially if working in m
 
 RStudio projects guide can be found [here](https://support.rstudio.com/hc/en-us/articles/200526207-Using-Projects).
 
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MjE4MTkwMCwtMTcyODQ0ODY0LDE2OD
-U2NjQyMjksLTIwMzM4NjIyODQsLTI0ODcxMDQ4Miw5MzkxNjU4
-MTksMTg4MjM2NTk3OCwzNTIxMjY2NDUsLTIxMjMxNDA2MTYsLT
-Y1MzA3MzAyOSwtOTM5MTE0ODc0XX0=
+eyJoaXN0b3J5IjpbMTg3MDQ4NjY3MiwxNzcyMTgxOTAwLC0xNz
+I4NDQ4NjQsMTY4NTY2NDIyOSwtMjAzMzg2MjI4NCwtMjQ4NzEw
+NDgyLDkzOTE2NTgxOSwxODgyMzY1OTc4LDM1MjEyNjY0NSwtMj
+EyMzE0MDYxNiwtNjUzMDczMDI5LC05MzkxMTQ4NzRdfQ==
 -->
