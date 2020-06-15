@@ -15,7 +15,7 @@ There is no intention of replacing the course importance, just to be a notebook 
 1. [Data Science Fundamentals](https://github.com/cauabernardino/Data-Science-By-John-Hopkins/blob/master/01%20-%20Data%20Scientist%20Tools/Lesson%2001.md)
 2. [R Language](https://github.com/cauabernardino/Data-Science-By-John-Hopkins/blob/master/01%20-%20Data%20Scientist%20Tools/Lesson%2002.md)
 3. [Version Control (Git and Github)](https://github.com/cauabernardino/Data-Science-By-John-Hopkins/blob/master/01%20-%20Data%20Scientist%20Tools/Lesson%2003.md)
-4. R Markdown
+4. [R Markdown](https://github.com/cauabernardino/Data-Science-By-John-Hopkins/blob/master/01%20-%20Data%20Scientist%20Tools/Lesson%2004.md)
 
 
 
@@ -23,7 +23,7 @@ There is no intention of replacing the course importance, just to be a notebook 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNTEwNzI2NiwtNzQ0MDAyMTU3LC04Mj
-Y4NjAxODUsMTMzMDM2NjQ1NCwtOTY1NTIwODExLC0xODA1MTQy
-Nzk0LDc4ODY5MTY4Nl19
+eyJoaXN0b3J5IjpbLTUxMzQxMzI0LC03NDQwMDIxNTcsLTgyNj
+g2MDE4NSwxMzMwMzY2NDU0LC05NjU1MjA4MTEsLTE4MDUxNDI3
+OTQsNzg4NjkxNjg2XX0=
 -->
