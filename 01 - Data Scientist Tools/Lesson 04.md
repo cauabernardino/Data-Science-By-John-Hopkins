@@ -10,7 +10,11 @@ To see more information about it, check [here](https://rmarkdown.rstudio.com/).
 
 ## Basic commands
 
-**B
+The basic formatting commands are as follows:
+
+*italic* - `*italic*`
+**bold** - `**bold**`
+# He
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEyODE3NTIsLTExNzg0MDQ0MzFdfQ==
+eyJoaXN0b3J5IjpbMjk4NDEzMzg2LC0xMTc4NDA0NDMxXX0=
 -->
