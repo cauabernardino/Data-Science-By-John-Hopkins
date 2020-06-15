@@ -54,8 +54,8 @@ You can check if everything went well using `git config --list` and confirming y
 
 To set up the link between GitHub and RStudio, there is this very interesting manual called [Happy Git and GitHub for the useR](https://happygitwithr.com/), that has way more information than the course.
 
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MjYyMzM5NSwxNDgzMjkxMzQyLDc1MT
-MzNTgxNCwxMDQxNDU3NTcyLC02MTA2NTIxNDRdfQ==
+eyJoaXN0b3J5IjpbLTE3MTAzMTg0MjUsMjA1MjYyMzM5NSwxND
+gzMjkxMzQyLDc1MTMzNTgxNCwxMDQxNDU3NTcyLC02MTA2NTIx
+NDRdfQ==
 -->
