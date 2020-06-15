@@ -14,7 +14,7 @@ The basic formatting commands are as follows:
 
 *italic* - `*italic*`
 **bold** - `**bold**`
-# He
+==marked== - `==marked==`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk4NDEzMzg2LC0xMTc4NDA0NDMxXX0=
+eyJoaXN0b3J5IjpbMjEyOTQ4MjUxNywtMTE3ODQwNDQzMV19
 -->
