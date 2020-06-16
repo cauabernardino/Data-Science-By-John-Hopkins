@@ -15,9 +15,12 @@ The basic formatting commands are as follows:
 *italic* - `*italic*`
 **bold** - `**bold**`
 ~~strikethrough~~ - `~~strikethrough~~`
+suH~2~O - `H~2~O`
+10^2^ - `10^2^`
+equation: $A = \pi*r^{2}$
 > quoted text - `> quoted text`
-H_2_O
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkzOTMxOTczLDIxMjk0ODI1MTcsLTExNz
-g0MDQ0MzFdfQ==
+eyJoaXN0b3J5IjpbLTExMTY5NTg0MSwyMTI5NDgyNTE3LC0xMT
+c4NDA0NDMxXX0=
 -->
