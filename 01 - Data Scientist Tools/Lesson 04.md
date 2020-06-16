@@ -23,10 +23,15 @@ equation: $A = \pi*r^{2}$ - `$A = \pi*r^{2}$`
 Headers:
 ```
 # Header level 1
-`## Header level 2` 
-`### Header level 3...`
+## Header level 2
+### Header level 3...
 ```
+unordered list: 
+- item - `- item`
+
+ordered list:
+1. item - `1. i
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NjA5MzM3NSwyMTI5NDgyNTE3LC0xMT
-c4NDA0NDMxXX0=
+eyJoaXN0b3J5IjpbMjM5NzQ3MDQwLDIxMjk0ODI1MTcsLTExNz
+g0MDQ0MzFdfQ==
 -->
