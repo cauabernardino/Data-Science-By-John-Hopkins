@@ -40,7 +40,8 @@ The goal is to use **current** and **historical** data to make **predictions** a
 
 - Accuracy in predictions is dependent on measuring the right variables
 - Many ways to build up prediction models with some being better or worse for specific cases
-	-  More data and a simple 
+-  More data and a simple model generally performs well at predicting future outcomes
+- ==Just because one variable may predict another, it does not mean that one causes the other==
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NTMzNDcyN119
+eyJoaXN0b3J5IjpbOTk0MjA0MTUxXX0=
 -->
