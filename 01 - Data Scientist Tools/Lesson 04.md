@@ -1,6 +1,7 @@
 # R Markdown
 
-R Markdown is a way of creating fully reproducible documents, in which both text and code can be combined. 
+R Markdown is a way of creating fully reproducible documents, in which both text and code can be combined.
+
 To use R Markdown, we nee to install it with `install.packages("rmarkdown")`. In RStudio it can be created going to File > New File > R Markdown.
 
 To save the file and export to the desired output (PDF, HTML or Word), use the **Knit** command in the script area. If there is an error saying that LaTeX is misssing, install TinyTex with `tinytex::install_tinytex()` on the console to solve the problem.
@@ -32,8 +33,8 @@ ordered list:
 1. item - `1. item`
 2. item - `2. item`
 
-P
+To know more, there is the [R Markdown Cheat Sheet](https://rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf) to help.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjcyNjI5MTUsMjEyOTQ4MjUxNywtMT
+eyJoaXN0b3J5IjpbLTExODYxNjEyODAsMjEyOTQ4MjUxNywtMT
 E3ODQwNDQzMV19
 -->
