@@ -55,6 +55,10 @@ The goal is to see what happens to one variable when we manipulate another varia
 
 The goal is to understand the **exact changes** in variables that lead to exact changes in other variables.
 
+- Applied to simples situations or those that are nicely modeled by deterministic equations
+- Commonly applied to physical or engineering sciences
+- Often, the only noise in the data is measurement error
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MzY1Mzk1MV19
+eyJoaXN0b3J5IjpbNjg1MDg3NDRdfQ==
 -->
