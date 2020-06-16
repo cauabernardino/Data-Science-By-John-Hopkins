@@ -50,6 +50,11 @@ The goal is to see what happens to one variable when we manipulate another varia
 - Gold standard in data analysis
 - Often applied to the results of randomized studies that were designed to identify causation
 - Usually analysed in aggregate and observed relationships are usually average effects
+
+##  Mechanistic analysis
+
+The goal is to understand the **exact changes** in variables that lead to exact changes in other variables.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjI1NjMzMjldfQ==
+eyJoaXN0b3J5IjpbLTU1MzY1Mzk1MV19
 -->
