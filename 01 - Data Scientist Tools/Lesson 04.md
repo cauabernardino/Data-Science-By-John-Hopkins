@@ -1,4 +1,4 @@
-# R Markdown
+# Lesson 04 - R Markdown
 
 R Markdown is a way of creating fully reproducible documents, in which both text and code can be combined.
 
@@ -37,6 +37,6 @@ To make an R code chunk, you can type the three backticks, followed by the curly
 
 To know more, there is the [R Markdown Cheat Sheet](https://rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf) to help.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTgxMjc1MDksLTExODYxNjEyODAsMj
-EyOTQ4MjUxNywtMTE3ODQwNDQzMV19
+eyJoaXN0b3J5IjpbLTI3OTA3MTE5NiwtMTU1ODEyNzUwOSwtMT
+E4NjE2MTI4MCwyMTI5NDgyNTE3LC0xMTc4NDA0NDMxXX0=
 -->
