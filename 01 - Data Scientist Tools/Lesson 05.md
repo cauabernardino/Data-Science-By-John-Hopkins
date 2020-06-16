@@ -20,7 +20,7 @@ The goal is to **describe** or **summarize** a set of data.
 
 ## Exploratory analysis
 
-The goal is to examine or explore the data and finde relationships that weren't previously known.
+The goal is to examine or **explore** the data and find **relationships** that weren't previously known.
 
 - Explore how different variables might be related (but do not confirm that relationship as causative)
 - ==Correlation does not imply causation==
@@ -29,10 +29,12 @@ The goal is to examine or explore the data and finde relationships that weren't 
 
 ## Inferential analysis
 
-The goal is to use
+The goal is to use a relatively **small sample** of data to **infer** or say something about the **population** at large.
 
+- Provide your estimate of the variable for the population and provide your uncertainty about your estimate
+- Ability to accurately infer information about the alrger p
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NTQ4ODk5MV19
+eyJoaXN0b3J5IjpbMTMyNTk4MDQwOV19
 -->
