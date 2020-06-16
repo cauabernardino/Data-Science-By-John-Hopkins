@@ -48,7 +48,8 @@ The goal is to use **current** and **historical** data to make **predictions** a
 The goal is to see what happens to one variable when we manipulate another variable
 
 - Gold standard in data analysis
-- - Often applied to the results of randomized studies that were designed to iden
+- Often applied to the results of randomized studies that were designed to identify causation
+- Usually analysed in aggregate and observed relationships are usually average effects
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3OTMyMjMwMF19
+eyJoaXN0b3J5IjpbLTIwMjI1NjMzMjldfQ==
 -->
