@@ -33,10 +33,10 @@ ordered list:
 1. item - `1. item`
 2. item - `2. item`
 
-To make an R code chunk, you can type the three backticks, followed by the curly brackets surrounding a lower case R, put your code on a new line and end the chunk with three more backticks (ch
+To make an R code chunk, you can type the three backticks, followed by the curly brackets surrounding a lower case R, put your code on a new line and end the chunk with three more backticks (check the standard file when you create a new R Markdown in RStudio).
 
 To know more, there is the [R Markdown Cheat Sheet](https://rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf) to help.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQ1MzE3OSwtMTE4NjE2MTI4MCwyMT
-I5NDgyNTE3LC0xMTc4NDA0NDMxXX0=
+eyJoaXN0b3J5IjpbLTE1NTgxMjc1MDksLTExODYxNjEyODAsMj
+EyOTQ4MjUxNywtMTE3ODQwNDQzMV19
 -->
