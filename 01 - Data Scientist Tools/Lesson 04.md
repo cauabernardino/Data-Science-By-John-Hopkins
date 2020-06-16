@@ -33,8 +33,9 @@ ordered list:
 1. item - `1. item`
 2. item - `2. item`
 
+To insert the R code that will be running inside, it is used the code chunks like, using ``
 To know more, there is the [R Markdown Cheat Sheet](https://rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf) to help.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODYxNjEyODAsMjEyOTQ4MjUxNywtMT
-E3ODQwNDQzMV19
+eyJoaXN0b3J5IjpbNzM3OTIzOTM0LC0xMTg2MTYxMjgwLDIxMj
+k0ODI1MTcsLTExNzg0MDQ0MzFdfQ==
 -->
