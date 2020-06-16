@@ -18,9 +18,11 @@ The goal is to **describe** or **summarize** a set of data.
 	- Eg: measures of central tendency or measures of variability
 - NOT for generalizing the results of the analysis to larger population or trying to make conclusions
 
+## Explor
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MzExMzk5NV19
+eyJoaXN0b3J5IjpbODkwOTM0MjQ3XX0=
 -->
