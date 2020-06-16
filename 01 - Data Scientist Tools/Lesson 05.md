@@ -22,11 +22,14 @@ The goal is to **describe** or **summarize** a set of data.
 
 The goal is to examine or explore the data and finde relationships that weren't previously known.
 
-- Explore how different variables might be rela
+- Explore how different variables might be related (but do not confirm that relationship as causative)
+- ==Correlation does not imply causation==
+- Useful for discovering new connections
+- Help to formulate hypotheses and drive th
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU4MTEzMzNdfQ==
+eyJoaXN0b3J5IjpbLTE0NDU1MzQ4MzJdfQ==
 -->
