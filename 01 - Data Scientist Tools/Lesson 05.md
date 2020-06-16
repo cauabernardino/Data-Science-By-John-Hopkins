@@ -32,9 +32,10 @@ The goal is to examine or **explore** the data and find **relationships** that w
 The goal is to use a relatively **small sample** of data to **infer** or say something about the **population** at large.
 
 - Provide your estimate of the variable for the population and provide your uncertainty about your estimate
-- Ability to accurately infer information about the alrger p
+- Ability to accurately infer information about the larger population depends heavily on sampling scheme
 
-> Written with [StackEdit](https://stackedit.io/).
+##  Predictive analysis
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTk4MDQwOV19
+eyJoaXN0b3J5IjpbMTgzMDkxMDc3N119
 -->
