@@ -25,11 +25,14 @@ The goal is to examine or explore the data and finde relationships that weren't 
 - Explore how different variables might be related (but do not confirm that relationship as causative)
 - ==Correlation does not imply causation==
 - Useful for discovering new connections
-- Help to formulate hypotheses and drive th
+- Help to formulate hypotheses and drive the design of future studies and data collections
 
+## Inferential analysis
+
+The goal is to use
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDU1MzQ4MzJdfQ==
+eyJoaXN0b3J5IjpbMTU4NTQ4ODk5MV19
 -->
