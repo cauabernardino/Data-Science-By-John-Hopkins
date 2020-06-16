@@ -15,12 +15,18 @@ The basic formatting commands are as follows:
 *italic* - `*italic*`
 **bold** - `**bold**`
 ~~strikethrough~~ - `~~strikethrough~~`
-suH~2~O - `H~2~O`
-10^2^ - `10^2^`
-equation: $A = \pi*r^{2}$
+subscript: H~2~O - `H~2~O`
+superscript: 10^2^ - `10^2^`
+equation: $A = \pi*r^{2}$ - `$A = \pi*r^{2}$`
 > quoted text - `> quoted text`
 
+Headers:
+```
+# Header level 1
+`## Header level 2` 
+`### Header level 3...`
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTY5NTg0MSwyMTI5NDgyNTE3LC0xMT
+eyJoaXN0b3J5IjpbMTg4NjA5MzM3NSwyMTI5NDgyNTE3LC0xMT
 c4NDA0NDMxXX0=
 -->
