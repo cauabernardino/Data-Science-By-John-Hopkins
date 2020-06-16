@@ -42,6 +42,13 @@ The goal is to use **current** and **historical** data to make **predictions** a
 - Many ways to build up prediction models with some being better or worse for specific cases
 -  More data and a simple model generally performs well at predicting future outcomes
 - ==Just because one variable may predict another, it does not mean that one causes the other==
+
+##  Causal analysis
+
+The goal is to see what happens to one variable when we manipulate another variable
+
+- Gold standard in data analysis
+- - Often applied to the results of randomized studies that were designed to iden
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk0MjA0MTUxXX0=
+eyJoaXN0b3J5IjpbLTk3OTMyMjMwMF19
 -->
