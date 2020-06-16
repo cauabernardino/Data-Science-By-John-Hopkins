@@ -18,11 +18,15 @@ The goal is to **describe** or **summarize** a set of data.
 	- Eg: measures of central tendency or measures of variability
 - NOT for generalizing the results of the analysis to larger population or trying to make conclusions
 
-## Explor
+## Exploratory analysis
+
+The goal is to examine or explore the data and finde relationships that weren't previously known.
+
+- Explore how different variables might be rela
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkwOTM0MjQ3XX0=
+eyJoaXN0b3J5IjpbNjU4MTEzMzNdfQ==
 -->
