@@ -14,7 +14,10 @@ The basic formatting commands are as follows:
 
 *italic* - `*italic*`
 **bold** - `**bold**`
-==marked== - `==marked==`
+~~strikethrough~~ - `~~strikethrough~~`
+> quoted text - `> quoted text`
+H_2_O
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyOTQ4MjUxNywtMTE3ODQwNDQzMV19
+eyJoaXN0b3J5IjpbMjkzOTMxOTczLDIxMjk0ODI1MTcsLTExNz
+g0MDQ0MzFdfQ==
 -->
