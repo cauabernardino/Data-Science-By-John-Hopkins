@@ -36,6 +36,11 @@ The goal is to use a relatively **small sample** of data to **infer** or say som
 
 ##  Predictive analysis
 
+The goal is to use **current** and **historical** data to make **predictions** about **future** data.
+
+- Accuracy in predictions is dependent on measuring the right variables
+- Many ways to build up prediction models with some being better or worse for specific cases
+	-  More data and a simple 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMDkxMDc3N119
+eyJoaXN0b3J5IjpbMTk3NTMzNDcyN119
 -->
