@@ -7,7 +7,7 @@ From the course definition:
 
 ## Principles of experimental design
 
-**Independent variable (or factor)**: The variable that can be manipulated ; it does not depend on other variables being measured. Often displayed on the x-axis.
+**Independent variable (or factor)**: A variable that can be manipulated; it does not depend on other variables being measured. Often displayed on the x-axis.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDU3NjQzNjYsLTUyODYzNTAwMl19
+eyJoaXN0b3J5IjpbLTMyNDI1MjY5NCwtNTI4NjM1MDAyXX0=
 -->
