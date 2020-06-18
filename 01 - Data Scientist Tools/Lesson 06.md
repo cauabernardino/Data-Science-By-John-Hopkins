@@ -11,6 +11,8 @@ From the course definition:
 
 **Dependent variable**: The variable that is expected to change as a result of changes in the independent variable. Often displayed on the y-axis.
 
+**Hypothesis**: Essentially a guess of the relationship between the variables and the outcome of your experiment.
+
 **Confounder**: An extraneous variable that may affect the relationship between the dependent and independent variables.
 
 **Control group**: A group of experimental subjects that have controlled characteristics and are _not_ manipulated.
@@ -20,12 +22,11 @@ From the course definition:
 **Replication**: Repeating an experiment with different experimental subjects.
 
 
-When you are designing an experiment, you have to decide which variables will be measured, and which will manipulated.  Additionally, it must be developed a **hypothesis**, essentially a guess of the relationship between the variables and the outcome of your experiment.
 
-Al
+Also, the best practices ask for sharing the data or code for anal
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDI0ODUwOTgsNTI2Mjc4MzczLC0zMj
-QyNTI2OTQsLTUyODYzNTAwMl19
+eyJoaXN0b3J5IjpbMTU5NzAwOTAzOSw1MjYyNzgzNzMsLTMyND
+I1MjY5NCwtNTI4NjM1MDAyXX0=
 -->
