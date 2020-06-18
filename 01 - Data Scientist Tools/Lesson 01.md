@@ -34,7 +34,7 @@ From the course:
 > What is considered “data” has evolved, so that there is now more than ever - companies have recognized the benefits to collecting different sorts of information, and the rise of the internet and technology have allowed different and varied data sets to be more easily collected and available for analysis. One of the main shifts in data science has been moving from structured data sets to tackling unstructured data.
 
 **Structured data**: What traditionally is thought of data; long tables, spreadsheets, or databases.
-**Unstructured data**:
+**Unstructured data**: Literally almost anything a computer can record, store and analyse. Eg: text files, sensors, images, audios, videos, etc.
 
 ## Getting help
 
@@ -59,7 +59,7 @@ Some useful tips to solve problems:
 5. Communicate to others
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODg1MTE5MTgsOTIwMzE0OTA3LDE3OT
-MxMjc2MSw3NjQzNDgwNDMsNzY0MzQ4MDQzLDgwNTg2MTQxMSwt
-MTM4NjExNDM0OCwtODQyNDQ2NDQxXX0=
+eyJoaXN0b3J5IjpbLTg3NTQ3MjA3Niw5MjAzMTQ5MDcsMTc5Mz
+EyNzYxLDc2NDM0ODA0Myw3NjQzNDgwNDMsODA1ODYxNDExLC0x
+Mzg2MTE0MzQ4LC04NDI0NDY0NDFdfQ==
 -->
