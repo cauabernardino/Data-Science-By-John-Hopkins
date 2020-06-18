@@ -15,10 +15,12 @@ From the course definition:
 
 **Control group**: A group of experimental subjects that have controlled characteristics and are _not_ manipulated.
 
+**Randomization**:
+
 When you are designing an experiment, you have to decide which variables will be measured, and which will manipulated.  Additionally, it must be developed a **hypothesis**, essentially a guess of the relationship between the variables and the outcome of your experiment.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MjYwMzEyNywtMzI0MjUyNjk0LC01Mj
-g2MzUwMDJdfQ==
+eyJoaXN0b3J5IjpbLTE5MTQ4NTkwMTQsLTMyNDI1MjY5NCwtNT
+I4NjM1MDAyXX0=
 -->
