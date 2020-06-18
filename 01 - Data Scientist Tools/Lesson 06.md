@@ -12,7 +12,9 @@ From the course definition:
 **Dependent variable**: The variable that is expected to change as a result of changes in the independent variable. Often displayed on the y-axis.
 
 So when you are designing an experiment, you have to decide which variables will be measured, and which will manipulated.  Additionally, it must be developed a **hypothesis**, essentially a guess of the relationship between the variables and the outcome of your experiment.
+
+**Confounder:** An extraneous variable that may affect the relationship between the dependent and independent variables.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc0MTI1MzAsLTMyNDI1MjY5NCwtNTI4Nj
-M1MDAyXX0=
+eyJoaXN0b3J5IjpbMTcyMzU4NTA2NCwtMzI0MjUyNjk0LC01Mj
+g2MzUwMDJdfQ==
 -->
