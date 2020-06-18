@@ -24,7 +24,7 @@ From Wikipedia:
 
 ## Big data 
 
-Big data involves large data sets of diverse data types that are being generated very rapidly. 
+Big data involves large data sets of diverse data types that are being generated very rapidly. SUm
 
 + Volume
 + Velocity
@@ -53,7 +53,7 @@ Some useful tips to solve problems:
 5. Communicate to others
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIwMzE0OTA3LDE3OTMxMjc2MSw3NjQzND
-gwNDMsNzY0MzQ4MDQzLDgwNTg2MTQxMSwtMTM4NjExNDM0OCwt
-ODQyNDQ2NDQxXX0=
+eyJoaXN0b3J5IjpbLTE2MDI2MDg0Niw5MjAzMTQ5MDcsMTc5Mz
+EyNzYxLDc2NDM0ODA0Myw3NjQzNDgwNDMsODA1ODYxNDExLC0x
+Mzg2MTE0MzQ4LC04NDI0NDY0NDFdfQ==
 -->
