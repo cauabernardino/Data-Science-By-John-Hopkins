@@ -11,8 +11,8 @@ From the course definition:
 
 **Dependent variable**: The variable that is expected to change as a result of changes in the independent variable. Often displayed on the y-axis.
 
-So when you are designing an experiment, you have to decide what variables will be measured, and which you will manipulate to effect changes in other measured variables. Additionally, you must develop your **hypothesis**, essentially an educated guess as to the relationship between your variables and the outcome of your experiment.
+So when you are designing an experiment, you have to decide which variables will be measured, and which will manipulated.  Additionally, it must be developed a **hypothesis**, essentially a guess of the relationship between the variables and the outcome of your experiment.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMjQ2ODcyNCwtMzI0MjUyNjk0LC01Mj
-g2MzUwMDJdfQ==
+eyJoaXN0b3J5IjpbOTc0MTI1MzAsLTMyNDI1MjY5NCwtNTI4Nj
+M1MDAyXX0=
 -->
