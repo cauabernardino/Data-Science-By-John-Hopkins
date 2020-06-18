@@ -22,8 +22,10 @@ From the course definition:
 
 When you are designing an experiment, you have to decide which variables will be measured, and which will manipulated.  Additionally, it must be developed a **hypothesis**, essentially a guess of the relationship between the variables and the outcome of your experiment.
 
+Al
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI2Mjc4MzczLC0zMjQyNTI2OTQsLTUyOD
-YzNTAwMl19
+eyJoaXN0b3J5IjpbLTE2MDI0ODUwOTgsNTI2Mjc4MzczLC0zMj
+QyNTI2OTQsLTUyODYzNTAwMl19
 -->
