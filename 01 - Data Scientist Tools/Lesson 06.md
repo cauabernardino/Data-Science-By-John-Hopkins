@@ -13,12 +13,12 @@ From the course definition:
 
 **Confounder**: An extraneous variable that may affect the relationship between the dependent and independent variables.
 
-**Control group**: A group of experimental subjects that are _not_ manipulated.
+**Control group**: A group of experimental subjects that have controlled characteristics and are _not_ manipulated.
 
 When you are designing an experiment, you have to decide which variables will be measured, and which will manipulated.  Additionally, it must be developed a **hypothesis**, essentially a guess of the relationship between the variables and the outcome of your experiment.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDkxMjU3OCwtMzI0MjUyNjk0LC01Mj
+eyJoaXN0b3J5IjpbMTg3MjYwMzEyNywtMzI0MjUyNjk0LC01Mj
 g2MzUwMDJdfQ==
 -->
