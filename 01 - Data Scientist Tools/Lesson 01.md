@@ -24,11 +24,16 @@ From Wikipedia:
 
 ## Big data 
 
-Big data involves large data sets of diverse data types that are being generated very rapidly. SUm
+Big data involves large data sets of diverse data types that are being generated very rapidly. 
 
 + Volume
 + Velocity
 + Variety
+
+From the course:
+> What is considered “data” has evolved, so that there is now more than ever - companies have recognized the benefits to collecting different sorts of information, and the rise of the internet and technology have allowed different and varied data sets to be more easily collected and available for analysis. One of the main shifts in data science has been moving from structured data sets to tackling unstructured data.
+
+**Structured data**: What is traditionally might think of data; long tables, spreadsheets, or databases with columns and rows of information that you can sum or average or analyse however you like within those confines.
 
 ## Getting help
 
@@ -53,7 +58,7 @@ Some useful tips to solve problems:
 5. Communicate to others
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDI2MDg0Niw5MjAzMTQ5MDcsMTc5Mz
-EyNzYxLDc2NDM0ODA0Myw3NjQzNDgwNDMsODA1ODYxNDExLC0x
-Mzg2MTE0MzQ4LC04NDI0NDY0NDFdfQ==
+eyJoaXN0b3J5IjpbNTY4MjcxMTQ2LDkyMDMxNDkwNywxNzkzMT
+I3NjEsNzY0MzQ4MDQzLDc2NDM0ODA0Myw4MDU4NjE0MTEsLTEz
+ODYxMTQzNDgsLTg0MjQ0NjQ0MV19
 -->
