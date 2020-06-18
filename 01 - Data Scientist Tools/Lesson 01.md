@@ -2,12 +2,6 @@
 
 Data science means using data to answer questions!
 
-Big data involves:
-+ Volume
-+ Velocity
-+ Variety
-
-
 **A data scientist uses data to answer questions!**
 
 A good data scientist asks questions first and seeks out relevant data second.
@@ -51,8 +45,15 @@ Some useful tips to solve problems:
 4. Analyze the data by modeling
 5. Communicate to others
 
+## Big data 
+
+Big data involves large data sets of diverse data types that are being generated very rapidly.
++ Volume
++ Velocity
++ Variety
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NDQ5NDg4MSwxNzkzMTI3NjEsNzY0Mz
-Q4MDQzLDc2NDM0ODA0Myw4MDU4NjE0MTEsLTEzODYxMTQzNDgs
-LTg0MjQ0NjQ0MV19
+eyJoaXN0b3J5IjpbLTE1NTk0NjY2MjMsMTc5MzEyNzYxLDc2ND
+M0ODA0Myw3NjQzNDgwNDMsODA1ODYxNDExLC0xMzg2MTE0MzQ4
+LC04NDI0NDY0NDFdfQ==
 -->
