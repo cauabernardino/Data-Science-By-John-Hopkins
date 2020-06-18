@@ -17,10 +17,13 @@ From the course definition:
 
 **Randomization**: Used as a tool to balance the effects of confounders when you don't know who they are. It helps lessen the risk of biasing a control group, for example.
 
+**Replication**: Repeating an experiment with different experimental subjects.
+
+
 When you are designing an experiment, you have to decide which variables will be measured, and which will manipulated.  Additionally, it must be developed a **hypothesis**, essentially a guess of the relationship between the variables and the outcome of your experiment.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxOTU0NDk0NCwtMzI0MjUyNjk0LC01Mj
-g2MzUwMDJdfQ==
+eyJoaXN0b3J5IjpbNTI2Mjc4MzczLC0zMjQyNTI2OTQsLTUyOD
+YzNTAwMl19
 -->
