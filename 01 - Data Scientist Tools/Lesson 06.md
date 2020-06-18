@@ -9,8 +9,10 @@ From the course definition:
 
 **Independent variable (or factor)**: A variable that can be manipulated; it does not depend on other variables being measured. Often displayed on the x-axis.
 
-**Dependent variable:** The variable that is expected to change as a result of changes in the independent variable. Often displayed on the y-axis, so that changes in X, the independent variable, effect changes in Y.
+**Dependent variable**: The variable that is expected to change as a result of changes in the independent variable. Often displayed on the y-axis.
+
+So when you are designing an experiment, you have to decide what variables will be measured, and which you will manipulate to effect changes in other measured variables. Additionally, you must develop your **hypothesis**, essentially an educated guess as to the relationship between your variables and the outcome of your experiment.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNzczNDMxNiwtMzI0MjUyNjk0LC01Mj
+eyJoaXN0b3J5IjpbMTYyMjQ2ODcyNCwtMzI0MjUyNjk0LC01Mj
 g2MzUwMDJdfQ==
 -->
