@@ -21,12 +21,9 @@ From the course definition:
 
 **Replication**: Repeating an experiment with different experimental subjects.
 
-
-
-Also, the best practices ask for sharing the data or code for anal
-
+Also, the best practices ask for sharing the data or code for analysis by others. This [guide](https://github.com/jtleek/datasharing) by Jeff Leek is a good start for knowing how to prepare your data for use and share.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NzAwOTAzOSw1MjYyNzgzNzMsLTMyND
-I1MjY5NCwtNTI4NjM1MDAyXX0=
+eyJoaXN0b3J5IjpbOTc5Njg2NjQ2LDUyNjI3ODM3MywtMzI0Mj
+UyNjk0LC01Mjg2MzUwMDJdfQ==
 -->
