@@ -15,12 +15,12 @@ From the course definition:
 
 **Control group**: A group of experimental subjects that have controlled characteristics and are _not_ manipulated.
 
-**Randomization**:
+**Randomization**: Used as a tool to balance the effects of confounders when you don't know who they are. It helps lessen the risk of biasing oneo
 
 When you are designing an experiment, you have to decide which variables will be measured, and which will manipulated.  Additionally, it must be developed a **hypothesis**, essentially a guess of the relationship between the variables and the outcome of your experiment.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTQ4NTkwMTQsLTMyNDI1MjY5NCwtNT
-I4NjM1MDAyXX0=
+eyJoaXN0b3J5IjpbNDAzNjc5MTM1LC0zMjQyNTI2OTQsLTUyOD
+YzNTAwMl19
 -->
