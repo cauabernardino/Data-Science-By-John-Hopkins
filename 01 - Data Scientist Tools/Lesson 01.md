@@ -22,6 +22,13 @@ From Wikipedia:
 **Qualitative variable**: Measurements or information about qualities
 **Quantitative variable** Measurements or information about quantities or numerical items
 
+## Big data 
+
+Big data involves large data sets of diverse data types that are being generated very rapidly. 
+
++ Volume
++ Velocity
++ Variety
 
 ## Getting help
 
@@ -45,15 +52,8 @@ Some useful tips to solve problems:
 4. Analyze the data by modeling
 5. Communicate to others
 
-## Big data 
-
-Big data involves large data sets of diverse data types that are being generated very rapidly.
-+ Volume
-+ Velocity
-+ Variety
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTk0NjY2MjMsMTc5MzEyNzYxLDc2ND
-M0ODA0Myw3NjQzNDgwNDMsODA1ODYxNDExLC0xMzg2MTE0MzQ4
-LC04NDI0NDY0NDFdfQ==
+eyJoaXN0b3J5IjpbOTIwMzE0OTA3LDE3OTMxMjc2MSw3NjQzND
+gwNDMsNzY0MzQ4MDQzLDgwNTg2MTQxMSwtMTM4NjExNDM0OCwt
+ODQyNDQ2NDQxXX0=
 -->
