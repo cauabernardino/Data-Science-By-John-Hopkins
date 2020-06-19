@@ -20,12 +20,14 @@ There is no intention of replacing the course importance, just to be a notebook 
 6. [Experimental Design](https://github.com/cauabernardino/Data-Science-By-John-Hopkins/blob/master/01%20-%20Data%20Scientist%20Tools/Lesson%2006.md)
 
 
+### R Programming
+
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDMzMDI0NywtNzQ0MDAyMTU3LC04Mj
-Y4NjAxODUsMTMzMDM2NjQ1NCwtOTY1NTIwODExLC0xODA1MTQy
-Nzk0LDc4ODY5MTY4Nl19
+eyJoaXN0b3J5IjpbLTUzNTQ1NDU5OSwtMjE0MzMwMjQ3LC03ND
+QwMDIxNTcsLTgyNjg2MDE4NSwxMzMwMzY2NDU0LC05NjU1MjA4
+MTEsLTE4MDUxNDI3OTQsNzg4NjkxNjg2XX0=
 -->
