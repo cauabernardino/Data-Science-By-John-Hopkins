@@ -16,6 +16,11 @@ From the lecture notes:
 >- Graphics capabilities very sophisticated and better than most stat packages. 
 >- Useful for interactive work, but contains a powerful programming language for developing new tools (user -> programmer) 
 >- Very active and vibrant user community; R-help and R-devel mailing lists and Stack Overflow
+
+## Design of the R System
+
+The R system is 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTY3OTAxNCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTIwMDI1Mjk5NywtMTc5Njc5MDE0LDczMD
+k5ODExNl19
 -->
