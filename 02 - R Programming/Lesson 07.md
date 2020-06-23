@@ -19,8 +19,13 @@ From the lecture notes:
 
 ## Design of the R System
 
-The R system is 
+The R system is basicly dived into 2 conceptual parts: the "base" R and everything else.
+
+R functionality is divided into a number of packages.
+>- The “base” R system contains, among other things, the base package which is required to run R and contains the most fundamental functions. 
+> -The other packages contained in the “base” system include *utils*, *stats*, *datasets*, graphics, grDevices, grid, methods, tools, parallel, compiler, splines, tcltk, stats4. 
+> - There are also “Recommend” packages: boot, class, cluster, codetools, foreign, KernSmooth, lattice, mgcv, nlme, rpart, survival, MASS, spatial, nnet, Matrix.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDI1Mjk5NywtMTc5Njc5MDE0LDczMD
+eyJoaXN0b3J5IjpbMTg3ODI2OTgwNSwtMTc5Njc5MDE0LDczMD
 k5ODExNl19
 -->
