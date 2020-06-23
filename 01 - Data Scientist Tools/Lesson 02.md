@@ -1,4 +1,4 @@
-# Lesson 02 - R Language
+# R Language
 
 R is both a programming language and an environment, focused mainly on statistical analysis and graphics.
 
@@ -82,8 +82,9 @@ Creating a project is helpful to keep files organized, specially if working in m
 RStudio projects guide can be found [here](https://support.rstudio.com/hc/en-us/articles/200526207-Using-Projects).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MDQ4NjY3MiwxNzcyMTgxOTAwLC0xNz
-I4NDQ4NjQsMTY4NTY2NDIyOSwtMjAzMzg2MjI4NCwtMjQ4NzEw
-NDgyLDkzOTE2NTgxOSwxODgyMzY1OTc4LDM1MjEyNjY0NSwtMj
-EyMzE0MDYxNiwtNjUzMDczMDI5LC05MzkxMTQ4NzRdfQ==
+eyJoaXN0b3J5IjpbLTQyODk4NjQ5LDE4NzA0ODY2NzIsMTc3Mj
+E4MTkwMCwtMTcyODQ0ODY0LDE2ODU2NjQyMjksLTIwMzM4NjIy
+ODQsLTI0ODcxMDQ4Miw5MzkxNjU4MTksMTg4MjM2NTk3OCwzNT
+IxMjY2NDUsLTIxMjMxNDA2MTYsLTY1MzA3MzAyOSwtOTM5MTE0
+ODc0XX0=
 -->
