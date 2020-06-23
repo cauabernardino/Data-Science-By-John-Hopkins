@@ -8,7 +8,11 @@ R was created in 1991, in New Zealand by Ross Ihaka and Robert Gentleman. Their 
 ## Features of R
 
 From the lecture notes:
-
+> - Syntax is very similar to S, making it easy for S-PLUS users to switch over. 
+>- Semantics are superficially similar to S, but in reality are quite different (more on that later). 
+>- Runs on almost any standard computing platform/OS (even on the PlayStation 3) 
+>- Frequent releases (annual + bugfix releases); active development. 
+>Syntax is very similar to S, making it easy for S-PLUS users to switch over. Semantics are superficially similar to S, but in reality are quite different (more on that later). Runs on almost any standard computing platform/OS (even on the PlayStation 3) Frequent releases (annual + bugfix releases); active development. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjI4MTg0MjEsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE3ODQxMTk0NTcsNzMwOTk4MTE2XX0=
 -->
