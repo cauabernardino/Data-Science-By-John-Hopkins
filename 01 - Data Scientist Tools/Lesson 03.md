@@ -1,5 +1,5 @@
 
-# Lesson 03 - Version Control
+# Version Control
 
 Version control is a system that records changes that are made to a file or a set of files over time. The most used version contro system is [Git](https://git-scm.com/).
 
@@ -55,7 +55,7 @@ You can check if everything went well using `git config --list` and confirming y
 To set up the link between GitHub and RStudio, there is this very interesting manual called [Happy Git and GitHub for the useR](https://happygitwithr.com/), that has way more information than the course.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTUwNjI3MzcsMjA1MjYyMzM5NSwxND
+eyJoaXN0b3J5IjpbLTE3MTAzMTg0MjUsMjA1MjYyMzM5NSwxND
 gzMjkxMzQyLDc1MTMzNTgxNCwxMDQxNDU3NTcyLC02MTA2NTIx
 NDRdfQ==
 -->
