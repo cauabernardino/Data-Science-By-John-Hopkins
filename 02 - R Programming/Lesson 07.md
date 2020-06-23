@@ -12,7 +12,10 @@ From the lecture notes:
 >- Semantics are superficially similar to S, but in reality are quite different (more on that later). 
 >- Runs on almost any standard computing platform/OS (even on the PlayStation 3) 
 >- Frequent releases (annual + bugfix releases); active development. 
->Syntax is very similar to S, making it easy for S-PLUS users to switch over. Semantics are superficially similar to S, but in reality are quite different (more on that later). Runs on almost any standard computing platform/OS (even on the PlayStation 3) Frequent releases (annual + bugfix releases); active development. 
+>- Quite lean, as far as software goes; functionality is divided into modular packages 
+>- Graphics capabilities very sophisticated and better than most stat packages. 
+>- Useful for interactive work, but contains a powerful programming language for developing new tools (user -> programmer) 
+>- Very active and vibrant user community; R-help and R-devel mailing lists and Stack Overflow
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODQxMTk0NTcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE3OTY3OTAxNCw3MzA5OTgxMTZdfQ==
 -->
