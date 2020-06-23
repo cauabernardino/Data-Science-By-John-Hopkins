@@ -1,4 +1,4 @@
-# Lesson 05 - Types of data science questions
+# Types of data science questions
 
 There are, broadly speaking, six categories in which data analyses fall. In the approximate order of difficulty, they are:
 
@@ -60,5 +60,5 @@ The goal is to understand the **exact changes** in variables that lead to exact 
 - Often, the only noise in the data is measurement error
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzU1OTcwXX0=
+eyJoaXN0b3J5IjpbNjg1MDg3NDQsMTEzNzU1OTcwXX0=
 -->
