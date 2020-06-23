@@ -1,4 +1,4 @@
-# Lesson 01 - What is data science?
+# What is data science?
 
 Data science means using data to answer questions!
 
@@ -59,7 +59,7 @@ Some useful tips to solve problems:
 5. Communicate to others
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTQ3MjA3Niw5MjAzMTQ5MDcsMTc5Mz
-EyNzYxLDc2NDM0ODA0Myw3NjQzNDgwNDMsODA1ODYxNDExLC0x
-Mzg2MTE0MzQ4LC04NDI0NDY0NDFdfQ==
+eyJoaXN0b3J5IjpbLTIwNjgzMzk5OTAsLTg3NTQ3MjA3Niw5Mj
+AzMTQ5MDcsMTc5MzEyNzYxLDc2NDM0ODA0Myw3NjQzNDgwNDMs
+ODA1ODYxNDExLC0xMzg2MTE0MzQ4LC04NDI0NDY0NDFdfQ==
 -->
