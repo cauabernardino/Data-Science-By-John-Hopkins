@@ -19,15 +19,17 @@ There is no intention of replacing the course importance, just to be a notebook 
 5. [Types of data science questions](https://github.com/cauabernardino/Data-Science-By-John-Hopkins/blob/master/01%20-%20Data%20Scientist%20Tools/Lesson%2005.md)
 6. [Experimental Design](https://github.com/cauabernardino/Data-Science-By-John-Hopkins/blob/master/01%20-%20Data%20Scientist%20Tools/Lesson%2006.md)
 
-
 ### R Programming
+
+7. [Overview and History of R](https://github.com/cauabernardino/Data-Science-By-John-Hopkins/blob/master/02%20-%20R%20Programming/Lesson%2007.md)
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNTQ1NDU5OSwtMjE0MzMwMjQ3LC03ND
-QwMDIxNTcsLTgyNjg2MDE4NSwxMzMwMzY2NDU0LC05NjU1MjA4
-MTEsLTE4MDUxNDI3OTQsNzg4NjkxNjg2XX0=
+eyJoaXN0b3J5IjpbLTY4NTIzOTAxNiwtNTM1NDU0NTk5LC0yMT
+QzMzAyNDcsLTc0NDAwMjE1NywtODI2ODYwMTg1LDEzMzAzNjY0
+NTQsLTk2NTUyMDgxMSwtMTgwNTE0Mjc5NCw3ODg2OTE2ODZdfQ
+==
 -->
