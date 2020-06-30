@@ -60,12 +60,12 @@ Attributes of an object can be accessed using the `attributes()` function.
 
 The `c()` function can be used to create vector of objects, as follows.
 ```r
-> x <- c(0.5, 0.6) ## numeric
+> x <- c(0.4, 0.7) ## numeric
 > x <- c(TRUE, FALSE) ## logical
 > x <- c(T, F) ## logical
 > x <- c("a", "b", "c") ## character
-> x <- 9:29 ## integer
-> x <- c(1+0i, 2+4i) ## complex
+> x <- 9:19 ## integer
+> x <- c(2+0i, 1+3i) ## complex
 ```
 Also, it can be used `vector()`.
 
@@ -77,26 +77,28 @@ Also, it can be used `vector()`.
 
 When different objects are mixed in a vector, *coercion* occurs so that every element in the vector is of the same class.
 ```r
-> y <- c(1.7, "a") ## character
-> y <- c(TRUE, 2) ## numeric
-> y <- c("a", TRUE) ## character
+> y <- c(4.3, "a") ## character
+> y <- c(TRUE, 9) ## numeric
+> y <- c("d", TRUE) ## character
 ```
 
 Objects can be explicitly coerced from one class to another using the `as.*` functions, if available
 ```r
-> x <- 0:6
+> x <- 0:5
 > class(x)
 [1] "integer"
 > as.numeric(x)
-[1] 0 1 2 3 4 5 6
+[1] 0 1 2 3 4 5
 > as.logical(x)
-[1] FALSE TRUE TRUE TRUE TRUE TRUE TRUE
+[1] FALSE TRUE TRUE TRUE TRUE TRUE
 > as.character(x)
-[1] "0" "1" "2" "3" "4" "5" "6"
+[1] "0" "1" "2" "3" "4" "5"
 ```
 Nonsensical coercion will results in `NAs` messages.
 
-## Matrices
+## Lists
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1OTI3NzQ2OF19
+eyJoaXN0b3J5IjpbLTE2NjU3Njg0NDldfQ==
 -->
