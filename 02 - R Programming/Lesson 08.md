@@ -120,7 +120,19 @@ Lists are a special type of vector that can contain elements of *different* clas
 
 ## Matrices
 
-
+Matrices can be understood as a vector with a *dimension* attribute. The *dimension* attribute is itself an integer vector of length 2 (nrow, ncol).
+```r
+> m <- matrix(nrow = 2, ncol = 3)
+> m
+[,1] [,2] [,3]
+[1,] NA NA NA
+[2,] NA NA NA
+> dim(m)
+[1] 2 3
+> attributes(m)
+$dim
+[1] 2 3
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNzEyNzIzN119
+eyJoaXN0b3J5IjpbLTE4NjA2Mjg4MDRdfQ==
 -->
