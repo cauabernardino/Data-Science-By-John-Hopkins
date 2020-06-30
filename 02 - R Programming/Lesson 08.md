@@ -23,6 +23,10 @@ The `[1]` indicates that `x` is a vector and `5 ` is the first element.
 [16] 16 17 18 19 20
 ```
 You can assign multiple values at a time using `:` to create integer sequences.
+
+## Objects
+
+R has five basic, or "atomic", classes of objects.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NTc2OTY0Nl19
+eyJoaXN0b3J5IjpbLTI5MjM3MjE1MV19
 -->
