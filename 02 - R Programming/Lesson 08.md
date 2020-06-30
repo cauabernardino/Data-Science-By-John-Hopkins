@@ -172,7 +172,7 @@ y   10   11   12
 
 ## Factors
 
-Factors are used to represent categorical data. Factors can be unordered or ordered. One can think of a factor as an integer vector where each integer has a *label*.
+Factors are used to represent categorical data. Factors can be unordered or ordered. One can think of a factor as an integer vector where each integer has a *label*. Can be created with the `factor()` function.
 
 - Factors are treated specially by modelling functions like `lm()` and `glm()`;
 - Using factors with labels is better than using integers because factors are self-describing; having a variable that has values “Male” and “Female” is better than a variable that has values 1 and 2.
@@ -181,16 +181,16 @@ Factors are used to represent categorical data. Factors can be unordered or orde
 > x
 [1] yes yes no yes no
 Levels: no yes
-> table(x)
+> table(x) # show x in a table format
 x
-no yes 
-  2   3 
-> unclass(x)
+no yes
+ 2   3 
+> unclass(x) # show x attributes in integer format
 [1] 2 2 1 2 1
 attr(,"levels")
 [1] "no" "yes"
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTAxMjQwMTgsMTE5NTgyNzI3Miw1ND
-QzNzkwMzRdfQ==
+eyJoaXN0b3J5IjpbLTg2ODcyMjExNiwxMTk1ODI3MjcyLDU0ND
+M3OTAzNF19
 -->
