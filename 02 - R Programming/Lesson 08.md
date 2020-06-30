@@ -229,7 +229,7 @@ Data frames are used to store tabular data. Can be created by using `data.frame(
 - Each element of the list can be thought of as a column and the length of each element of the list is the number of rows;
 - Unlike matrices, data frames can store different classes of objects in each column (just like lists), matrices must have every element be the same class;
 - Data frames also have a special attribute called `row.names`;
-- Data frames are also usually created by calling `read.table()` or `read.csv()`;
+- Data frames are also created by calling `read.table()` or `read.csv()`;
 - Can be converted to a matrix by calling `data.matrix()`.
 
 ```r
@@ -250,6 +250,6 @@ Data frames are used to store tabular data. Can be created by using `data.frame(
 ```r
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ0ODUxMTUyLDE2MDM5NTUwMjgsMTE5NT
-gyNzI3Miw1NDQzNzkwMzRdfQ==
+eyJoaXN0b3J5IjpbLTEzMjQ0OTg4NDksMTYwMzk1NTAyOCwxMT
+k1ODI3MjcyLDU0NDM3OTAzNF19
 -->
