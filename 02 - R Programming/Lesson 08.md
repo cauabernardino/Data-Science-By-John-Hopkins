@@ -209,15 +209,23 @@ Missing values are denoted by `NA` or `NaN` for undefined mathematical operation
 - `is.nan()` is used to test for `NaN`;
 - `NA` values have a class also, so there are integer `NA`, character `NA`, etc;
 - A `NaN` value is also `NA` but the converse is not true.
-
-
 ```r
+> x <- c(1, 2, NA, 10, 3)
+> is.na(x)
+[1] FALSE FALSE TRUE FALSE FALSE
+> is.nan(x)
+[1] FALSE FALSE FALSE FALSE FALSE
+> x <- c(1, 2, NaN, NA, 4)
+> is.na(x)
+[1] FALSE FALSE TRUE TRUE FALSE
+> is.nan(x)
+[1] FALSE FALSE TRUE FALSE FALSE
 ```
 
 
 ```r
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MDkwMzcyMCwxNjAzOTU1MDI4LDExOT
-U4MjcyNzIsNTQ0Mzc5MDM0XX0=
+eyJoaXN0b3J5IjpbMTIyNTQ0OTA1LDE2MDM5NTUwMjgsMTE5NT
+gyNzI3Miw1NDQzNzkwMzRdfQ==
 -->
