@@ -96,20 +96,28 @@ Objects can be explicitly coerced from one class to another using the `as.*` fun
 ```
 Nonsensical coercion will results in `NAs` messages.
 
-Lists are a special type of vector that can contain elements of *different* classes, and can be implemented as follows:
+Lists are a special type of vector that can contain elements of *different* classes, and can be implemented with the `list `as follows:
 ```r
-> x <- list(1, "a", TRUE, 1 + 4i)
+> x <- list(3, "a", 4, "b", TRUE, 1 + 2i, 5, "c")
 > x
 [[1]]
-[1] 1
+[1] 3
 [[2]]
 [1] "a"
 [[3]]
-[1] TRUE
+[1] 4
 [[4]]
-[1] 1+4i
+[1] "b"
+[[5]]
+[1] TRUE
+[[6]]
+[1] 1+2i
+[[7]]
+[1] 5
+[[8]]
+[1] "c"
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NTAwMTQ0NV19
+eyJoaXN0b3J5IjpbLTExNDI1NTAyNjhdfQ==
 -->
