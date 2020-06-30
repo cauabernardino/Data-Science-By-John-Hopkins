@@ -248,7 +248,7 @@ Data frames are used to store tabular data. Can be created by using `data.frame(
 
 ## Names
 
-R objects can have names, which is very useful for writing readable code and self-describing objects. It is used the `names()`
+R objects can have names, which is very useful for writing readable code and self-describing objects. It is used the `names()` function.
 
 ```r
 > x <- 1:3
@@ -256,12 +256,13 @@ R objects can have names, which is very useful for writing readable code and sel
 NULL
 > names(x) <- c("foo", "bar", "norf")
 > x
-foo bar norf
-1 2 3
+ foo  bar norf 
+   1    2    3 
 > names(x)
 [1] "foo" "bar" "norf"
 ```
+Lists can also have names, using a key-value pair, as follows.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0OTIxMjc3NywtMTMyNDQ5ODg0OSwxNj
-AzOTU1MDI4LDExOTU4MjcyNzIsNTQ0Mzc5MDM0XX0=
+eyJoaXN0b3J5IjpbODM4ODA2NTI1LC0xMzI0NDk4ODQ5LDE2MD
+M5NTUwMjgsMTE5NTgyNzI3Miw1NDQzNzkwMzRdfQ==
 -->
