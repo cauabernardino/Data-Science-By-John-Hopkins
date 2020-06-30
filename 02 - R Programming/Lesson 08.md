@@ -153,13 +153,21 @@ Matrices can also be created directly from vectors by adding a dimension attribu
 [1,]    1    3    5    7    9
 [2,]    2    4    6    8   10
 ```
-
-
-```r
-```
+Matrices can also be created by *column-binding* or *row-binding* with `cbind()` and `rbind()`.
 
 ```r
+> x <- 1:3
+> y <- 10:12
+> cbind(x, y)
+x y
+[1,] 1 10
+[2,] 2 11
+[3,] 3 12
+> rbind(x, y)
+[,1] [,2] [,3]
+x 1 2 3
+y 10 11 12
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcyMjMyMzQ5XX0=
+eyJoaXN0b3J5IjpbMTcyMDk4MTYzNV19
 -->
