@@ -133,6 +133,8 @@ Matrices can be understood as a vector with a *dimension* attribute. The *dimens
 $dim
 [1] 2 3
 ```
+Matrices are constructed *column-wise*, so entries can be thought of starting in the “upper left” corner
+and running down the columns.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjA2Mjg4MDRdfQ==
+eyJoaXN0b3J5IjpbMTIyMDk1NTEzNV19
 -->
