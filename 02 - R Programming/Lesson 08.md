@@ -44,9 +44,11 @@ Empty vectors can be created with  the `vector()` function.
 - If you explicitly want an integer, you need to specify the `L` suffix
 	+ Ex: Entering `1` gives you a numeric object; entering `1L` explicitly gives you an integer.
 - There is also a special number `Inf` which represents infinity; `Inf` can be used in ordinary calculations; e.g. `1 / Inf` is `0`
-- The value `NaN` represents an undefined value (“not a number”); e.g. `0 / 0``; `NaN `can also be thought of as a missing value (more on that later)
+- The value `NaN` represents an undefined value (“not a number”); e.g. `0 / 0`; `NaN`can also represent a missing value
+
+## Att
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM1MzUyMjNdfQ==
+eyJoaXN0b3J5IjpbLTQ4NDIwNzQxXX0=
 -->
