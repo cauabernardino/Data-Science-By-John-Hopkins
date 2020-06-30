@@ -124,9 +124,9 @@ Matrices can be understood as a vector with a *dimension* attribute. The *dimens
 ```r
 > m <- matrix(nrow = 2, ncol = 3)
 > m
-[,1] [,2] [,3]
-[1,] NA NA NA
-[2,] NA NA NA
+     [,1] [,2] [,3]
+[1,]   NA   NA   NA
+[2,]   NA   NA   NA
 > dim(m)
 [1] 2 3
 > attributes(m)
@@ -137,10 +137,9 @@ Matrices are constructed *column-wise*, so entries can be thought of starting in
 ```r
 > m <- matrix(1:6, nrow = 2, ncol = 3)
 > m
-[,1] [,2] [,3]
-[1,] 1 3 5
-[2,] 2 4 6
-13
+     [,1] [,2] [,3]
+[1,]    1    3    5
+[2,]    2    4    6
 ```
 Matrices can also be created directly from vectors by adding a dimension attribute.
 
@@ -150,9 +149,9 @@ Matrices can also be created directly from vectors by adding a dimension attribu
 [1] 1 2 3 4 5 6 7 8 9 10
 > dim(m) <- c(2, 5)
 > m
-[,1] [,2] [,3] [,4] [,5]
-[1,] 1 3 5 7 9
-[2,] 2 4 6 8 10
+     [,1] [,2] [,3] [,4] [,5]
+[1,]    1    3    5    7    9
+[2,]    2    4    6    8   10
 ```
 
 
@@ -162,5 +161,5 @@ Matrices can also be created directly from vectors by adding a dimension attribu
 ```r
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4OTk0MDU2MF19
+eyJoaXN0b3J5IjpbNTU2NDk4MDQwXX0=
 -->
