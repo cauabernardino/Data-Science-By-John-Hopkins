@@ -58,8 +58,8 @@ Attributes of an object can be accessed using the `attributes()` function.
 
 ## Vectors and Lists
 
-The `c()` function can be used to create vector of objects:
-```
+The `c()` function can be used to create vector of objects, as follows.
+```r
 > x <- c(0.5, 0.6) ## numeric
 > x <- c(TRUE, FALSE) ## logical
 > x <- c(T, F) ## logical
@@ -68,5 +68,5 @@ The `c()` function can be used to create vector of objects:
 > x <- c(1+0i, 2+4i) ## complex
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM5NjAyNDcxXX0=
+eyJoaXN0b3J5IjpbMjQ0OTEzMzA1XX0=
 -->
