@@ -190,7 +190,16 @@ no yes
 attr(,"levels")
 [1] "no" "yes"
 ```
+
+The order of the levels can be set using the `levels` argument to `factor()`. This can be important in linear modelling because the first level is used as the baseline level.
+```r
+> x <- factor(c("yes", "yes", "no", "yes", "no"),
+				levels = c("yes", "no"))
+> x
+[1] yes yes no yes no
+Levels: yes no
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2ODcyMjExNiwxMTk1ODI3MjcyLDU0ND
+eyJoaXN0b3J5IjpbMTYwMzk1NTAyOCwxMTk1ODI3MjcyLDU0ND
 M3OTAzNF19
 -->
