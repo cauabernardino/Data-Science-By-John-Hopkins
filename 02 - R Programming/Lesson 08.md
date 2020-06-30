@@ -33,7 +33,11 @@ The basic (or "atomic") classes of objects are:
 - Complex;
 - Logical (True/False).
 
+The most basic object is a vector.
+- Vector can only contain objects of the same class;
+- The expection are the *lists*, which are represented by a vector but can contain object of different classes.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTA5NjgzN119
+eyJoaXN0b3J5IjpbODU0MTYyMDg5XX0=
 -->
