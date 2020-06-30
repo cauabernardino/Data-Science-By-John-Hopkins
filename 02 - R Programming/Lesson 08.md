@@ -203,7 +203,7 @@ Levels: yes no
 
 ## Missing values
 
-Missing values are denoted by `NA` or `NaN` for undefined mathematical operations
+Missing values are denoted by `NA` or `NaN` for undefined mathematical operations.
 
 - `is.na()` is used to test objects if they are `NA`;
 - `is.nan()` is used to test for `NaN`;
@@ -226,6 +226,6 @@ Missing values are denoted by `NA` or `NaN` for undefined mathematical operation
 ```r
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNTQ0OTA1LDE2MDM5NTUwMjgsMTE5NT
-gyNzI3Miw1NDQzNzkwMzRdfQ==
+eyJoaXN0b3J5IjpbLTE2ODE5NjIzMDEsMTYwMzk1NTAyOCwxMT
+k1ODI3MjcyLDU0NDM3OTAzNF19
 -->
