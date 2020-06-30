@@ -23,13 +23,14 @@ There is no intention of replacing the course importance, just to be a notebook 
 
 7. [Overview and History of R](https://github.com/cauabernardino/Data-Science-By-John-Hopkins/blob/master/02%20-%20R%20Programming/Lesson%2007.md)
 8. [R Inputs and Data types](https://github.com/cauabernardino/Data-Science-By-John-Hopkins/blob/master/02%20-%20R%20Programming/Lesson%2008.md)
+9. [Reading and Writing Data](https://github.com/cauabernardino/Data-Science-By-John-Hopkins/blob/master/02%20-%20R%20Programming/Lesson%2009.md)
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0ODE1MzQxNCwtMTYzNTUxNDIwNywtNT
-M1NDU0NTk5LC0yMTQzMzAyNDcsLTc0NDAwMjE1NywtODI2ODYw
-MTg1LDEzMzAzNjY0NTQsLTk2NTUyMDgxMSwtMTgwNTE0Mjc5NC
-w3ODg2OTE2ODZdfQ==
+eyJoaXN0b3J5IjpbMTU3NjQzMDgyMywxNTQ4MTUzNDE0LC0xNj
+M1NTE0MjA3LC01MzU0NTQ1OTksLTIxNDMzMDI0NywtNzQ0MDAy
+MTU3LC04MjY4NjAxODUsMTMzMDM2NjQ1NCwtOTY1NTIwODExLC
+0xODA1MTQyNzk0LDc4ODY5MTY4Nl19
 -->
