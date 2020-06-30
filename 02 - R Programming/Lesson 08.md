@@ -261,8 +261,21 @@ NULL
 > names(x)
 [1] "foo" "bar" "norf"
 ```
-Lists can also have names, using a key-value pair, as follows.
+Lists can also have names. They can be applied by using a key-value pair, as follows.
+
+```r
+> x <- list(a = 1, b = 2, c = 3)
+> x
+$a
+[1] 1
+$b
+[1] 2
+$c
+[1] 3
+```
+
+For matrices, it is used `dimnames()` for naming de columns and rows.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM4ODA2NTI1LC0xMzI0NDk4ODQ5LDE2MD
-M5NTUwMjgsMTE5NTgyNzI3Miw1NDQzNzkwMzRdfQ==
+eyJoaXN0b3J5IjpbMTExMTMzMDAwNSwtMTMyNDQ5ODg0OSwxNj
+AzOTU1MDI4LDExOTU4MjcyNzIsNTQ0Mzc5MDM0XX0=
 -->
