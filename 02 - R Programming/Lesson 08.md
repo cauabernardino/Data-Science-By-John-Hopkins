@@ -96,7 +96,7 @@ Objects can be explicitly coerced from one class to another using the `as.*` fun
 ```
 Nonsensical coercion will results in `NAs` messages.
 
-Lists are a special type of vector that can contain elements of *different* classes, and can be implemented with the `list `as follows:
+Lists are a special type of vector that can contain elements of *different* classes, and can be implemented with the `list()` as follows:
 ```r
 > x <- list(3, "a", 4, "b", TRUE, 1 + 2i, 5, "c")
 > x
@@ -118,6 +118,9 @@ Lists are a special type of vector that can contain elements of *different* clas
 [1] "c"
 ```
 
+## Matrices
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDI1NTAyNjhdfQ==
+eyJoaXN0b3J5IjpbMjAwNzEyNzIzN119
 -->
