@@ -275,7 +275,16 @@ $c
 ```
 
 For matrices, it is used `dimnames()` for naming de columns and rows.
+```r
+> m <- matrix(1:4, nrow = 2, ncol = 2)
+> dimnames(m) <- list(c("x1", "x2"), c("y1", "y2"))
+> m
+c d
+   y1 y2
+x1  1  3
+x2  2  4
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMTMzMDAwNSwtMTMyNDQ5ODg0OSwxNj
-AzOTU1MDI4LDExOTU4MjcyNzIsNTQ0Mzc5MDM0XX0=
+eyJoaXN0b3J5IjpbNDg5MTc4NjI4LC0xMzI0NDk4ODQ5LDE2MD
+M5NTUwMjgsMTE5NTgyNzI3Miw1NDQzNzkwMzRdfQ==
 -->
