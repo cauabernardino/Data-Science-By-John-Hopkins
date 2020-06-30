@@ -205,15 +205,19 @@ Levels: yes no
 
 Missing values are denoted by `NA` or `NaN` for undefined mathematical operations
 
-- `is.na()` is used to test objects if they are `NA`
-- `is.nan()` is used to test for NaN
-NA values have a class also, so there are integer NA, character NA, etc.
-A NaN value is also NA but the converse is not true
+- `is.na()` is used to test objects if they are `NA`;
+- `is.nan()` is used to test for `NaN`;
+- `NA` values have a class also, so there are integer `NA`, character `NA`, etc;
+- A `NaN` value is also `NA` but the converse is not true.
+
+
+```r
+```
 
 
 ```r
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIwODAzNTA1LDE2MDM5NTUwMjgsMTE5NT
-gyNzI3Miw1NDQzNzkwMzRdfQ==
+eyJoaXN0b3J5IjpbLTM4MDkwMzcyMCwxNjAzOTU1MDI4LDExOT
+U4MjcyNzIsNTQ0Mzc5MDM0XX0=
 -->
