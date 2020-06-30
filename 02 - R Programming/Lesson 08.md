@@ -160,14 +160,15 @@ Matrices can also be created by *column-binding* or *row-binding* with `cbind()`
 > y <- 10:12
 > cbind(x, y)
 x y
+     x  y
 [1,] 1 10
 [2,] 2 11
 [3,] 3 12
 > rbind(x, y)
-[,1] [,2] [,3]
-x 1 2 3
-y 10 11 12
+  [,1] [,2] [,3]
+x    1    2    3
+y   10   11   12
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMDk4MTYzNV19
+eyJoaXN0b3J5IjpbMTE1MzQ1NTg4XX0=
 -->
