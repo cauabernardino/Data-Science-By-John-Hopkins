@@ -26,7 +26,14 @@ You can assign multiple values at a time using `:` to create integer sequences.
 
 ## Objects
 
-R has five basic, or "atomic", classes of objects.
+The basic (or "atomic") classes of objects are:
+- Character (string);
+- Numeric (real numbers);
+- Integer;
+- Complex;
+- Logical (True/False).
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MjM3MjE1MV19
+eyJoaXN0b3J5IjpbMTU2MTA5NjgzN119
 -->
