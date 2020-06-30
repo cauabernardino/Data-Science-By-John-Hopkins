@@ -46,9 +46,17 @@ Empty vectors can be created with  the `vector()` function.
 - There is also a special number `Inf` which represents infinity; `Inf` can be used in ordinary calculations; e.g. `1 / Inf` is `0`
 - The value `NaN` represents an undefined value (“not a number”); e.g. `0 / 0`; `NaN`can also represent a missing value
 
-## Att
+## Attributes
+
+The R objects can have the following attributes:
+- class
+- length
+- names, dimnames
+- dimensions (matrices, arrays)
+
+Attributes of an object can be accessed using the `attributes()` function.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NDIwNzQxXX0=
+eyJoaXN0b3J5IjpbMTQwODkwMDU0OF19
 -->
