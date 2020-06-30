@@ -120,7 +120,7 @@ Lists are a special type of vector that can contain elements of *different* clas
 
 ## Matrices
 
-Matrices can be understood as a vector with a *dimension* attribute. The *dimension* attribute is itself an integer vector of length 2 (nrow, ncol).
+Matrices can be understood as a vector with a *dimension* attribute. The *dimension* attribute is itself an integer vector of length 2 (nrow, ncol). It is used the `matrix()` function.
 ```r
 > m <- matrix(nrow = 2, ncol = 3)
 > m
@@ -161,5 +161,5 @@ Matrices can also be created directly from vectors by adding a dimension attribu
 ```r
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU2NDk4MDQwXX0=
+eyJoaXN0b3J5IjpbOTcyMjMyMzQ5XX0=
 -->
