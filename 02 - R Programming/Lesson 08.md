@@ -199,7 +199,21 @@ The order of the levels can be set using the `levels` argument to `factor()`. Th
 [1] yes yes no yes no
 Levels: yes no
 ```
+
+
+## Missing values
+
+Missing values are denoted by `NA` or `NaN` for undefined mathematical operations
+
+- `is.na()` is used to test objects if they are `NA`
+- `is.nan()` is used to test for NaN
+NA values have a class also, so there are integer NA, character NA, etc.
+A NaN value is also NA but the converse is not true
+
+
+```r
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMzk1NTAyOCwxMTk1ODI3MjcyLDU0ND
-M3OTAzNF19
+eyJoaXN0b3J5IjpbNzIwODAzNTA1LDE2MDM5NTUwMjgsMTE5NT
+gyNzI3Miw1NDQzNzkwMzRdfQ==
 -->
