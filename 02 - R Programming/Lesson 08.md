@@ -37,7 +37,19 @@ The most basic object is a vector.
 - Vector can only contain objects of the same class;
 - The expection are the *lists*, which are represented by a vector but can contain object of different classes.
 
+Empty vectors can be created with  the `vector()` function.
+
+## Numbers
+- Numbers in R a generally treated as numeric objects (i.e. double precision real numbers)
+If you explicitly want an integer, you need to specify the L suffix
+Ex: Entering 1 gives you a numeric object; entering 1L explicitly gives you an integer.
+There is also a special number Inf which represents infinity; e.g. 1 / 0; Inf can be used in
+ordinary calculations; e.g. 1 / Inf is 0
+The value NaN represents an undefined value (“not a number”); e.g. 0 / 0; NaN can also be
+thought of as a missing value (more on that later)
+·
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU0MTYyMDg5XX0=
+eyJoaXN0b3J5IjpbNDYwMTM4NDI1XX0=
 -->
