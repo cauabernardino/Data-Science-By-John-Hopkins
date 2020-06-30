@@ -1,4 +1,4 @@
-# R Input and Evaluation
+# R Inputs and Data types
 
 The things that are typed at the R prompt are called **expressions**.
 
@@ -22,7 +22,7 @@ The `[1]` indicates that `x` is a vector and `5 ` is the first element.
 [1] 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
 [16] 16 17 18 19 20
 ```
-You can assign multiple values at a time using `:
+You can assign multiple values at a time using `:` to create integer sequences.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTkzODA5NTldfQ==
+eyJoaXN0b3J5IjpbMTg5NTc2OTY0Nl19
 -->
