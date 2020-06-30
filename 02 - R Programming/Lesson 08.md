@@ -56,7 +56,17 @@ The R objects can have the following attributes:
 
 Attributes of an object can be accessed using the `attributes()` function.
 
-##
+## Vectors and Lists
+
+The `c()` function can be used to create vector of objects:
+```
+> x <- c(0.5, 0.6) ## numeric
+> x <- c(TRUE, FALSE) ## logical
+> x <- c(T, F) ## logical
+> x <- c("a", "b", "c") ## character
+> x <- 9:29 ## integer
+> x <- c(1+0i, 2+4i) ## complex
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNDM4NTU2NF19
+eyJoaXN0b3J5IjpbMjM5NjAyNDcxXX0=
 -->
