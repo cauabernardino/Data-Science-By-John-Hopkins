@@ -22,14 +22,14 @@ There is no intention of replacing the course importance, just to be a notebook 
 ### R Programming
 
 7. [Overview and History of R](https://github.com/cauabernardino/Data-Science-By-John-Hopkins/blob/master/02%20-%20R%20Programming/Lesson%2007.md)
-
+8. 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzU1MTQyMDcsLTUzNTQ1NDU5OSwtMj
-E0MzMwMjQ3LC03NDQwMDIxNTcsLTgyNjg2MDE4NSwxMzMwMzY2
-NDU0LC05NjU1MjA4MTEsLTE4MDUxNDI3OTQsNzg4NjkxNjg2XX
-0=
+eyJoaXN0b3J5IjpbLTk2MDM0MjIxOSwtMTYzNTUxNDIwNywtNT
+M1NDU0NTk5LC0yMTQzMzAyNDcsLTc0NDAwMjE1NywtODI2ODYw
+MTg1LDEzMzAzNjY0NTQsLTk2NTUyMDgxMSwtMTgwNTE0Mjc5NC
+w3ODg2OTE2ODZdfQ==
 -->
