@@ -176,7 +176,21 @@ Factors are used to represent categorical data. Factors can be unordered or orde
 
 - Factors are treated specially by modelling functions like `lm()` and `glm()`;
 - Using factors with labels is better than using integers because factors are self-describing; having a variable that has values “Male” and “Female” is better than a variable that has values 1 and 2.
+```r
+> x <- factor(c("yes", "yes", "no", "yes", "no"))
+> x
+[1] yes yes no yes no
+Levels: no yes
+> table(x)
+x
+no yes 
+  2   3 
+> unclass(x)
+[1] 2 2 1 2 1
+attr(,"levels")
+[1] "no" "yes"
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njc1Mzg1NTAsMTE5NTgyNzI3Miw1ND
+eyJoaXN0b3J5IjpbLTE1OTAxMjQwMTgsMTE5NTgyNzI3Miw1ND
 QzNzkwMzRdfQ==
 -->
