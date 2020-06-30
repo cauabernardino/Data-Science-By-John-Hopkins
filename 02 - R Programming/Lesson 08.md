@@ -133,8 +133,34 @@ Matrices can be understood as a vector with a *dimension* attribute. The *dimens
 $dim
 [1] 2 3
 ```
-Matrices are constructed *column-wise*, so entries can be thought of starting in the “upper left” corner
-and running down the columns.
+Matrices are constructed *column-wise*, so entries can be thought of starting in the “upper left” corner and running down the columns.
+```r
+> m <- matrix(1:6, nrow = 2, ncol = 3)
+> m
+[,1] [,2] [,3]
+[1,] 1 3 5
+[2,] 2 4 6
+13
+```
+Matrices can also be created directly from vectors by adding a dimension attribute.
+
+```r
+> m <- 1:10
+> m
+[1] 1 2 3 4 5 6 7 8 9 10
+> dim(m) <- c(2, 5)
+> m
+[,1] [,2] [,3] [,4] [,5]
+[1,] 1 3 5 7 9
+[2,] 2 4 6 8 10
+```
+
+
+```r
+```
+
+```r
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMDk1NTEzNV19
+eyJoaXN0b3J5IjpbMTE4OTk0MDU2MF19
 -->
