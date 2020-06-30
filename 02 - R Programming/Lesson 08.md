@@ -56,7 +56,7 @@ The R objects can have the following attributes:
 
 Attributes of an object can be accessed using the `attributes()` function.
 
-## Vectors and Lists
+## Vectors
 
 The `c()` function can be used to create vector of objects, as follows.
 ```r
@@ -94,6 +94,9 @@ Objects can be explicitly coerced from one class to another using the `as.*` fun
 > as.character(x)
 [1] "0" "1" "2" "3" "4" "5" "6"
 ```
+Nonsensical coercion will results in `NAs` messages.
+
+## Matrices
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyODE3NDE1Nl19
+eyJoaXN0b3J5IjpbLTY1OTI3NzQ2OF19
 -->
