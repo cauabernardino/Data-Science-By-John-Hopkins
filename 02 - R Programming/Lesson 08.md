@@ -93,6 +93,7 @@ Objects can be explicitly coerced from one class to another using the `as.*` fun
 [1] FALSE TRUE TRUE TRUE TRUE TRUE TRUE
 > as.character(x)
 [1] "0" "1" "2" "3" "4" "5" "6"
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc2MjA3MTIyXX0=
+eyJoaXN0b3J5IjpbLTcyODE3NDE1Nl19
 -->
