@@ -35,7 +35,7 @@ The basic (or "atomic") classes of objects are:
 
 The most basic object is a vector.
 - Vector can only contain objects of the same class;
-- The expection are the *lists*, which are represented by a vector but can contain object of different classes.
+- The exception are the *lists*, which are represented by a vector but can contain object of different classes.
 
 Empty vectors can be created with  the `vector()` function.
 
@@ -56,7 +56,7 @@ The R objects can have the following attributes:
 
 Attributes of an object can be accessed using the `attributes()` function.
 
-## Vectors
+## Vectors and Lists
 
 The `c()` function can be used to create vector of objects, as follows.
 ```r
@@ -96,9 +96,20 @@ Objects can be explicitly coerced from one class to another using the `as.*` fun
 ```
 Nonsensical coercion will results in `NAs` messages.
 
-## Lists
-
+Lists are a special type of vector that can contain elements of *different* classes, and can be implemented as follows:
+```r
+> x <- list(1, "a", TRUE, 1 + 4i)
+> x
+[[1]]
+[1] 1
+[[2]]
+[1] "a"
+[[3]]
+[1] TRUE
+[[4]]
+[1] 1+4i
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjU3Njg0NDldfQ==
+eyJoaXN0b3J5IjpbMTA1NTAwMTQ0NV19
 -->
