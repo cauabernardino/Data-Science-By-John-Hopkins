@@ -67,6 +67,12 @@ The `c()` function can be used to create vector of objects, as follows.
 > x <- 9:29 ## integer
 > x <- c(1+0i, 2+4i) ## complex
 ```
+Also, it can be used `vector()`
+```r
+> x <- vector("numeric", length = 10)
+> x
+[1] 0 0 0 0 0 0 0 0 0 0
+```r
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ0OTEzMzA1XX0=
+eyJoaXN0b3J5IjpbLTEzMzE1NzYwOTBdfQ==
 -->
