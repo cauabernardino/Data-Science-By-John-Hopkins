@@ -10,10 +10,12 @@ The `<-` symbol is the assingment operator.
 [1] 1
 > x
 [1] 1
-> msg <- "hello"
+> msg <- "hello" 
 ```
+
+The `#` character indicates a comment. Anything in the right is ignored.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MjY2MTk1M119
+eyJoaXN0b3J5IjpbLTE4NTE0NjQxMTRdfQ==
 -->
