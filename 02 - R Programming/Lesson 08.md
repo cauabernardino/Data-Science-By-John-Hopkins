@@ -169,6 +169,9 @@ x y
 x    1    2    3
 y   10   11   12
 ```
+
+## Factors
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MzQ1NTg4XX0=
+eyJoaXN0b3J5IjpbNTQ0Mzc5MDM0XX0=
 -->
