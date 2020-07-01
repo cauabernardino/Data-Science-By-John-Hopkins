@@ -132,7 +132,7 @@ It is possible to remove the NA values as follows:
 > x[!bad] # Use ! as the NOT operator
 [1] 1 2 4 5
 ```
-Creating subsets without rows that contain NA values:
+Creating subsets without rows that contain NA values can be done by u
 - Example 1 
 ```r
 > x <- c(1, 2, NA, 4, NA, 5)
@@ -157,13 +157,14 @@ Creating subsets without rows that contain NA values:
 6    28      NA 14.9   66     5   6
 > good <- complete.cases(airquality)
 > airquality[good, ][1:6, ]
-Ozone Solar.R Wind Temp Month Day
-1 41 190 7.4 67 5 1
-2 36 118 8.0 72 5 2
-3 12 149 12.6 74 5 3
-4 18 313 11.5 62 5 4
-7 23 299 8.6 65 5 7
+  Ozone Solar.R Wind Temp Month Day
+1    41     190  7.4   67     5   1
+2    36     118  8.0   72     5   2
+3    12     149 12.6   74     5   3
+4    18     313 11.5   62     5   4
+7    23     299  8.6   65     5   7
+8    19      99 13.8   59     5   8
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzA4NzQ4MF19
+eyJoaXN0b3J5IjpbLTYwNzY5MzcyNF19
 -->
