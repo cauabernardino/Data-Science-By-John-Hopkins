@@ -42,13 +42,17 @@ R will automatically
 - `read.csv()` is identical to `read.table()` except that the default separator is a comma.
 
 
-### Larger Datasets with `read.table()`
+## Larger Datasets with `read.table()` function
 
 With much larger datasets, doing the following things will make your life easier and will prevent R from choking:
 - Read the help page for read.table, which contains many hints;
 - Make a rough calculation of the memory required to store your dataset. If the dataset is larger than the amount of RAM on your computer, you can probably stop right here;
 - Set `comment.char = ""` if there are no commented lines in your file.
+- Use the `colClasses` argument. Specifying this option make the function run MUCH faster, often twice as fast. In order to use this option, you have to know the
+class of each column in your data frame. If all of the columns are “numeric”, for example, then
+you can just set colClasses = "numeric". A quick an dirty way to figure out the classes of
+each column is the following:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5Mzc4MDQ5MSwyMTExNDE3MDYwLDE3Nz
+eyJoaXN0b3J5IjpbMTk3MjU4OTAxNywyMTExNDE3MDYwLDE3Nz
 k2MjYxNzEsMTgwNzkxODU1MV19
 -->
