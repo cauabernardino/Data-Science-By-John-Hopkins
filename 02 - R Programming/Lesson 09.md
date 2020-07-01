@@ -238,8 +238,11 @@ The `[[]]` can take an integer sequence.
 > x[[c(2, 1)]]
 [1] 3.14
 ```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MzY2MTUyNywtMTg3NTM2NDgyLC05MT
-IzNjkyMzMsNzAwNTYyNDgsLTE2NTkxNDE1NzUsMTUwMzk5NTY1
-NSwyMTExNDE3MDYwLDE3Nzk2MjYxNzEsMTgwNzkxODU1MV19
+eyJoaXN0b3J5IjpbLTExMjE0NjgwMjcsLTE4NzUzNjQ4MiwtOT
+EyMzY5MjMzLDcwMDU2MjQ4LC0xNjU5MTQxNTc1LDE1MDM5OTU2
+NTUsMjExMTQxNzA2MCwxNzc5NjI2MTcxLDE4MDc5MTg1NTFdfQ
+==
 -->
