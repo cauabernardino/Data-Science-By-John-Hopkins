@@ -274,8 +274,22 @@ By default, when a single element of a matrix or a row/column is retrieved, it i
 ```
 
 ### Partial Matching
+
+Partial matching of names is allowed with `[[]]` and `$`.
+
+```r
+> x <- list(aardvark = 1:5)
+> x$a
+[1] 1 2 3 4 5
+> x[["a"]]
+NULL
+> x[["a", exact = FALSE]]  # For [[]] it is needed the exa
+[1] 1 2 3 4 5
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNDUwMzEwMywtMTg3NTM2NDgyLC05MT
-IzNjkyMzMsNzAwNTYyNDgsLTE2NTkxNDE1NzUsMTUwMzk5NTY1
-NSwyMTExNDE3MDYwLDE3Nzk2MjYxNzEsMTgwNzkxODU1MV19
+eyJoaXN0b3J5IjpbLTEzNTE1OTM1ODgsLTE4NzUzNjQ4MiwtOT
+EyMzY5MjMzLDcwMDU2MjQ4LC0xNjU5MTQxNTc1LDE1MDM5OTU2
+NTUsMjExMTQxNzA2MCwxNzc5NjI2MTcxLDE4MDc5MTg1NTFdfQ
+==
 -->
