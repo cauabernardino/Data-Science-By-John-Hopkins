@@ -255,17 +255,20 @@ You can live the indices in blank if you want to subset all row or column.
 > x[, 2]
 [1] 3 4
 ```
-By default, when a single element of a matrix is retrieved, it is returned as a vector of length 1 rather than a 1 × 1 matrix. This behavior can be turned off by setting `drop = FALSE`.
+By default, when a single element of a matrix or a row or column is retrieved, it is returned as a vector of length 1 rather than a 1 × 1 matrix. This behavior can be turned off by setting `drop = FALSE`.
 ```r
+#
 > x <- matrix(1:6, 2, 3)
 > x[1, 2]
 [1] 3
 > x[1, 2, drop = FALSE]
-[,1]
-[1,] 3
+     [,1]
+[1,]    3
+
+
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDkwMzI4NjksLTE4NzUzNjQ4MiwtOT
+eyJoaXN0b3J5IjpbLTEwMjM5MzQ1NDUsLTE4NzUzNjQ4MiwtOT
 EyMzY5MjMzLDcwMDU2MjQ4LC0xNjU5MTQxNTc1LDE1MDM5OTU2
 NTUsMjExMTQxNzA2MCwxNzc5NjI2MTcxLDE4MDc5MTg1NTFdfQ
 ==
