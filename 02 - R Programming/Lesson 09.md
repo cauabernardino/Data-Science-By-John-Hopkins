@@ -120,8 +120,14 @@ function (description = "", open = "", blocking = TRUE,
 	encoding = getOption("encoding"), raw = FALSE,
 	method = getOption("url.method", "default")) 
 ```
+- `description` is the name of the file 
+- `open` is a parameter where:
+	+ “r” read only
+	+ “w” writing (and initializing a new file)
+	+ “a” appending
+	+ “rb”, “wb”, “ab” reading, writing, or appending in binary mode (Windows)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNjY1MzYxMSw3MDA1NjI0OCwtMTY1OT
-E0MTU3NSwxNTAzOTk1NjU1LDIxMTE0MTcwNjAsMTc3OTYyNjE3
-MSwxODA3OTE4NTUxXX0=
+eyJoaXN0b3J5IjpbNTAyNjE1MjY4LDcwMDU2MjQ4LC0xNjU5MT
+QxNTc1LDE1MDM5OTU2NTUsMjExMTQxNzA2MCwxNzc5NjI2MTcx
+LDE4MDc5MTg1NTFdfQ==
 -->
