@@ -9,7 +9,7 @@ Principal functions for reading data in R:
 - `unserialize()`, for reading single R objects in binary form.
 
 
-Principal functions for writing data in R:
+Principal functions,  for writing data in R, analogously:
 - `write.table()`
 - `writeLines()`
 - `dump()`
@@ -18,5 +18,6 @@ Principal functions for writing data in R:
 - `serialize()`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTYyNjE3MSwxODA3OTE4NTUxXX0=
+eyJoaXN0b3J5IjpbLTEzNzY2NjI5OTUsMTc3OTYyNjE3MSwxOD
+A3OTE4NTUxXX0=
 -->
