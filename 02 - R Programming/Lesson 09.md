@@ -48,6 +48,7 @@ With much larger datasets, doing the following things will make your life easier
 - Read the help page for read.table, which contains many hints;
 - Make a rough calculation of the memory required to store your dataset. If the dataset is larger than the amount of RAM on your computer, you can probably stop right here;
 - Set `comment.char = ""` if there are no commented lines in your file.
+- - Set `nrows`. This doesn’t make R run faster but it helps with memory usage. It can be use dthe Unix tool `wc` to calculate the number of lines in a file.
 - Use the `colClasses` argument. Specifying this option make the function run MUCH faster. In order to use this option, you have to know the class of each column in your data frame. If all of the columns are “numeric”, for example, then you can just set `colClasses = "numeric"`. A quick way to figure out the classes of each column is:
 ```r
 initial <- read.table("datatable.txt", nrows = 100)
@@ -55,9 +56,8 @@ classes <- sapply(initial, class)
 tabAll <- read.table("datatable.txt",
 colClasses = classes)
 ```
-- Set `nrows`. This doesn’t make R run faster but it helps with memory usage. A mild overestimate
-is okay. You can use the Unix tool wc to calculate the number of lines in a file.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjk3OTE3OTQsMjExMTQxNzA2MCwxNz
-c5NjI2MTcxLDE4MDc5MTg1NTFdfQ==
+eyJoaXN0b3J5IjpbMTUwMzk5NTY1NSwyMTExNDE3MDYwLDE3Nz
+k2MjYxNzEsMTgwNzkxODU1MV19
 -->
