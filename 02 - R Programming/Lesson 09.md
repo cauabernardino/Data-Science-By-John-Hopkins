@@ -189,7 +189,7 @@ Most used operators used to extract subsets of R objects:
 ```
 
 ### Subsetting Lists
-
+- Example 1
 ```r
 > x <- list(foo = 1:4, bar = 0.6)
 > x[1]
@@ -205,9 +205,17 @@ $foo
 $bar
 [1] 0.6
 ```
-
+- Example 2
+```r
+> x <- list(foo = 1:4, bar = 0.6, baz = "hello")
+> x[c(1, 3)]
+$foo
+[1] 1 2 3 4
+$baz
+[1] "hello"
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg0NjE2MzEsLTE4NzUzNjQ4MiwtOTEyMz
-Y5MjMzLDcwMDU2MjQ4LC0xNjU5MTQxNTc1LDE1MDM5OTU2NTUs
-MjExMTQxNzA2MCwxNzc5NjI2MTcxLDE4MDc5MTg1NTFdfQ==
+eyJoaXN0b3J5IjpbOTU5Njg3Mjk1LC0xODc1MzY0ODIsLTkxMj
+M2OTIzMyw3MDA1NjI0OCwtMTY1OTE0MTU3NSwxNTAzOTk1NjU1
+LDIxMTE0MTcwNjAsMTc3OTYyNjE3MSwxODA3OTE4NTUxXX0=
 -->
