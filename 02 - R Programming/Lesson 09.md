@@ -66,7 +66,17 @@ I have a data frame with 1,500,000 rows and 120 columns, all of which are numeri
 = 1,373.29 MB
 = 1.34 GB
 ```
+
+## Textual Data 
+
+- dumping and dputing are useful because the resulting textual format is edit-able, and in the case of corruption, potentially recoverable.
+- Unlike writing out a table or csv file, dump and dput preserve the metadata (sacrificing some readability), so that another user doesn’t have to specify it all over again.
+- Textual formats can work much better with version control programs like subversion or git which can only track changes meaningfully in text files
+- Textual formats can be longer-lived; if there is corruption somewhere in the file, it can be easier to fix the problem
+-  Textual formats adhere to the “Unix philosophy”
+Downside: The format is not very space-efficient
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTkxNDE1NzUsMTUwMzk5NTY1NSwyMT
-ExNDE3MDYwLDE3Nzk2MjYxNzEsMTgwNzkxODU1MV19
+eyJoaXN0b3J5IjpbODc5MDMzMDAzLC0xNjU5MTQxNTc1LDE1MD
+M5OTU2NTUsMjExMTQxNzA2MCwxNzc5NjI2MTcxLDE4MDc5MTg1
+NTFdfQ==
 -->
