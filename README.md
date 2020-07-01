@@ -24,13 +24,13 @@ There is no intention of replacing the course importance, just to be a notebook 
 7. [Overview and History of R](https://github.com/cauabernardino/Data-Science-By-John-Hopkins/blob/master/02%20-%20R%20Programming/Lesson%2007.md)
 8. [R Inputs and Data types](https://github.com/cauabernardino/Data-Science-By-John-Hopkins/blob/master/02%20-%20R%20Programming/Lesson%2008.md)
 9. [Reading and Writing Data](https://github.com/cauabernardino/Data-Science-By-John-Hopkins/blob/master/02%20-%20R%20Programming/Lesson%2009.md)
-
+10. [Subsets](https://github.com/cauabernardino/Data-Science-By-John-Hopkins/blob/master/02%20-%20R%20Programming/Lesson%2010.md)
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NjQzMDgyMywxNTQ4MTUzNDE0LC0xNj
-M1NTE0MjA3LC01MzU0NTQ1OTksLTIxNDMzMDI0NywtNzQ0MDAy
-MTU3LC04MjY4NjAxODUsMTMzMDM2NjQ1NCwtOTY1NTIwODExLC
-0xODA1MTQyNzk0LDc4ODY5MTY4Nl19
+eyJoaXN0b3J5IjpbLTE4Nzg1MzQ4MzQsMTU3NjQzMDgyMywxNT
+Q4MTUzNDE0LC0xNjM1NTE0MjA3LC01MzU0NTQ1OTksLTIxNDMz
+MDI0NywtNzQ0MDAyMTU3LC04MjY4NjAxODUsMTMzMDM2NjQ1NC
+wtOTY1NTIwODExLC0xODA1MTQyNzk0LDc4ODY5MTY4Nl19
 -->
