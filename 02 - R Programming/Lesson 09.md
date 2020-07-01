@@ -36,12 +36,11 @@ For small to moderately sized datasets, you can usually call read.table without 
 data <- read.table("foo.txt")
 ```
 R will automatically
-- skip lines that begin with a #
-- figure out how many rows there are (and how much memory - needs to be allocated)
-figure what type of variable is in each column of the table Telling R all these things directly makes
-R run faster and more efficiently.
-read.csv is identical to read.table except that the default separator is a comma.
+- skip lines that begin with a #;
+- figure out how many rows there are (and how much memory - needs to be allocated);
+- figure what type of variable is in each column of the table Telling R all these things directly makes R run faster and more efficiently;
+- `read.csv()` is identical to `read.table()` except that the default separator is a comma.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTQyNDU1MjcsMTc3OTYyNjE3MSwxOD
-A3OTE4NTUxXX0=
+eyJoaXN0b3J5IjpbMzIxODY4MzQyLDE3Nzk2MjYxNzEsMTgwNz
+kxODU1MV19
 -->
