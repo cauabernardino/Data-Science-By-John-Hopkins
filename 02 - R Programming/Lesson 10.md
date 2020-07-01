@@ -124,12 +124,16 @@ NULL
 
 ## Removing NA values
 
+It is possible to remove the NA values as follows:
+
 ```r
 > x <- c(1, 2, NA, 4, NA, 5)
 > bad <- is.na(x)
-> x[!bad]
+> x[!bad] # Use ! as the NOT operator
 [1] 1 2 4 5
 ```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI5Mjg2MzkyXX0=
+eyJoaXN0b3J5IjpbLTI3NzQxNzAwMl19
 -->
