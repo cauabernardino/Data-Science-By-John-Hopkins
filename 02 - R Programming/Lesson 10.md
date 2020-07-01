@@ -124,15 +124,14 @@ NULL
 
 ## Removing NA values
 
-A simple way to remove the NA values, as follows:
-
+A simple way to remove the NA values is:
 ```r
 > x <- c(1, 2, NA, 4, NA, 5)
 > bad <- is.na(x)
 > x[!bad] # Use ! as the NOT operator
 [1] 1 2 4 5
 ```
-Creating subsets without rows that contain NA values can be done by using `complete.cases()`, which return a logical vector indicating which cases have no missing values.
+To create subsets without rows that contain NA values can be done by using `complete.cases()`, which return a logical vector indicating which cases have no missing values.
 
 - Example 1 
 ```r
@@ -167,5 +166,5 @@ Creating subsets without rows that contain NA values can be done by using `compl
 8    19      99 13.8   59     5   8
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxOTQ2MDI2NV19
+eyJoaXN0b3J5IjpbNjQ0MDU2NTFdfQ==
 -->
