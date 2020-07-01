@@ -120,13 +120,16 @@ NULL
 # For [[]] it is needed the exact = FALSE parameter
 > x[["a", exact = FALSE]]  
 [1] 1 2 3 4 5
-
 ```
 
 ## Removing NA values
 
-
-> Written with [StackEdit](https://stackedit.io/).
+```r
+> x <- c(1, 2, NA, 4, NA, 5)
+> bad <- is.na(x)
+> x[!bad]
+[1] 1 2 4 5
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMTY4Mjc4MF19
+eyJoaXN0b3J5IjpbNDI5Mjg2MzkyXX0=
 -->
