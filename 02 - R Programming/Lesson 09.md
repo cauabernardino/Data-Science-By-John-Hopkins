@@ -41,7 +41,14 @@ R will automatically
 - figure what type of variable is in each column of the table Telling R all these things directly makes R run faster and more efficiently;
 - `read.csv()` is identical to `read.table()` except that the default separator is a comma.
 
+
+### Larger Datasets with `read.table()`
+
+With much larger datasets, doing the following things will make your life easier and will prevent R from choking:
+- Read the help page for read.table, which contains many hints;
+- Make a rough calculation of the memory required to store your dataset. If the dataset is larger than the amount of RAM on your computer, you can probably stop right here;
+- Set `comment.char = ""` if there are no commented lines in your file.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMTQxNzA2MCwxNzc5NjI2MTcxLDE4MD
-c5MTg1NTFdfQ==
+eyJoaXN0b3J5IjpbMTk5Mzc4MDQ5MSwyMTExNDE3MDYwLDE3Nz
+k2MjYxNzEsMTgwNzkxODU1MV19
 -->
