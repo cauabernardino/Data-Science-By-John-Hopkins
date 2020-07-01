@@ -215,9 +215,31 @@ $baz
 [1] "hello"
 ```
 
-The [[ operator can be used with computed indices; $ can only be used with literal names.
+The `[[]]` operator can be used with computed indices; `$` can only be used with literal names.
+
+```r
+> x <- list(foo = 1:4, bar = 0.6, baz = "hello")
+> name <- "foo"
+> x[[name]] ## computed index for ‘foo’
+[1] 1 2 3 4
+> x$name ## element ‘name’ doesn’t exist!
+NULL
+> x$foo
+[1] 1 2 3 4 ## element ‘foo’ does exist
+```
+
+The `[[]]` can take an integer sequence.
+```r
+> x <- list(a = list(10, 12, 14), b = c(3.14, 2.81))
+> x[[c(1, 3)]]
+[1] 14
+> x[[1]][[3]]
+[1] 14
+> x[[c(2, 1)]]
+[1] 3.14
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgwMzk2NDg0LC0xODc1MzY0ODIsLTkxMj
-M2OTIzMyw3MDA1NjI0OCwtMTY1OTE0MTU3NSwxNTAzOTk1NjU1
-LDIxMTE0MTcwNjAsMTc3OTYyNjE3MSwxODA3OTE4NTUxXX0=
+eyJoaXN0b3J5IjpbLTU2MzY2MTUyNywtMTg3NTM2NDgyLC05MT
+IzNjkyMzMsNzAwNTYyNDgsLTE2NTkxNDE1NzUsMTUwMzk5NTY1
+NSwyMTExNDE3MDYwLDE3Nzk2MjYxNzEsMTgwNzkxODU1MV19
 -->
