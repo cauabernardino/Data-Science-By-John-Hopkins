@@ -188,19 +188,19 @@ Many operations in R can be *vectorized*, making code more efficient, concise, a
 For matrices:
 ```r
 > x <- matrix(1:4, 2, 2); y <- matrix(rep(10, 4), 2, 2)
-> x * y ## element-wise multiplication
+> x * y # Element-wise multiplication
      [,1] [,2]
 [1,]   10   30
 [2,]   20   40
-> x / y
+> x / y # Element-wise division
      [,1] [,2]
 [1,]  0.1  0.3
 [2,]  0.2  0.4
-> x %*% y ## true matrix multiplication
+> x %*% y # True matrix multiplication
      [,1] [,2]
 [1,]   40   40
 [2,]   60   60
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MTMxNDE2MCw2NDQwNTY1MV19
+eyJoaXN0b3J5IjpbMTA3MDIwNTkzLDY0NDA1NjUxXX0=
 -->
