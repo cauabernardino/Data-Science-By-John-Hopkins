@@ -149,9 +149,14 @@ data <- read.csv("foo.txt")
 [9] "2" "20-point"
 ```
 
-Also `writeLines()` takes a character vector and writes each element one line at a time to a text file.
+ `writeLines()` takes a character vector and writes each element one line at a time to a text file.
+
+Also `readLines()` can be useful for reading in lines of webpages:
+```r
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ1ODUzNjQxLDcwMDU2MjQ4LC0xNjU5MT
-QxNTc1LDE1MDM5OTU2NTUsMjExMTQxNzA2MCwxNzc5NjI2MTcx
-LDE4MDc5MTg1NTFdfQ==
+eyJoaXN0b3J5IjpbMTk5Mjg5ODA5Niw3MDA1NjI0OCwtMTY1OT
+E0MTU3NSwxNTAzOTk1NjU1LDIxMTE0MTcwNjAsMTc3OTYyNjE3
+MSwxODA3OTE4NTUxXX0=
 -->
