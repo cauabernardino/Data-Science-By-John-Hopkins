@@ -133,7 +133,7 @@ It is possible to remove the NA values as follows:
 [1] 1 2 4 5
 ```
 Creating subsets without rows that contain NA values:
-- Example 1 - Matching 
+- Example 1 
 ```r
 > x <- c(1, 2, NA, 4, NA, 5)
 > y <- c("a", "b", NA, "d", NA, "f")
@@ -145,7 +145,25 @@ Creating subsets without rows that contain NA values:
 > y[good]
 [1] "a" "b" "d" "f"
 ```
-
+- Example 2
+```r
+> airquality[1:6, ]
+  Ozone Solar.R Wind Temp Month Day
+1    41     190  7.4   67     5   1
+2    36     118  8.0   72     5   2
+3    12     149 12.6   74     5   3
+4    18     313 11.5   62     5   4
+5    NA      NA 14.3   56     5   5
+6    28      NA 14.9   66     5   6
+> good <- complete.cases(airquality)
+> airquality[good, ][1:6, ]
+Ozone Solar.R Wind Temp Month Day
+1 41 190 7.4 67 5 1
+2 36 118 8.0 72 5 2
+3 12 149 12.6 74 5 3
+4 18 313 11.5 62 5 4
+7 23 299 8.6 65 5 7
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzODY3OTQ1M119
+eyJoaXN0b3J5IjpbLTEwNzA4NzQ4MF19
 -->
