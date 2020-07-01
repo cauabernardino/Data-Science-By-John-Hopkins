@@ -62,11 +62,11 @@ I have a data frame with 1,500,000 rows and 120 columns, all of which are numeri
 ```
 1,500,000 × 120 × 8 bytes/numeric
 = 1440000000 bytes
-= 1440000000 / 2bytes/MB
+= 1440000000 / 2^20 bytes/MB
 = 1,373.29 MB
 = 1.34 GB
-````
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxODU0NTA1NywxNTAzOTk1NjU1LDIxMT
-E0MTcwNjAsMTc3OTYyNjE3MSwxODA3OTE4NTUxXX0=
+eyJoaXN0b3J5IjpbLTE2NTkxNDE1NzUsMTUwMzk5NTY1NSwyMT
+ExNDE3MDYwLDE3Nzk2MjYxNzEsMTgwNzkxODU1MV19
 -->
