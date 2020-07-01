@@ -92,19 +92,20 @@ structure(list(a = 1, b = "a"), class = "data.frame", row.names = c(NA, -1L))
 
 ### Dumping R Objects
 Multiple objects can be deparsed using the dump function and  read back in using source.
-```
+```r
 > x <- "foo"
 > y <- data.frame(a = 1, b = "a")
 > dump(c("x", "y"), file = "data.R")
 > rm(x, y)
 > source("data.R")
 > y
-a b
+  a b
 1 1 a
 > x
 [1] "foo"
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDk2MDM1NjgsLTE2NTkxNDE1NzUsMT
-UwMzk5NTY1NSwyMTExNDE3MDYwLDE3Nzk2MjYxNzEsMTgwNzkx
-ODU1MV19
+eyJoaXN0b3J5IjpbNzAwNTYyNDgsLTE2NTkxNDE1NzUsMTUwMz
+k5NTY1NSwyMTExNDE3MDYwLDE3Nzk2MjYxNzEsMTgwNzkxODU1
+MV19
 -->
