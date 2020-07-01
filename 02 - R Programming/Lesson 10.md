@@ -147,7 +147,7 @@ To create subsets without rows that contain NA values can be done by using `comp
 ```
 - Example 2
 ```r
-> airquality[1:6, ]
+> airquality[1:6, ] # This dataset is inside R
   Ozone Solar.R Wind Temp Month Day
 1    41     190  7.4   67     5   1
 2    36     118  8.0   72     5   2
@@ -166,5 +166,5 @@ To create subsets without rows that contain NA values can be done by using `comp
 8    19      99 13.8   59     5   8
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0MDU2NTFdfQ==
+eyJoaXN0b3J5IjpbLTk1MzQ1ODg5Nl19
 -->
