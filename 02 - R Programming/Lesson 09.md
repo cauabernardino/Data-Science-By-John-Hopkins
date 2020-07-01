@@ -113,8 +113,15 @@ Data are read in using *connection* interfaces. Connections can be made to files
 - `gzfile()`, opens a connection to a file compressed with gzip
 - `bzfile()`, opens a connection to a file compressed with bzip2
 - `url()`, opens a connection to a webpage
+
+```r
+> str(file)
+function (description = "", open = "", blocking = TRUE, 
+	encoding = getOption("encoding"), raw = FALSE,
+	method = getOption("url.method", "default")) 
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMzkxOTk1Niw3MDA1NjI0OCwtMTY1OT
+eyJoaXN0b3J5IjpbMTcxNjY1MzYxMSw3MDA1NjI0OCwtMTY1OT
 E0MTU3NSwxNTAzOTk1NjU1LDIxMTE0MTcwNjAsMTc3OTYyNjE3
 MSwxODA3OTE4NTUxXX0=
 -->
