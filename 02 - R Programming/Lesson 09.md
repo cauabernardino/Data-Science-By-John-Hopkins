@@ -163,8 +163,17 @@ x <- readLines(con)
 [5] "<meta charset=\"utf-8\" />"                                    
 [6] "<title>Johns Hopkins Bloomberg School of Public Health</title>"
 ```
+
+## Subsets
+
+Most used operators that can be used to extract subsets of R objects.
+[ always returns an object of the same class as the original; can be used to select more than one
+element (there is one exception)
+[[ is used to extract elements of a list or a data frame; it can only be used to extract a single
+element and the class of the returned object will not necessarily be a list or data frame
+$ is used to extract elements of a list or data frame by name; semantics are similar to that of [[.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjk5MjM0NDYsLTkxMjM2OTIzMyw3MD
-A1NjI0OCwtMTY1OTE0MTU3NSwxNTAzOTk1NjU1LDIxMTE0MTcw
-NjAsMTc3OTYyNjE3MSwxODA3OTE4NTUxXX0=
+eyJoaXN0b3J5IjpbMTM4OTQ4NTU2MywtOTEyMzY5MjMzLDcwMD
+U2MjQ4LC0xNjU5MTQxNTc1LDE1MDM5OTU2NTUsMjExMTQxNzA2
+MCwxNzc5NjI2MTcxLDE4MDc5MTg1NTFdfQ==
 -->
