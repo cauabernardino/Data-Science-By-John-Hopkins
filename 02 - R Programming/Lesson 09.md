@@ -10,13 +10,13 @@ Principal functions for reading data in R:
 
 
 Principal functions for writing data in R:
-- write.table
-- writeLines
-- dump
-- dput
-- save
-- serialize
+- `write.table()`
+- `writeLines()`
+- `dump()`
+- `dput()`
+- `save()`
+- `serialize()`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzU5Mzc2NzUsMTgwNzkxODU1MV19
+eyJoaXN0b3J5IjpbMTc3OTYyNjE3MSwxODA3OTE4NTUxXX0=
 -->
