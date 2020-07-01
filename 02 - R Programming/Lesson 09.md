@@ -214,8 +214,10 @@ $foo
 $baz
 [1] "hello"
 ```
+
+The [[ operator can be used with computed indices; $ can only be used with literal names.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5Njg3Mjk1LC0xODc1MzY0ODIsLTkxMj
+eyJoaXN0b3J5IjpbMzgwMzk2NDg0LC0xODc1MzY0ODIsLTkxMj
 M2OTIzMyw3MDA1NjI0OCwtMTY1OTE0MTU3NSwxNTAzOTk1NjU1
 LDIxMTE0MTcwNjAsMTc3OTYyNjE3MSwxODA3OTE4NTUxXX0=
 -->
