@@ -153,10 +153,17 @@ data <- read.csv("foo.txt")
 
 Also `readLines()` can be useful for reading in lines of webpages:
 ```r
-
+con <- url("http://www.jhsph.edu", "r")
+x <- readLines(con, 5)
+> head(x)
+[1] "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0 Transitional//EN\">"
+[2] ""
+[3] "<html>"
+[4] "<head>"
+[5] "\t<meta http-equiv=\"Content-Type\" content=\"text/html;charset=utf-8
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5Mjg5ODA5Niw3MDA1NjI0OCwtMTY1OT
+eyJoaXN0b3J5IjpbLTkxMjM2OTIzMyw3MDA1NjI0OCwtMTY1OT
 E0MTU3NSwxNTAzOTk1NjU1LDIxMTE0MTcwNjAsMTc3OTYyNjE3
 MSwxODA3OTE4NTUxXX0=
 -->
