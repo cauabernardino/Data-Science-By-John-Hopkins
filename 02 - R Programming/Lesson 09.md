@@ -83,9 +83,9 @@ A way to pass data around is by deparsing the R object with `dput()` and reading
 > y <- data.frame(a = 1, b = "a")
 > dput(y)
 structure(list(a = 1,
-b = structure(1L, .Label = "a",
-class = "factor")),
-.Names = c("a", "b"), row.names = c(NA, -1L),
+				b = structure(1L, .Label = "a",
+							class = "factor")),
+		.Names = c("a", "b"), row.names = c(NA, -1L),
 class = "data.frame")
 > dput(y, file = "y.R")
 > new.y <- dget("y.R")
@@ -94,7 +94,7 @@ a b
 1 1 a
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MTIzMDE0NSwtMTY1OTE0MTU3NSwxNT
-AzOTk1NjU1LDIxMTE0MTcwNjAsMTc3OTYyNjE3MSwxODA3OTE4
-NTUxXX0=
+eyJoaXN0b3J5IjpbODczNjI4MDcxLC0xNjU5MTQxNTc1LDE1MD
+M5OTU2NTUsMjExMTQxNzA2MCwxNzc5NjI2MTcxLDE4MDc5MTg1
+NTFdfQ==
 -->
