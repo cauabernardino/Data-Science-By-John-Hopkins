@@ -17,7 +17,19 @@ Principal functions,  for writing data in R, analogously:
 - `save()`
 - `serialize()`
 
+
+## The `read.table()` function
+
+The most important arguments are:
+- `file`, the name of a file, or a connection;
+- `header`, logical indicating if the file has a header line
+- `sep`, a string indicating how the columns are separated
+- `colClasses`, a character vector indicating the class of each column in the dataset
+- `nrows`, the number of rows in the dataset
+- `comment.char`, a character string indicating the comment character
+- skip, the number of lines to skip from the beginning
+- stringsAsFactors, should character variables be coded as factors?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzY2NjI5OTUsMTc3OTYyNjE3MSwxOD
-A3OTE4NTUxXX0=
+eyJoaXN0b3J5IjpbMTkzMjA1NDcxNiwxNzc5NjI2MTcxLDE4MD
+c5MTg1NTFdfQ==
 -->
