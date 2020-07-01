@@ -148,8 +148,10 @@ data <- read.csv("foo.txt")
 [5] "12-point" "16-point" "18-point" "1st"
 [9] "2" "20-point"
 ```
+
+Also `writeLines()` takes a character vector and writes each element one line at a time to a text file.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMTk5NDM3NCw3MDA1NjI0OCwtMTY1OT
-E0MTU3NSwxNTAzOTk1NjU1LDIxMTE0MTcwNjAsMTc3OTYyNjE3
-MSwxODA3OTE4NTUxXX0=
+eyJoaXN0b3J5IjpbOTQ1ODUzNjQxLDcwMDU2MjQ4LC0xNjU5MT
+QxNTc1LDE1MDM5OTU2NTUsMjExMTQxNzA2MCwxNzc5NjI2MTcx
+LDE4MDc5MTg1NTFdfQ==
 -->
