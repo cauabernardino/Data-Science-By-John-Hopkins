@@ -126,8 +126,16 @@ function (description = "", open = "", blocking = TRUE,
 	+ “w” writing (and initializing a new file)
 	+ “a” appending
 	+ “rb”, “wb”, “ab” reading, writing, or appending in binary mode (Windows)
+
+Connections are powerful tools for navigating the files or external objects. But often it won't be needed to deal with its interface directly, like: 
+```r
+con <- file("foo.txt", "r")
+data <- read.csv(con)
+close(con)
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAyNjE1MjY4LDcwMDU2MjQ4LC0xNjU5MT
+eyJoaXN0b3J5IjpbNjI5ODk1OTkyLDcwMDU2MjQ4LC0xNjU5MT
 QxNTc1LDE1MDM5OTU2NTUsMjExMTQxNzA2MCwxNzc5NjI2MTcx
 LDE4MDc5MTg1NTFdfQ==
 -->
