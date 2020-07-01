@@ -104,8 +104,17 @@ Multiple objects can be deparsed using the dump function and  read back in using
 > x
 [1] "foo"
 ```
+
+## Connections
+
+Data are read in using *connection* interfaces. Connections can be made to files (most common) or to other more exotic things.
+
+- `file`, opens a connection to a file
+gzfile, opens a connection to a file compressed with gzip
+bzfile, opens a connection to a file compressed with bzip2
+url, opens a connection to a webpage
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAwNTYyNDgsLTE2NTkxNDE1NzUsMTUwMz
-k5NTY1NSwyMTExNDE3MDYwLDE3Nzk2MjYxNzEsMTgwNzkxODU1
-MV19
+eyJoaXN0b3J5IjpbLTQwMzM1MjE2Myw3MDA1NjI0OCwtMTY1OT
+E0MTU3NSwxNTAzOTk1NjU1LDIxMTE0MTcwNjAsMTc3OTYyNjE3
+MSwxODA3OTE4NTUxXX0=
 -->
