@@ -283,12 +283,13 @@ Partial matching of names is allowed with `[[]]` and `$`.
 [1] 1 2 3 4 5
 > x[["a"]]
 NULL
-> x[["a", exact = FALSE]]  # For [[]] it is needed the exa
+# For [[]] it is needed the exact = FALSE parameter
+> x[["a", exact = FALSE]]  
 [1] 1 2 3 4 5
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTE1OTM1ODgsLTE4NzUzNjQ4MiwtOT
+eyJoaXN0b3J5IjpbLTE4MjUxMTI5MDIsLTE4NzUzNjQ4MiwtOT
 EyMzY5MjMzLDcwMDU2MjQ4LC0xNjU5MTQxNTc1LDE1MDM5OTU2
 NTUsMjExMTQxNzA2MCwxNzc5NjI2MTcxLDE4MDc5MTg1NTFdfQ
 ==
