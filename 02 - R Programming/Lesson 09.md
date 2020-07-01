@@ -260,20 +260,22 @@ By default, when a single element of a matrix or a row/column is retrieved, it i
 # For a single element
 > x <- matrix(1:6, 2, 3)
 > x[1, 2]
-[1] 3
+[1] 3    # vector
 > x[1, 2, drop = FALSE]
      [,1]
-[1,]    3
+[1,]    3   # matrix
 
 # For a row/column
 > x[1, ]
-[1] 1 3 5
+[1] 1 3 5    # vector
 > x[1, , drop = FALSE]
      [,1] [,2] [,3]
-[1,]    1    3    5
+[1,]    1    3    5    # matrix
 ```
+
+### Partial Matching
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkxMzU1NDM4LC0xODc1MzY0ODIsLTkxMj
-M2OTIzMyw3MDA1NjI0OCwtMTY1OTE0MTU3NSwxNTAzOTk1NjU1
-LDIxMTE0MTcwNjAsMTc3OTYyNjE3MSwxODA3OTE4NTUxXX0=
+eyJoaXN0b3J5IjpbMTIzNDUwMzEwMywtMTg3NTM2NDgyLC05MT
+IzNjkyMzMsNzAwNTYyNDgsLTE2NTkxNDE1NzUsMTUwMzk5NTY1
+NSwyMTExNDE3MDYwLDE3Nzk2MjYxNzEsMTgwNzkxODU1MV19
 -->
