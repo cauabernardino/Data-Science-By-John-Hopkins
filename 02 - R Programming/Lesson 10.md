@@ -165,6 +165,25 @@ To create subsets without rows that contain NA values can be done by using `comp
 7    23     299  8.6   65     5   7
 8    19      99 13.8   59     5   8
 ```
+
+## Vectorized operations
+
+Many operations in R can be *vectorized*, making code more efficient, concise, and easier to read.
+```r
+> x <- 1:4; y <- 6:9
+> x + y
+[1] 7 9 11 13
+> x > 2
+[1] FALSE FALSE TRUE TRUE
+> x >= 2
+[1] FALSE TRUE TRUE TRUE
+> y == 8
+[1] FALSE FALSE TRUE FALSE
+> x * y
+[1] 6 14 24 36
+> x / y
+[1] 0.1666667 0.2857143 0.3750000 0.4444444
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0MDU2NTFdfQ==
+eyJoaXN0b3J5IjpbMTU4OTk1NjUzNSw2NDQwNTY1MV19
 -->
