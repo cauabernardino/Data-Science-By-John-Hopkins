@@ -129,13 +129,27 @@ function (description = "", open = "", blocking = TRUE,
 
 Connections are powerful tools for navigating the files or external objects. But often it won't be needed to deal with its interface directly, like: 
 ```r
+# This
 con <- file("foo.txt", "r")
 data <- read.csv(con)
 close(con)
+
+# Is the same as
+data <- read.csv("foo.txt")
 ```
 
+### Reading Lines of a Text File
+
+```r
+> con <- gzfile("words.gz")
+> x <- readLines(con, 10)
+> x
+[1] "1080" "10-point" "10th" "11-point"
+[5] "12-point" "16-point" "18-point" "1st"
+[9] "2" "20-point"
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI5ODk1OTkyLDcwMDU2MjQ4LC0xNjU5MT
-QxNTc1LDE1MDM5OTU2NTUsMjExMTQxNzA2MCwxNzc5NjI2MTcx
-LDE4MDc5MTg1NTFdfQ==
+eyJoaXN0b3J5IjpbLTYxMTk5NDM3NCw3MDA1NjI0OCwtMTY1OT
+E0MTU3NSwxNTAzOTk1NjU1LDIxMTE0MTcwNjAsMTc3OTYyNjE3
+MSwxODA3OTE4NTUxXX0=
 -->
