@@ -132,6 +132,8 @@ It is possible to remove the NA values as follows:
 > x[!bad] # Use ! as the NOT operator
 [1] 1 2 4 5
 ```
+Creating subsets without rows that contain NA values:
+- Example 1 - Matching 
 ```r
 > x <- c(1, 2, NA, 4, NA, 5)
 > y <- c("a", "b", NA, "d", NA, "f")
@@ -145,5 +147,5 @@ It is possible to remove the NA values as follows:
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDI1NDc0MjBdfQ==
+eyJoaXN0b3J5IjpbLTgzODY3OTQ1M119
 -->
