@@ -56,8 +56,17 @@ classes <- sapply(initial, class)
 tabAll <- read.table("datatable.txt",
 colClasses = classes)
 ```
+## Calculating Memory Requirements
 
+I have a data frame with 1,500,000 rows and 120 columns, all of which are numeric data. Roughly, how much memory is required to store this data frame?
+```
+1,500,000 × 120 × 8 bytes/numeric
+= 1440000000 bytes
+= 1440000000 / 2bytes/MB
+= 1,373.29 MB
+= 1.34 GB
+````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMzk5NTY1NSwyMTExNDE3MDYwLDE3Nz
-k2MjYxNzEsMTgwNzkxODU1MV19
+eyJoaXN0b3J5IjpbLTUxODU0NTA1NywxNTAzOTk1NjU1LDIxMT
+E0MTcwNjAsMTc3OTYyNjE3MSwxODA3OTE4NTUxXX0=
 -->
