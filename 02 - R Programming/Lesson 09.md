@@ -40,7 +40,8 @@ R will automatically
 - figure out how many rows there are (and how much memory - needs to be allocated);
 - figure what type of variable is in each column of the table Telling R all these things directly makes R run faster and more efficiently;
 - `read.csv()` is identical to `read.table()` except that the default separator is a comma.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIxODY4MzQyLDE3Nzk2MjYxNzEsMTgwNz
-kxODU1MV19
+eyJoaXN0b3J5IjpbMjExMTQxNzA2MCwxNzc5NjI2MTcxLDE4MD
+c5MTg1NTFdfQ==
 -->
