@@ -19,7 +19,7 @@ swirl()
 ```
 
 
-
+The package is self-explanatory, so no need to add more information.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY0NDY1MDY4XX0=
+eyJoaXN0b3J5IjpbMTYzMjMzNjQ0M119
 -->
