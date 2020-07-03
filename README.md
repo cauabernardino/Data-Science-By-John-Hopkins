@@ -1,4 +1,4 @@
-# Data Science by John Hopkins University
+# Data Science with R by JHU
 
 My notes and views regarding the Data Science coursework (using R language) by John Hopkins, in Coursera.
 Link to the course [here](https://www.coursera.org/specializations/jhu-data-science).
