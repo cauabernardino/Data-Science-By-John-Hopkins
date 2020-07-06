@@ -60,17 +60,20 @@ for(i in 1:10) {
 }
 ```
 The next loops have the same result with different structure:
+```r
 x <- c("a", "b", "c", "d")
+
 for(i in 1:4) {
-print(x[i])
+	print(x[i])
 }
 for(i in seq_along(x)) {
-print(x[i])
+	print(x[i])
 }
 for(letter in x) {
-print(letter)
+	print(letter)
 }
 for(i in 1:4) print(x[i])
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODA0NTQzMTgsODUxNjg4NDVdfQ==
+eyJoaXN0b3J5IjpbMjExOTgzNjMyMiw4NTE2ODg0NV19
 -->
