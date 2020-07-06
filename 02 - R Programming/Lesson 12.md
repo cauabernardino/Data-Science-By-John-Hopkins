@@ -10,7 +10,11 @@ Control structures allow us to control the flow of execution of the program. Com
 - `break`: break the execution of a loop
 - `next`: skip an interation of a loop
 - `return`: exit a function
-- 
+
+
+## If, else
+
+In a general way, i, else
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3NDE4ODk2LDg1MTY4ODQ1XX0=
+eyJoaXN0b3J5IjpbMTEzMjQ3MzE5Miw4NTE2ODg0NV19
 -->
