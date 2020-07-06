@@ -165,8 +165,8 @@ for(i in 1:50) {
 }
 ```
 
-
+## Functions
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2ODYxMDQwNSwxMDMxNDI0ODA0LDg1MT
-Y4ODQ1XX0=
+eyJoaXN0b3J5IjpbLTIxMjE0MDA3NjgsMTAzMTQyNDgwNCw4NT
+E2ODg0NV19
 -->
