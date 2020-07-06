@@ -167,9 +167,19 @@ for(i in 1:50) {
 
 ## Functions
 
-Functions are created using the function() directive and are stored as R objects just like anything
-else. In particular, they are R objects of class “function”.
+Functions are created using the `function()` directive and are stored as R objects just like anything else. In particular, they are R objects of class “function”. They have the following structure:
+
+```r
+f <- function(<arguments>) {
+	## Do something interesting
+}
+```
+
+Functions in R are “first class objects”, which means that they can be treated much like any other R object. Importantly,
+- Functions can be passed as arguments to other functions
+- Functions can be nested, so that you can define a function inside of another function
+- The return value of a function is the last expression in the function body to be evaluated.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTk2NTg4NjIsLTIxMjE0MDA3NjgsMT
+eyJoaXN0b3J5IjpbLTEzMjc3NjgwNDcsLTIxMjE0MDA3NjgsMT
 AzMTQyNDgwNCw4NTE2ODg0NV19
 -->
