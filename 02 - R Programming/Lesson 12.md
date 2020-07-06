@@ -14,7 +14,8 @@ Control structures allow us to control the flow of execution of the program. Com
 
 ## If, else
 
-In a general way, i, else
+In a general way, the if-else has the following structure:
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMjQ3MzE5Miw4NTE2ODg0NV19
+eyJoaXN0b3J5IjpbMTk5MTU5NjM1LDg1MTY4ODQ1XX0=
 -->
