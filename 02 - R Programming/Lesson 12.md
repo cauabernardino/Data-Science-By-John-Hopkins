@@ -52,7 +52,25 @@ y <- if(x > 3) {
 
 ## For
 
+`for` loops take an interator variable and assign it successive values from a sequence or vector. For loops are most commonly used for iterating over the elements of an object (list, vector, etc.)
 
+```r
+for(i in 1:10) {
+	print(i)
+}
+```
+The next loops have the same result with different structure:
+x <- c("a", "b", "c", "d")
+for(i in 1:4) {
+print(x[i])
+}
+for(i in seq_along(x)) {
+print(x[i])
+}
+for(letter in x) {
+print(letter)
+}
+for(i in 1:4) print(x[i])
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjU1NDAzNiw4NTE2ODg0NV19
+eyJoaXN0b3J5IjpbLTEyODA0NTQzMTgsODUxNjg4NDVdfQ==
 -->
