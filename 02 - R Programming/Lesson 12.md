@@ -33,7 +33,22 @@ if(<condition1>) {
 }
 ```
 
+Example:
+```r
+# One type of structure
+if(x > 3) {
+	y <- 10
+} else {
+	y <- 0
+}
 
+# Different structure for 
+y <- if(x > 3) {
+	10
+} else {
+	0
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODE5NjE2ODMsODUxNjg4NDVdfQ==
+eyJoaXN0b3J5IjpbLTE5NTExNTUxNjgsODUxNjg4NDVdfQ==
 -->
