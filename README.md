@@ -26,11 +26,11 @@ There is no intention of replacing the course importance, just to be a notebook 
 9. [Reading and Writing Data](https://github.com/cauabernardino/Data-Science-By-John-Hopkins/blob/master/02%20-%20R%20Programming/Lesson%2009.md)
 10. [Subsets](https://github.com/cauabernardino/Data-Science-By-John-Hopkins/blob/master/02%20-%20R%20Programming/Lesson%2010.md)
 11. [Swirl](https://github.com/cauabernardino/Data-Science-By-John-Hopkins/blob/master/02%20-%20R%20Programming/Lesson%2011.md)
-12. R Control Structures and Functions
+12. [R Control Structures and Functions](https://github.com/cauabernardino/Data-Science-By-John-Hopkins/blob/master/02%20-%20R%20Programming/Lesson%2012.md)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNTk3NzY0OCwtMzA5OTI4MDIsLTE3MD
+eyJoaXN0b3J5IjpbLTI4MjYxNzE1OSwtMzA5OTI4MDIsLTE3MD
 UyMTE0MywxNTc2NDMwODIzLDE1NDgxNTM0MTQsLTE2MzU1MTQy
 MDcsLTUzNTQ1NDU5OSwtMjE0MzMwMjQ3LC03NDQwMDIxNTcsLT
 gyNjg2MDE4NSwxMzMwMzY2NDU0LC05NjU1MjA4MTEsLTE4MDUx
