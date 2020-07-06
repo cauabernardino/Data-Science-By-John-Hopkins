@@ -12,7 +12,7 @@ Control structures allow us to control the flow of execution of the program. Com
 - `return`: exit a function
 
 
-## If, else
+## if, else
 
 In a general way, the if-else has the following structure:
 ```r
@@ -50,7 +50,7 @@ y <- if(x > 3) {
 }
 ```
 
-## For
+## for
 
 `for` loops take an interator variable and assign it successive values from a sequence or vector. For loops are most commonly used for iterating over the elements of an object (list, vector, etc.)
 
@@ -87,8 +87,13 @@ for(i in seq_len(nrow(x))) {
 }
 ```
 
-## While
+## while
+
+`while` loops are testing conditions, being executed until the condition is still true.
+
+  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTk4OTg1NDUsMTAzMTQyNDgwNCw4NT
-E2ODg0NV19
+eyJoaXN0b3J5IjpbNDUwODg4MDY5LDEwMzE0MjQ4MDQsODUxNj
+g4NDVdfQ==
 -->
