@@ -142,14 +142,29 @@ Sometimes the condition may not be achieved, so it may be better to set a hard l
 
 ```r
 for(i in 1:100) {
-if(i <= 20) {
-	## Skip the first 20 iterations
-next
+	if(i <= 20) {
+		## Skip the first 20 iterations
+		next
+	}
+	## Do something here
+
 }
-## Do something here
+```
+
+## return
+
+`return` signals that a function should exit and return a given value.
+
+```r
+for(i in 1:100) {
+	if(i == 47) {
+		## Exit function when condition is TRUE
+		return
+	}
+	## Do something here
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYzODQwODM5LDEwMzE0MjQ4MDQsODUxNj
-g4NDVdfQ==
+eyJoaXN0b3J5IjpbLTU4ODc5MzU5MywxMDMxNDI0ODA0LDg1MT
+Y4ODQ1XX0=
 -->
