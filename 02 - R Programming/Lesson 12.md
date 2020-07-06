@@ -15,7 +15,25 @@ Control structures allow us to control the flow of execution of the program. Com
 ## If, else
 
 In a general way, the if-else has the following structure:
+```r
+# if-else
+if(<condition>) {
+	## do something
+} else {
+	## do something else
+}
+
+# if-else if-else
+if(<condition1>) {
+	## do something
+} else if(<condition2>) {
+	## do something different
+} else {
+	## do something different
+}
+```
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MTU5NjM1LDg1MTY4ODQ1XX0=
+eyJoaXN0b3J5IjpbLTEzODE5NjE2ODMsODUxNjg4NDVdfQ==
 -->
