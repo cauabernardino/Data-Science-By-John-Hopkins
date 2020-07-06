@@ -91,9 +91,17 @@ for(i in seq_len(nrow(x))) {
 
 `while` loops are testing conditions, being executed until the condition is still true.
 
+```r
+count <- 0
+while(count < 10) {
+	print(count)
+	count <- count + 1
+}
+```
   
-
+Be careful with the testing conditions to avoid infinite loops.
+It is also possible to have more than one conditions:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUwODg4MDY5LDEwMzE0MjQ4MDQsODUxNj
-g4NDVdfQ==
+eyJoaXN0b3J5IjpbMTIyMTczMzU1NCwxMDMxNDI0ODA0LDg1MT
+Y4ODQ1XX0=
 -->
