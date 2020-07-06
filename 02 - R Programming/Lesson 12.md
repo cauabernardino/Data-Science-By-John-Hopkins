@@ -166,7 +166,10 @@ for(i in 1:50) {
 ```
 
 ## Functions
+
+Functions are created using the function() directive and are stored as R objects just like anything
+else. In particular, they are R objects of class “function”.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjE0MDA3NjgsMTAzMTQyNDgwNCw4NT
-E2ODg0NV19
+eyJoaXN0b3J5IjpbLTIwMTk2NTg4NjIsLTIxMjE0MDA3NjgsMT
+AzMTQyNDgwNCw4NTE2ODg0NV19
 -->
