@@ -156,7 +156,7 @@ for(i in 1:100) {
 `return` signals that a function should exit and return a given value.
 
 ```r
-for(i in 1:100) {
+for(i in 1:50) {
 	if(i == 47) {
 		## Exit function when condition is TRUE
 		return
@@ -164,7 +164,9 @@ for(i in 1:100) {
 	## Do something here
 }
 ```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4ODc5MzU5MywxMDMxNDI0ODA0LDg1MT
+eyJoaXN0b3J5IjpbLTI2ODYxMDQwNSwxMDMxNDI0ODA0LDg1MT
 Y4ODQ1XX0=
 -->
