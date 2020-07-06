@@ -1,6 +1,6 @@
 # Data Science with R by JHU
 
-My notes and views regarding the Data Science coursework (using R language) by John Hopkins, in Coursera.
+My notes and views regarding the Data Science coursework (using R language) by John Hopkins University, in Coursera.
 Link to the course [here](https://www.coursera.org/specializations/jhu-data-science).
 
 ## Purpose
@@ -30,7 +30,7 @@ There is no intention of replacing the course importance, just to be a notebook 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MjYxNzE1OSwtMzA5OTI4MDIsLTE3MD
+eyJoaXN0b3J5IjpbMTE0Mzg1MDY1MSwtMzA5OTI4MDIsLTE3MD
 UyMTE0MywxNTc2NDMwODIzLDE1NDgxNTM0MTQsLTE2MzU1MTQy
 MDcsLTUzNTQ1NDU5OSwtMjE0MzMwMjQ3LC03NDQwMDIxNTcsLT
 gyNjg2MDE4NSwxMzMwMzY2NDU0LC05NjU1MjA4MTEsLTE4MDUx
