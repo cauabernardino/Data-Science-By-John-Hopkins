@@ -74,6 +74,18 @@ for(letter in x) {
 }
 for(i in 1:4) print(x[i])
 ```
+
+As other languages, `for` loops can be nested:
+
+```r
+x <- matrix(1:6, 2, 3)
+
+for(i in seq_len(nrow(x))) {
+	for(j in seq_len(ncol(x))) {
+		print(x[i, j])
+	}
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExOTgzNjMyMiw4NTE2ODg0NV19
+eyJoaXN0b3J5IjpbMTAzMTQyNDgwNCw4NTE2ODg0NV19
 -->
