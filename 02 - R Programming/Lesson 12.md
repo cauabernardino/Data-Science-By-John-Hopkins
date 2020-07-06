@@ -116,7 +116,9 @@ while(z >= 3 && z <= 10) {
 ```
 
 ## repeat, next, break
+
+`repeat` initiates an infinite loop. It is useful when you need to repeat a condition until it reaches a condition and you don't know exactly how much times it'll be needed. It 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMDA4MzkxMSwxMDMxNDI0ODA0LDg1MT
+eyJoaXN0b3J5IjpbLTEwODE4OTExNCwxMDMxNDI0ODA0LDg1MT
 Y4ODQ1XX0=
 -->
