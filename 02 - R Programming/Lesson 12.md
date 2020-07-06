@@ -1,7 +1,9 @@
 
 # R Control Structures and Functions
 
-Control structures (if-else, for loops) and then move on to writing functions
+Control structures (if-else, for loops, etc) and functions.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA2MTk3Nzg5XX0=
+eyJoaXN0b3J5IjpbODUxNjg4NDVdfQ==
 -->
