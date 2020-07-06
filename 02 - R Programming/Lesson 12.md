@@ -101,7 +101,20 @@ while(count < 10) {
   
 Be careful with the testing conditions to avoid infinite loops.
 It is also possible to have more than one conditions:
+
+```r
+z <- 5
+while(z >= 3 && z <= 10) {
+	print(z)
+	coin <- rbinom(1, 1, 0.5)
+	if(coin == 1) { ## random walk
+		z <- z + 1
+	} else {
+		z <- z - 1
+	}
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMTczMzU1NCwxMDMxNDI0ODA0LDg1MT
+eyJoaXN0b3J5IjpbMTU1NDMwMTQ0NiwxMDMxNDI0ODA0LDg1MT
 Y4ODQ1XX0=
 -->
