@@ -42,7 +42,7 @@ if(x > 3) {
 	y <- 0
 }
 
-# Different structure for 
+# Different structure for same problem
 y <- if(x > 3) {
 	10
 } else {
@@ -50,5 +50,5 @@ y <- if(x > 3) {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTExNTUxNjgsODUxNjg4NDVdfQ==
+eyJoaXN0b3J5IjpbMTkzODgxNjc3Myw4NTE2ODg0NV19
 -->
