@@ -86,6 +86,9 @@ for(i in seq_len(nrow(x))) {
 	}
 }
 ```
+
+## While
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTQyNDgwNCw4NTE2ODg0NV19
+eyJoaXN0b3J5IjpbLTE4MTk4OTg1NDUsMTAzMTQyNDgwNCw4NT
+E2ODg0NV19
 -->
