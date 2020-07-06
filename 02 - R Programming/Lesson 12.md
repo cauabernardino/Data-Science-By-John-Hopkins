@@ -117,8 +117,24 @@ while(z >= 3 && z <= 10) {
 
 ## repeat, next, break
 
-`repeat` initiates an infinite loop. It is useful when you need to repeat a condition until it reaches a condition and you don't know exactly how much times it'll be needed. It 
+`repeat` initiates an infinite loop. It is useful when you need to repeat a condition until it reaches a condition (`break`) and you don't know exactly how much times it'll be needed. 
+
+```r
+x0 <- 1
+tol <- 1e-8
+
+repeat {
+	x1 <- computeEstimate()
+	if(abs(x1 - x0) < tol) {
+		break
+	} else {
+		x0 <- x1
+	}
+}
+```
+
+Sometimes the con
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODE4OTExNCwxMDMxNDI0ODA0LDg1MT
-Y4ODQ1XX0=
+eyJoaXN0b3J5IjpbLTQ5ODc2NjI0LDEwMzE0MjQ4MDQsODUxNj
+g4NDVdfQ==
 -->
