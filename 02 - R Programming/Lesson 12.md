@@ -115,7 +115,7 @@ while(z >= 3 && z <= 10) {
 }
 ```
 
-## repeat, next, break
+## repeat
 
 `repeat` initiates an infinite loop. It is useful when you need to repeat a condition until it reaches a condition (`break`) and you don't know exactly how much times it'll be needed. 
 
@@ -133,8 +133,23 @@ repeat {
 }
 ```
 
-Sometimes the con
+Sometimes the condition may not be achieved, so it may be better to set a hard limit on the number of iterations using a `for` or `while` loop.
+
+
+## next
+
+`next` is used to skip an iteration of a loop.
+
+```r
+for(i in 1:100) {
+if(i <= 20) {
+	## Skip the first 20 iterations
+next
+}
+## Do something here
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5ODc2NjI0LDEwMzE0MjQ4MDQsODUxNj
+eyJoaXN0b3J5IjpbMzYzODQwODM5LDEwMzE0MjQ4MDQsODUxNj
 g4NDVdfQ==
 -->
