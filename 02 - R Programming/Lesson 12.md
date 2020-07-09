@@ -197,9 +197,10 @@ Example of equivalent calls:
 lm(data = mydata, y ~ x, model = FALSE, 1:100)
 lm(y ~ x, mydata, 1:100, model = FALSE)
 ```
-
+The `...` argument indicate a variable number of arguments that are usually passed on to other
+functions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1ODI5MDcyMSwtMTM3MDg2OTkxLC0xMz
-I3NzY4MDQ3LC0yMTIxNDAwNzY4LDEwMzE0MjQ4MDQsODUxNjg4
-NDVdfQ==
+eyJoaXN0b3J5IjpbMTg1NDk2OTQxOCwxNTU4MjkwNzIxLC0xMz
+cwODY5OTEsLTEzMjc3NjgwNDcsLTIxMjE0MDA3NjgsMTAzMTQy
+NDgwNCw4NTE2ODg0NV19
 -->
