@@ -238,15 +238,16 @@ body of another function.
 Example:
 ```r
 make.power <- function(n) {
-pow <- function(x) {
-x^n
-}
-pow
+	pow <- function(x) {
+		x^n
+	}
+	pow
 }
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU0Mjk2NjU5LC0yODQ4MzAwNzUsMTY0Nj
-MxNzc5MSwxNTU4MjkwNzIxLC0xMzcwODY5OTEsLTEzMjc3Njgw
-NDcsLTIxMjE0MDA3NjgsMTAzMTQyNDgwNCw4NTE2ODg0NV19
+eyJoaXN0b3J5IjpbLTE3ODE4ODU4MSwtMjg0ODMwMDc1LDE2ND
+YzMTc3OTEsMTU1ODI5MDcyMSwtMTM3MDg2OTkxLC0xMzI3NzY4
+MDQ3LC0yMTIxNDAwNzY4LDEwMzE0MjQ4MDQsODUxNjg4NDVdfQ
+==
 -->
