@@ -212,11 +212,12 @@ The `...` argument is also necessary when the number of arguments passed to the 
 > args(paste)
 function (..., sep = " ", collapse = NULL)
 > args(cat)
-function (..., file = "", sep = " ", fill = FALSE,
-labels = NULL, append = FALSE)
+function (..., file = "", sep = " ", fill = FALSE, labels = NULL, append = FALSE)
 ```
+One catch with `...` is that any arguments that appear after it on the argument list must be named
+explicitly and cannot be partially matched.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODIwMzI2MTIsMTU1ODI5MDcyMSwtMT
-M3MDg2OTkxLC0xMzI3NzY4MDQ3LC0yMTIxNDAwNzY4LDEwMzE0
-MjQ4MDQsODUxNjg4NDVdfQ==
+eyJoaXN0b3J5IjpbMTY0NjMxNzc5MSwxNTU4MjkwNzIxLC0xMz
+cwODY5OTEsLTEzMjc3NjgwNDcsLTIxMjE0MDA3NjgsMTAzMTQy
+NDgwNCw4NTE2ODg0NV19
 -->
