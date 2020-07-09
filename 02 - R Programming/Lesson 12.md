@@ -189,8 +189,12 @@ Functions have *named arguments* which potentially have default values.
 - Not every function call in R makes use of all the formal arguments
 - Function arguments can be missing or might have default values
 
+When an argument is matched by name, it
+is “taken out” of the argument list and the remaining unnamed arguments are matched in the order
+that they are listed in the function definition.
+Example 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ1ODg5NDQ1LC0xMzcwODY5OTEsLTEzMj
-c3NjgwNDcsLTIxMjE0MDA3NjgsMTAzMTQyNDgwNCw4NTE2ODg0
-NV19
+eyJoaXN0b3J5IjpbLTE0MjM4Nzk5NzIsLTEzNzA4Njk5MSwtMT
+MyNzc2ODA0NywtMjEyMTQwMDc2OCwxMDMxNDI0ODA0LDg1MTY4
+ODQ1XX0=
 -->
