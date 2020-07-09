@@ -243,11 +243,19 @@ make.power <- function(n) {
 	}
 	pow
 }
+# This function returns another function as its value
+
+> cube <- make.power(3)
+> square <- make.power(2)
+> cube(3)
+[1] 27
+> square(3)
+[1] 9
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODE4ODU4MSwtMjg0ODMwMDc1LDE2ND
-YzMTc3OTEsMTU1ODI5MDcyMSwtMTM3MDg2OTkxLC0xMzI3NzY4
-MDQ3LC0yMTIxNDAwNzY4LDEwMzE0MjQ4MDQsODUxNjg4NDVdfQ
-==
+eyJoaXN0b3J5IjpbLTE0OTYyNjg3ODIsLTI4NDgzMDA3NSwxNj
+Q2MzE3NzkxLDE1NTgyOTA3MjEsLTEzNzA4Njk5MSwtMTMyNzc2
+ODA0NywtMjEyMTQwMDc2OCwxMDMxNDI0ODA0LDg1MTY4ODQ1XX
+0=
 -->
