@@ -216,8 +216,11 @@ function (..., file = "", sep = " ", fill = FALSE, labels = NULL, append = FALSE
 ```
 One catch with `...` is that any arguments that appear after it on the argument list must be named
 explicitly and cannot be partially matched.
+
+## Environments
+When R tries to bind a value to a symbol, it searches through a series of `environments` to find the appropriate value. When you are working on the command line and need to retrieve the value of an R object, the order is roughly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NjMxNzc5MSwxNTU4MjkwNzIxLC0xMz
-cwODY5OTEsLTEzMjc3NjgwNDcsLTIxMjE0MDA3NjgsMTAzMTQy
-NDgwNCw4NTE2ODg0NV19
+eyJoaXN0b3J5IjpbLTE0ODM0NDA1MDksMTY0NjMxNzc5MSwxNT
+U4MjkwNzIxLC0xMzcwODY5OTEsLTEzMjc3NjgwNDcsLTIxMjE0
+MDA3NjgsMTAzMTQyNDgwNCw4NTE2ODg0NV19
 -->
