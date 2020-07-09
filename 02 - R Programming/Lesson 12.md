@@ -193,14 +193,21 @@ When an argument is matched by name, it
 is “taken out” of the argument list and the remaining unnamed arguments are matched in the order
 that they are listed in the function definition.
 Example of equivalent calls:
+
 ```r
 lm(data = mydata, y ~ x, model = FALSE, 1:100)
 lm(y ~ x, mydata, 1:100, model = FALSE)
 ```
 The `...` argument indicate a variable number of arguments that are usually passed on to other
-functions.
+functions. It is often used when extending another function and you don’t want to copy the entire argument list of the original function.
+
+```r
+myplot <- function(x, y, type = "l", ...) {
+plot(x, y, type = type, ...)
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NDk2OTQxOCwxNTU4MjkwNzIxLC0xMz
-cwODY5OTEsLTEzMjc3NjgwNDcsLTIxMjE0MDA3NjgsMTAzMTQy
-NDgwNCw4NTE2ODg0NV19
+eyJoaXN0b3J5IjpbLTE3NjI3MDQ4NDQsMTU1ODI5MDcyMSwtMT
+M3MDg2OTkxLC0xMzI3NzY4MDQ3LC0yMTIxNDAwNzY4LDEwMzE0
+MjQ4MDQsODUxNjg4NDVdfQ==
 -->
