@@ -180,7 +180,15 @@ Functions in R are “first class objects”, which means that they can be treat
 - Functions can be passed as arguments to other functions
 - Functions can be nested, so that you can define a function inside of another function
 - The return value of a function is the last expression in the function body to be evaluated.
+Function Arguments
+Functions have named arguments which potentially have default values.
+The formal arguments are the arguments included in the function definition
+The formals function returns a list of all the formal arguments of a function
+Not every function call in R makes use of all the formal arguments
+Function arguments can be missing or might have default values
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzA4Njk5MSwtMTMyNzc2ODA0NywtMj
-EyMTQwMDc2OCwxMDMxNDI0ODA0LDg1MTY4ODQ1XX0=
+eyJoaXN0b3J5IjpbMTcxMDUzNzU2LC0xMzcwODY5OTEsLTEzMj
+c3NjgwNDcsLTIxMjE0MDA3NjgsMTAzMTQyNDgwNCw4NTE2ODg0
+NV19
 -->
