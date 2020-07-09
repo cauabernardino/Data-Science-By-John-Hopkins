@@ -299,13 +299,15 @@ They can be coerced from a character string using the
 x <- as.Date("1970-01-01")
 x
 [1] "1970-01-01"
+# To look it without the data format, use unclass
 unclass(x)
-## [1] 0
+[1] 0
+# Therefore, the day after is 1 and so on
 unclass(as.Date("1970-01-02"))
-## [1] 1
+[1] 1
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQyNzA5MTgxLDQ4OTE3ODYyOCwtMTMyND
-Q5ODg0OSwxNjAzOTU1MDI4LDExOTU4MjcyNzIsNTQ0Mzc5MDM0
-XX0=
+eyJoaXN0b3J5IjpbLTE1MDIzMjcyOCw0ODkxNzg2MjgsLTEzMj
+Q0OTg4NDksMTYwMzk1NTAyOCwxMTk1ODI3MjcyLDU0NDM3OTAz
+NF19
 -->
