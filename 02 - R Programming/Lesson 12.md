@@ -218,6 +218,7 @@ One catch with `...` is that any arguments that appear after it on the argument 
 explicitly and cannot be partially matched.
 
 ## Environments
+
 When R tries to bind a value to a symbol, it searches through a series of `environments` to find the appropriate value. When you are working on the command line and need to retrieve the value of an R object, the order is roughly
 
 1. Search the global environment for a symbol name matching the one requested.
@@ -234,7 +235,7 @@ The search list can be found by using the `search()` function.
  [9] "Autoloads"         "package:base"
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NDgzMDA3NSwxNjQ2MzE3NzkxLDE1NT
-gyOTA3MjEsLTEzNzA4Njk5MSwtMTMyNzc2ODA0NywtMjEyMTQw
-MDc2OCwxMDMxNDI0ODA0LDg1MTY4ODQ1XX0=
+eyJoaXN0b3J5IjpbLTI0NDU5OTMsMTY0NjMxNzc5MSwxNTU4Mj
+kwNzIxLC0xMzcwODY5OTEsLTEzMjc3NjgwNDcsLTIxMjE0MDA3
+NjgsMTAzMTQyNDgwNCw4NTE2ODg0NV19
 -->
