@@ -306,8 +306,17 @@ unclass(x)
 unclass(as.Date("1970-01-02"))
 [1] 1
 ```
+
+`POSIXct` is just a very large integer under the hood; it use a useful class when you want to store times in something like a data frame.
+
+`POSIXlt` is a list underneath and it stores a bunch of other useful information like the day of the week, day of the year, month, day of the month.
+
+There are a number of generic functions that work on dates and times
+- `weekdays`: give the day of the week
+- months: give the month name
+- quarters: give the quarter number (“Q1”, “Q2”, “Q3”, or “Q4”)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDIzMjcyOCw0ODkxNzg2MjgsLTEzMj
-Q0OTg4NDksMTYwMzk1NTAyOCwxMTk1ODI3MjcyLDU0NDM3OTAz
-NF19
+eyJoaXN0b3J5IjpbLTE1NDU0NzI0OTUsLTE1MDIzMjcyOCw0OD
+kxNzg2MjgsLTEzMjQ0OTg4NDksMTYwMzk1NTAyOCwxMTk1ODI3
+MjcyLDU0NDM3OTAzNF19
 -->
