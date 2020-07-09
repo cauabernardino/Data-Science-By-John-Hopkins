@@ -206,8 +206,17 @@ myplot <- function(x, y, type = "l", ...) {
 plot(x, y, type = type, ...)
 }
 ```
+The `...` argument is also necessary when the number of arguments passed to the function cannot be known in advance.
+
+```r
+> args(paste)
+function (..., sep = " ", collapse = NULL)
+> args(cat)
+function (..., file = "", sep = " ", fill = FALSE,
+labels = NULL, append = FALSE)
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjI3MDQ4NDQsMTU1ODI5MDcyMSwtMT
+eyJoaXN0b3J5IjpbLTEwODIwMzI2MTIsMTU1ODI5MDcyMSwtMT
 M3MDg2OTkxLC0xMzI3NzY4MDQ3LC0yMTIxNDAwNzY4LDEwMzE0
 MjQ4MDQsODUxNjg4NDVdfQ==
 -->
