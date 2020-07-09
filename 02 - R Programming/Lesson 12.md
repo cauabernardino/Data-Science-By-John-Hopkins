@@ -217,7 +217,7 @@ function (..., file = "", sep = " ", fill = FALSE, labels = NULL, append = FALSE
 One catch with `...` is that any arguments that appear after it on the argument list must be named
 explicitly and cannot be partially matched.
 
-## Environments
+### Environments
 When R tries to bind a value to a symbol, it searches through a series of `environments` to find the appropriate value. When you are working on the command line and need to retrieve the value of an R object, the order is roughly
 
 1. Search the global environment for a symbol name matching the one requested.
@@ -233,8 +233,15 @@ The search list can be found by using the `search()` function.
  [7] "package:datasets"  "package:methods"  
  [9] "Autoloads"         "package:base"
 ```
+
+### Functions of functions
+In R you can have functions defined inside other functions
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NDgzMDA3NSwxNjQ2MzE3NzkxLDE1NT
-gyOTA3MjEsLTEzNzA4Njk5MSwtMTMyNzc2ODA0NywtMjEyMTQw
-MDc2OCwxMDMxNDI0ODA0LDg1MTY4ODQ1XX0=
+eyJoaXN0b3J5IjpbNzMyODYyMDI5LC0yODQ4MzAwNzUsMTY0Nj
+MxNzc5MSwxNTU4MjkwNzIxLC0xMzcwODY5OTEsLTEzMjc3Njgw
+NDcsLTIxMjE0MDA3NjgsMTAzMTQyNDgwNCw4NTE2ODg0NV19
 -->
