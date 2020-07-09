@@ -316,8 +316,21 @@ There are a number of generic functions that work on dates and times
 - `months()`: give the month name
 - `quarters()`: give the quarter number (“Q1”, “Q2”, “Q3”, or “Q4”)
 
+Times can be coerced from a character string using the `as.POSIXlt()` or a`s.POSIXct()` function.
+
+```r
+x <- Sys.time()
+x
+[1] "2013-01-24 22:04:14 EST"
+p <- as.POSIXlt(x)
+names(unclass(p))
+[1] "sec" "min" "hour" "mday" "mon"
+[6] "year" "wday" "yday" "isdst"
+p$sec
+## [1] 14.34
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1OTgwOTIwLC0xNTAyMzI3MjgsNDg5MT
-c4NjI4LC0xMzI0NDk4ODQ5LDE2MDM5NTUwMjgsMTE5NTgyNzI3
-Miw1NDQzNzkwMzRdfQ==
+eyJoaXN0b3J5IjpbLTE5NDA2NjcwNzQsMTA1OTgwOTIwLC0xNT
+AyMzI3MjgsNDg5MTc4NjI4LC0xMzI0NDk4ODQ5LDE2MDM5NTUw
+MjgsMTE5NTgyNzI3Miw1NDQzNzkwMzRdfQ==
 -->
