@@ -284,7 +284,16 @@ c d
 x1  1  3
 x2  2  4
 ```
+
+## Dates and Times in R
+
+- Dates are represented by the `Date` class
+- Times are represented by the `POSIXct` or the `POSIXlt` class
+- Dates are stored internally as the number of days since 1970-01-01
+- Tmes are stored internally as the number of seconds since 1970-01-01
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg5MTc4NjI4LC0xMzI0NDk4ODQ5LDE2MD
-M5NTUwMjgsMTE5NTgyNzI3Miw1NDQzNzkwMzRdfQ==
+eyJoaXN0b3J5IjpbLTEwMzE1MTQ3MDksNDg5MTc4NjI4LC0xMz
+I0NDk4ODQ5LDE2MDM5NTUwMjgsMTE5NTgyNzI3Miw1NDQzNzkw
+MzRdfQ==
 -->
