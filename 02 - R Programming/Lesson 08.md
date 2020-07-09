@@ -312,11 +312,12 @@ unclass(as.Date("1970-01-02"))
 `POSIXlt` is a list underneath and it stores a bunch of other useful information like the day of the week, day of the year, month, day of the month.
 
 There are a number of generic functions that work on dates and times
-- `weekdays`: give the day of the week
-- months: give the month name
-- quarters: give the quarter number (“Q1”, “Q2”, “Q3”, or “Q4”)
+- `weekdays()`: give the day of the week
+- `months()`: give the month name
+- `quarters()`: give the quarter number (“Q1”, “Q2”, “Q3”, or “Q4”)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDU0NzI0OTUsLTE1MDIzMjcyOCw0OD
-kxNzg2MjgsLTEzMjQ0OTg4NDksMTYwMzk1NTAyOCwxMTk1ODI3
-MjcyLDU0NDM3OTAzNF19
+eyJoaXN0b3J5IjpbMTA1OTgwOTIwLC0xNTAyMzI3MjgsNDg5MT
+c4NjI4LC0xMzI0NDk4ODQ5LDE2MDM5NTUwMjgsMTE5NTgyNzI3
+Miw1NDQzNzkwMzRdfQ==
 -->
