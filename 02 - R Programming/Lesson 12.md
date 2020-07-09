@@ -192,9 +192,14 @@ Functions have *named arguments* which potentially have default values.
 When an argument is matched by name, it
 is “taken out” of the argument list and the remaining unnamed arguments are matched in the order
 that they are listed in the function definition.
-Example 
+Example of equivalent calls:
+```r
+lm(data = mydata, y ~ x, model = FALSE, 1:100)
+lm(y ~ x, mydata, 1:100, model = FALSE)
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjM4Nzk5NzIsLTEzNzA4Njk5MSwtMT
-MyNzc2ODA0NywtMjEyMTQwMDc2OCwxMDMxNDI0ODA0LDg1MTY4
-ODQ1XX0=
+eyJoaXN0b3J5IjpbMTU1ODI5MDcyMSwtMTM3MDg2OTkxLC0xMz
+I3NzY4MDQ3LC0yMTIxNDAwNzY4LDEwMzE0MjQ4MDQsODUxNjg4
+NDVdfQ==
 -->
