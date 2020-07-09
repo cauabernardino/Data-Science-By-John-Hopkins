@@ -233,15 +233,20 @@ The search list can be found by using the `search()` function.
  [7] "package:datasets"  "package:methods"  
  [9] "Autoloads"         "package:base"
 ```
-
-### Functions of functions
-In R you can have functions defined inside other functions
-
-
-
+Typically, a function is defined in the global environment, so that the values of free variables are just found in the user’s workspace. However, in R you can have functions defined inside other functions. In this case the environment in which a function is defined is the
+body of another function.
+Example:
+```r
+make.power <- function(n) {
+pow <- function(x) {
+x^n
+}
+pow
+}
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMyODYyMDI5LC0yODQ4MzAwNzUsMTY0Nj
+eyJoaXN0b3J5IjpbOTU0Mjk2NjU5LC0yODQ4MzAwNzUsMTY0Nj
 MxNzc5MSwxNTU4MjkwNzIxLC0xMzcwODY5OTEsLTEzMjc3Njgw
 NDcsLTIxMjE0MDA3NjgsMTAzMTQyNDgwNCw4NTE2ODg0NV19
 -->
