@@ -219,8 +219,22 @@ explicitly and cannot be partially matched.
 
 ## Environments
 When R tries to bind a value to a symbol, it searches through a series of `environments` to find the appropriate value. When you are working on the command line and need to retrieve the value of an R object, the order is roughly
+
+1. Search the global environment for a symbol name matching the one requested.
+2. Search the namespaces of each of the packages on the search list
+
+The search list can be found by using the `search()` function.
+
+```r
+> search()
+ [1] ".GlobalEnv"        "tools:rstudio"    
+ [3] "package:stats"     "package:graphics" 
+ [5] "package:grDevices" "package:utils"    
+ [7] "package:datasets"  "package:methods"  
+ [9] "Autoloads"         "package:base"
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODM0NDA1MDksMTY0NjMxNzc5MSwxNT
-U4MjkwNzIxLC0xMzcwODY5OTEsLTEzMjc3NjgwNDcsLTIxMjE0
-MDA3NjgsMTAzMTQyNDgwNCw4NTE2ODg0NV19
+eyJoaXN0b3J5IjpbLTI4NDgzMDA3NSwxNjQ2MzE3NzkxLDE1NT
+gyOTA3MjEsLTEzNzA4Njk5MSwtMTMyNzc2ODA0NywtMjEyMTQw
+MDc2OCwxMDMxNDI0ODA0LDg1MTY4ODQ1XX0=
 -->
