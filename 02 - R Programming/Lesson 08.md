@@ -292,8 +292,20 @@ x2  2  4
 - Dates are stored internally as the number of days since 1970-01-01
 - Tmes are stored internally as the number of seconds since 1970-01-01
 
+They can be coerced from a character string using the
+`as.Date()` function.
+
+```r
+x <- as.Date("1970-01-01")
+x
+[1] "1970-01-01"
+unclass(x)
+## [1] 0
+unclass(as.Date("1970-01-02"))
+## [1] 1
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzE1MTQ3MDksNDg5MTc4NjI4LC0xMz
-I0NDk4ODQ5LDE2MDM5NTUwMjgsMTE5NTgyNzI3Miw1NDQzNzkw
-MzRdfQ==
+eyJoaXN0b3J5IjpbMjQyNzA5MTgxLDQ4OTE3ODYyOCwtMTMyND
+Q5ODg0OSwxNjAzOTU1MDI4LDExOTU4MjcyNzIsNTQ0Mzc5MDM0
+XX0=
 -->
