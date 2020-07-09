@@ -329,19 +329,22 @@ names(unclass(p))
 p$sec
 ## [1] 14.34
 ```
-It can be done mathematical operations and comparisons on dates and times. 
+It can be done mathematical operations and comparisons on dates and times. The functions keep track of leap years, leap seconds, daylight savings, and time zones.
 
 ```r
-x <- as.Date("2012-03-01") y <- as.Date("2012-02-28")
+x <- as.Date("2012-03-01") 
+y <- as.Date("2012-02-28")
 x-y
-## Time difference of 2 days
+Time difference of 2 days
+
 x <- as.POSIXct("2012-10-25 01:00:00")
 y <- as.POSIXct("2012-10-25 06:00:00", tz = "GMT")
 y-x
 ## Time difference of 1 hours
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNzU1NjI0OSwtMTk0MDY2NzA3NCwxMD
-U5ODA5MjAsLTE1MDIzMjcyOCw0ODkxNzg2MjgsLTEzMjQ0OTg4
-NDksMTYwMzk1NTAyOCwxMTk1ODI3MjcyLDU0NDM3OTAzNF19
+eyJoaXN0b3J5IjpbLTExMzM1OTM1NzksLTE5NDA2NjcwNzQsMT
+A1OTgwOTIwLC0xNTAyMzI3MjgsNDg5MTc4NjI4LC0xMzI0NDk4
+ODQ5LDE2MDM5NTUwMjgsMTE5NTgyNzI3Miw1NDQzNzkwMzRdfQ
+==
 -->
