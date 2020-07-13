@@ -1,5 +1,5 @@
 
-# Mapping Functions and Debugging
+# Mapping Functions
 
 Functions that allow you to execute loop-like behavior in a compact form. Typically, they have the word "apply" in them. Their behaviour is similar to `map()` function in Python.
 
@@ -127,6 +127,7 @@ A multivariate apply of sorts which applies a function in parallel over a set of
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MjMxMzk1OSwzNTk4NTYyMjMsLTIwMT
-A0MTI0NTIsMjA0MDM3NzQ1MSwtMTc2ODExMDkxM119
+eyJoaXN0b3J5IjpbOTc5OTQxNjEyLDE1OTIzMTM5NTksMzU5OD
+U2MjIzLC0yMDEwNDEyNDUyLDIwNDAzNzc0NTEsLTE3NjgxMTA5
+MTNdfQ==
 -->
