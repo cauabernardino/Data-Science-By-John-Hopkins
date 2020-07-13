@@ -77,9 +77,10 @@ $b
 - It is not really faster than writing a loop, but it works in one line!
 ```r
 > x <- matrix(rnorm(200), 20, 10)
-> 
+> apply(x, 2, mean) # For the column means
+> apply(x, 1, sum) # For the row means
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDIyMTIxOSwtMjAxMDQxMjQ1MiwyMD
-QwMzc3NDUxLC0xNzY4MTEwOTEzXX0=
+eyJoaXN0b3J5IjpbLTE1MTE3ODc3NDYsLTIwMTA0MTI0NTIsMj
+A0MDM3NzQ1MSwtMTc2ODExMDkxM119
 -->
