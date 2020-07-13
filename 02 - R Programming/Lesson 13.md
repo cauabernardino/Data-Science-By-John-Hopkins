@@ -68,7 +68,14 @@ $b
          a          b          c          d 
  2.5000000 -0.2592703  0.5095762  4.9793924 
 ```
+
+## `apply()`
+
+`apply()` is used to a evaluate a function over the margins of an array.
+- It is most often used to apply a function to the rows or columns of a matrix
+- It can be used with general arrays, e.g. taking the average of an array of matrices
+- It is not really faster than writing a loop, but it works in one line!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NzQyMDk4NywyMDQwMzc3NDUxLC0xNz
-Y4MTEwOTEzXX0=
+eyJoaXN0b3J5IjpbLTIwMTA0MTI0NTIsMjA0MDM3NzQ1MSwtMT
+c2ODExMDkxM119
 -->
