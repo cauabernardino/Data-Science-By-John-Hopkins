@@ -63,8 +63,12 @@ $b
 - If it can’t figure things out, a list is returned
 
 ```r
+> x <- list(a = 1:4, b = rnorm(10), c = rnorm(20, 1), d = rnorm(100, 5))
+> sapply(x, mean)
+         a          b          c          d 
+ 2.5000000 -0.2592703  0.5095762  4.9793924 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MjQ1MjE5MCwyMDQwMzc3NDUxLC0xNz
-Y4MTEwOTEzXX0=
+eyJoaXN0b3J5IjpbODIwODY4MzMwLDIwNDAzNzc0NTEsLTE3Nj
+gxMTA5MTNdfQ==
 -->
