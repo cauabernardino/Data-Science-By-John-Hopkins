@@ -2,6 +2,7 @@
 # Loop Functions and Debugging
 
 Functions that allow you to execute loop-like behavior in a compact form. Typically, they have the word "apply" in them.
+
 - `lapply()`: Loop over a list and evaluate a function on each element
 - `sapply()`: Same as `lapply()` but try to simplify the result
 - `apply()`: Apply a function over the margins of an array
@@ -31,5 +32,6 @@ $b
 4
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDM3NzQ1MSwtMTc2ODExMDkxM119
+eyJoaXN0b3J5IjpbNDIzNjcwNjE3LDIwNDAzNzc0NTEsLTE3Nj
+gxMTA5MTNdfQ==
 -->
