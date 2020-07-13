@@ -27,10 +27,10 @@ There is no intention of replacing the course importance, just to be a notebook 
 10. [Subsets](https://github.com/cauabernardino/Data-Science-By-John-Hopkins/blob/master/02%20-%20R%20Programming/Lesson%2010.md)
 11. [Swirl](https://github.com/cauabernardino/Data-Science-By-John-Hopkins/blob/master/02%20-%20R%20Programming/Lesson%2011.md)
 12. [R Control Structures and Functions](https://github.com/cauabernardino/Data-Science-By-John-Hopkins/blob/master/02%20-%20R%20Programming/Lesson%2012.md)
-13. Mapping Functions and Debugging
+13. [Mapping Functions and Debugging](https://github.com/cauabernardino/Data-Science-By-John-Hopkins/blob/master/02%20-%20R%20Programming/Lesson%2013.md)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTc1NTY1NywxMTQzODUwNjUxLC0zMD
+eyJoaXN0b3J5IjpbMTg2MjU0NjMwMywxMTQzODUwNjUxLC0zMD
 k5MjgwMiwtMTcwNTIxMTQzLDE1NzY0MzA4MjMsMTU0ODE1MzQx
 NCwtMTYzNTUxNDIwNywtNTM1NDU0NTk5LC0yMTQzMzAyNDcsLT
 c0NDAwMjE1NywtODI2ODYwMTg1LDEzMzAzNjY0NTQsLTk2NTUy
