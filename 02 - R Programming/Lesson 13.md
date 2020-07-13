@@ -31,7 +31,24 @@ $b
 [1] 0.4671
 4
 ```
+Can be used with *anonymous* functions.
+
+```r
+> x <- list(a = matrix(1:4, 2, 2), b = matrix(1:6, 3, 2))
+> x
+$a
+	[,1] [,2]
+[1,] 1 		3
+[2,] 2 4
+$b
+[,1] [,2]
+[1,] 1 4
+[2,] 2 5
+[3,] 3 6
+```
+
+## `sapply()`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIzNjcwNjE3LDIwNDAzNzc0NTEsLTE3Nj
-gxMTA5MTNdfQ==
+eyJoaXN0b3J5IjpbLTg0MzE3NzgxNCwyMDQwMzc3NDUxLC0xNz
+Y4MTEwOTEzXX0=
 -->
