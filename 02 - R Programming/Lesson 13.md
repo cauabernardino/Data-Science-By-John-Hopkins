@@ -93,11 +93,21 @@ For sums and means of matrix dimensions, we have some shortcuts.
 
 A multivariate apply of sorts which applies a function in parallel over a set of arguments.
 ```r
-> str(mapply)
-function (FUN, ..., MoreArgs = NULL, SIMPLIFY = TRUE,
-USE.NAMES = TRUE)
+>list(rep(1, 4), rep(2, 3), rep(3, 2), rep(4, 1))
+## This is the same as the above
+> mapply(rep, 1:4, 4:1)
+> 
+## Results
+[[1]]
+[1] 1 1 1 1
+[[2]]
+[1] 2 2 2
+[[3]]
+[1] 3 3
+[[4]]
+[1] 4
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NjAxNTA4LC0yMDEwNDEyNDUyLDIwND
-AzNzc0NTEsLTE3NjgxMTA5MTNdfQ==
+eyJoaXN0b3J5IjpbLTM4ODM0OTE3MCwtMjAxMDQxMjQ1MiwyMD
+QwMzc3NDUxLC0xNzY4MTEwOTEzXX0=
 -->
