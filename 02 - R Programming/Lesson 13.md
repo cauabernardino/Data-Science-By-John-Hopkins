@@ -56,7 +56,15 @@ $b
 ```
 
 ## `sapply()`
+
+`sapply()` will try to simplify the result of lapply if possible.
+- If the result is a list where every element is length 1, then a vector is returned
+- If the result is a list where every element is a vector of the same length (> 1), a matrix is returned.
+- If it can’t figure things out, a list is returned
+
+```r
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMDEwODg0MSwyMDQwMzc3NDUxLC0xNz
+eyJoaXN0b3J5IjpbMTI4MjQ1MjE5MCwyMDQwMzc3NDUxLC0xNz
 Y4MTEwOTEzXX0=
 -->
