@@ -1,7 +1,7 @@
 
-# Loop Functions and Debugging
+# Mapping Functions and Debugging
 
-Functions that allow you to execute loop-like behavior in a compact form. Typically, they have the word "apply" in them.
+Functions that allow you to execute loop-like behavior in a compact form. Typically, they have the word "apply" in them. Their behaviour is similar to `map()` function in Python.
 
 - `lapply()`: Loop over a list and evaluate a function on each element
 - `sapply()`: Same as `lapply()` but try to simplify the result
@@ -69,6 +69,6 @@ $b
  2.5000000 -0.2592703  0.5095762  4.9793924 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwODY4MzMwLDIwNDAzNzc0NTEsLTE3Nj
-gxMTA5MTNdfQ==
+eyJoaXN0b3J5IjpbMTA4NzQyMDk4NywyMDQwMzc3NDUxLC0xNz
+Y4MTEwOTEzXX0=
 -->
