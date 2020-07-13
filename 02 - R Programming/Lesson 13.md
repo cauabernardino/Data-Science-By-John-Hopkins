@@ -125,7 +125,8 @@ A multivariate apply of sorts which applies a function in parallel over a set of
 [1] 4
 ```
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MzY5ODMxMSwzNTk4NTYyMjMsLTIwMT
+eyJoaXN0b3J5IjpbMTU5MjMxMzk1OSwzNTk4NTYyMjMsLTIwMT
 A0MTI0NTIsMjA0MDM3NzQ1MSwtMTc2ODExMDkxM119
 -->
