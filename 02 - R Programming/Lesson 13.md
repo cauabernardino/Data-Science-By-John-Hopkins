@@ -84,13 +84,13 @@ $b
 ### col/row sums and means
 For sums and means of matrix dimensions, we have some shortcuts.
 
-- `rowSums` = `apply(x, 1, sum)`
-- `rowMeans` = `apply(x, 1, mean)`
-- `colSums` = `apply(x, 2, sum)`
-- `colMeans` = `apply(x, 2, mean)`
+- `rowSums()` = `apply(x, 1, sum)`
+- `rowMeans()` = `apply(x, 1, mean)`
+- `colSums()` = `apply(x, 2, sum)`
+- `colMeans()` = `apply(x, 2, mean)`
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDcwMjYxMzcsLTIwMTA0MTI0NTIsMj
-A0MDM3NzQ1MSwtMTc2ODExMDkxM119
+eyJoaXN0b3J5IjpbMjA1NDkwNDcxLC0yMDEwNDEyNDUyLDIwND
+AzNzc0NTEsLTE3NjgxMTA5MTNdfQ==
 -->
