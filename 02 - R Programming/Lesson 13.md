@@ -75,7 +75,11 @@ $b
 - It is most often used to apply a function to the rows or columns of a matrix
 - It can be used with general arrays, e.g. taking the average of an array of matrices
 - It is not really faster than writing a loop, but it works in one line!
+```r
+> x <- matrix(rnorm(200), 20, 10)
+> 
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTA0MTI0NTIsMjA0MDM3NzQ1MSwtMT
-c2ODExMDkxM119
+eyJoaXN0b3J5IjpbLTEwMDIyMTIxOSwtMjAxMDQxMjQ1MiwyMD
+QwMzc3NDUxLC0xNzY4MTEwOTEzXX0=
 -->
