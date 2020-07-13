@@ -89,8 +89,15 @@ For sums and means of matrix dimensions, we have some shortcuts.
 - `colSums()` = `apply(x, 2, sum)`
 - `colMeans()` = `apply(x, 2, mean)`
 
+## `mapply()`
 
+A multivariate apply of sorts which applies a function in parallel over a set of arguments.
+```r
+> str(mapply)
+function (FUN, ..., MoreArgs = NULL, SIMPLIFY = TRUE,
+USE.NAMES = TRUE)
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NDkwNDcxLC0yMDEwNDEyNDUyLDIwND
+eyJoaXN0b3J5IjpbLTk4NjAxNTA4LC0yMDEwNDEyNDUyLDIwND
 AzNzc0NTEsLTE3NjgxMTA5MTNdfQ==
 -->
