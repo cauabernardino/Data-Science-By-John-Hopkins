@@ -17,11 +17,19 @@ An auxiliary function `split()` is also useful, particularly in conjunction with
 2. a function `FUN`; 
 3. other arguments via its ... argument. 
 
-If X is not a list, it will be coerced to a list using `as.list`.
+If X is not a list, it will be coerced to a list using `as.list`. It always returns a list, regardless of the class of the input.
 
 ```r
+x <- list(a = 1:5, b = rnorm(10))
+lapply(x, mean)
 
+## Results
+$a
+[1] 3
+$b
+[1] 0.4671
+4
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk1ODM1MDg0LC0xNzY4MTEwOTEzXX0=
+eyJoaXN0b3J5IjpbMjA0MDM3NzQ1MSwtMTc2ODExMDkxM119
 -->
