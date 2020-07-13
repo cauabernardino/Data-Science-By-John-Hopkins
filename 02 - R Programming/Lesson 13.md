@@ -1,9 +1,8 @@
 
 # Loop Functions and Debugging
 
+Functions that allow you to execute loop-like behavior in a compact form. Tipio
 
-
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjgxMTA5MTNdfQ==
+eyJoaXN0b3J5IjpbLTYzNzgwNDcyMSwtMTc2ODExMDkxM119
 -->
