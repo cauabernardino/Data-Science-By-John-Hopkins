@@ -92,6 +92,19 @@ For sums and means of matrix dimensions, we have some shortcuts.
 
 ## `tapply()`
 
+Used to apply a function over subsets of a vector.
+
+```r
+> x <- c(rnorm(10), runif(10), rnorm(10, 1))
+> f <- gl(3, 10)
+> f
+[1] 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 3 3 3
+[24] 3 3 3 3 3 3 3
+Levels: 1 2 3
+> tapply(x, f, mean)
+		1 		  2			3
+0.1144464 0.5163468 1.2463678
+```
 
 ## `mapply()`
 
@@ -113,6 +126,6 @@ A multivariate apply of sorts which applies a function in parallel over a set of
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU5ODU2MjIzLC0yMDEwNDEyNDUyLDIwND
-AzNzc0NTEsLTE3NjgxMTA5MTNdfQ==
+eyJoaXN0b3J5IjpbLTk4MzY5ODMxMSwzNTk4NTYyMjMsLTIwMT
+A0MTI0NTIsMjA0MDM3NzQ1MSwtMTc2ODExMDkxM119
 -->
