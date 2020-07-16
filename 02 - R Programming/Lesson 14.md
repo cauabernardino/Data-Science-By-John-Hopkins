@@ -6,7 +6,13 @@ Functions for probability distributions in R:
 points)
 - `pnorm()`: evaluate the cumulative distribution function for a Normal distribution
 - `rpois()`: generate random Poisson variates with a given rate
-Setting the random number seed with set.seed ensures reproducibility
+
+Setting the random number seed with `set.seed()` ensures reproducibility.
+
+
+## Generating Random Numbers from a Linear Model
+
+If we have the following Linear Model:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2Mzg3MDM3OSwtOTQ3OTczMzYzXX0=
+eyJoaXN0b3J5IjpbMjg3OTg2NzA5LC05NDc5NzMzNjNdfQ==
 -->
