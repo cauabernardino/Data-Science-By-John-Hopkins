@@ -16,7 +16,7 @@ If we have the following linear model:
 $$
 y = \beta_0 + \beta_1x + \varepsilon
 $$
-where $
+where $\varepsilon \sim $
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2Njc1MzI5MCwtOTQ3OTczMzYzXX0=
+eyJoaXN0b3J5IjpbLTEyNTI4NzY5NjgsLTk0Nzk3MzM2M119
 -->
