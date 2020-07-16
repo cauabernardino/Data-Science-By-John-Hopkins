@@ -42,13 +42,13 @@ The `sample()` function returns random numbers from a set of scalar objects.
 > sample(letters, 5)
 [1] "q" "b" "e" "x" "p"
 > sample(1:10) ## permutation
-[1] 4 710 6 9 2 8 3 1 5
+[1] 4 7 10 6 9 2 8 3 1 5
 > sample(1:10)
 [1] 2 3 4 1 9 5 10 8 6 7
 > sample(1:10, replace = TRUE) ## Sample w/replacement
 [1] 2 9 7 8 2 8 5 9 7 8
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzY1MTEyNywxNjY5ODIwNTUyLDEzMj
+eyJoaXN0b3J5IjpbMTAyNDQwOTcwNSwxNjY5ODIwNTUyLDEzMj
 Q3MDU0OTksLTk0Nzk3MzM2M119
 -->
