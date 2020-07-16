@@ -13,7 +13,8 @@ Setting the random number seed with `set.seed()` ensures reproducibility.
 ## Generating Random Numbers from a Linear Model
 
 If we have the following linear model:
-<img src="https://render.githubusercontent.com/render/math?math=y = \beta_0 + \beta_1x + \varepsilon">
+
+<img src="https://render.githubusercontent.com/render/math?math=y = \beta_0 %2B \beta_1x %2B \varepsilon">
 
 
 $$
@@ -49,6 +50,6 @@ The `sample()` function returns random numbers from a set of scalar objects.
 [1] 2 9 7 8 2 8 5 9 7 8
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzcxMTI5MCwxMzI0NzA1NDk5LC05ND
+eyJoaXN0b3J5IjpbMTY2OTgyMDU1MiwxMzI0NzA1NDk5LC05ND
 c5NzMzNjNdfQ==
 -->
