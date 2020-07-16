@@ -14,9 +14,8 @@ Setting the random number seed with `set.seed()` ensures reproducibility.
 
 If we have the following linear model:
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=y&space;=&space;\beta_0&space;&plus;&space;\beta_1x&space;&plus;&space;\varepsilon" target="_blank"><img src="https://latex.codecogs.com/svg.latex?y&space;=&space;\beta_0&space;&plus;&space;\beta_1x&space;&plus;&space;\varepsilon" title="y = \beta_0 + \beta_1x + \varepsilon" /></a>
-
-
+$$
+y = \beta_0 + \beta_1x + \varepsilon
 $$
 where $\varepsilon \sim N(0, 2^2)$. Assume $x \sim N(0, 1^2)$, $\beta_0 = 0.5$ and  $\beta_1= 2$.
 
@@ -50,6 +49,6 @@ The `sample()` function returns random numbers from a set of scalar objects.
 [1] 2 9 7 8 2 8 5 9 7 8
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTY3MDUyOTMsMTY2OTgyMDU1MiwxMz
-I0NzA1NDk5LC05NDc5NzMzNjNdfQ==
+eyJoaXN0b3J5IjpbLTI3NzY1MTEyNywxNjY5ODIwNTUyLDEzMj
+Q3MDU0OTksLTk0Nzk3MzM2M119
 -->
