@@ -12,7 +12,11 @@ Setting the random number seed with `set.seed()` ensures reproducibility.
 
 ## Generating Random Numbers from a Linear Model
 
-If we have the following Linear Model:
+If we have the following linear model:
+$$
+y = \beta_0 + \beta_1x + \varepsilon
+$$
+where $
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg3OTg2NzA5LC05NDc5NzMzNjNdfQ==
+eyJoaXN0b3J5IjpbLTY2Njc1MzI5MCwtOTQ3OTczMzYzXX0=
 -->
