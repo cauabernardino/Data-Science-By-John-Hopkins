@@ -102,7 +102,7 @@ Used to apply a function over subsets of a vector.
 [24] 3 3 3 3 3 3 3
 Levels: 1 2 3
 > tapply(x, f, mean)
-		1 		  2			3
+        1         2         3
 0.1144464 0.5163468 1.2463678
 ```
 
@@ -127,7 +127,7 @@ A multivariate apply of sorts which applies a function in parallel over a set of
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc5OTQxNjEyLDE1OTIzMTM5NTksMzU5OD
-U2MjIzLC0yMDEwNDEyNDUyLDIwNDAzNzc0NTEsLTE3NjgxMTA5
-MTNdfQ==
+eyJoaXN0b3J5IjpbLTEzNDU1NzE2NjgsMTU5MjMxMzk1OSwzNT
+k4NTYyMjMsLTIwMTA0MTI0NTIsMjA0MDM3NzQ1MSwtMTc2ODEx
+MDkxM119
 -->
