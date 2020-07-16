@@ -31,7 +31,22 @@ where $\varepsilon \sim N(0, 2^2)$. Assume $x \sim N(0, 1^2)$, $\beta_0 = 0.5$ a
 
 ## Random sampling
 
-The `sample()` function returns rand
+The `sample()` function returns random numbers from a set of scalar objects.
+```r
+> set.seed(1)
+> sample(1:10, 4)
+[1] 3 4 5 7
+> sample(1:10, 4)
+[1] 3 9 8 5
+> sample(letters, 5)
+[1] "q" "b" "e" "x" "p"
+> sample(1:10) ## permutation
+[1] 4 710 6 9 2 8 3 1 5
+> sample(1:10)
+[1] 2 3 4 1 9 5 10 8 6 7
+> sample(1:10, replace = TRUE) ## Sample w/replacement
+[1] 2 9 7 8 2 8 5 9 7 8
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NDY4NzkyNCwtOTQ3OTczMzYzXX0=
+eyJoaXN0b3J5IjpbMTMyNDcwNTQ5OSwtOTQ3OTczMzYzXX0=
 -->
