@@ -5,7 +5,7 @@ Link to the course [here](https://www.coursera.org/specializations/jhu-data-scie
 
 ## Purpose
 
-As a person who has a very basic knowledge on data science with R, I'll try to sumarize the most importante topics I'll find during the course,  the developed codes, as well as other materials that I find relevant to it.
+I'll try to sumarize the most importante topics I'll find during the course,  the developed codes, as well as other materials that I find relevant to it.
 
 There is no intention of replacing the course importance, just to be a notebook and a place to look for quick tips and reminders. 
 
@@ -28,12 +28,13 @@ There is no intention of replacing the course importance, just to be a notebook 
 11. [Swirl](https://github.com/cauabernardino/Data-Science-By-John-Hopkins/blob/master/02%20-%20R%20Programming/Lesson%2011.md)
 12. [R Control Structures and Functions](https://github.com/cauabernardino/Data-Science-By-John-Hopkins/blob/master/02%20-%20R%20Programming/Lesson%2012.md)
 13. [Mapping Functions](https://github.com/cauabernardino/Data-Science-By-John-Hopkins/blob/master/02%20-%20R%20Programming/Lesson%2013.md)
+14. [Random Numbers (Simulation)](https://github.com/cauabernardino/Data-Science-By-John-Hopkins/blob/master/02%20-%20R%20Programming/Lesson%2014.md)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMzA1NjI5NCwxODYyNTQ2MzAzLDExND
-M4NTA2NTEsLTMwOTkyODAyLC0xNzA1MjExNDMsMTU3NjQzMDgy
-MywxNTQ4MTUzNDE0LC0xNjM1NTE0MjA3LC01MzU0NTQ1OTksLT
-IxNDMzMDI0NywtNzQ0MDAyMTU3LC04MjY4NjAxODUsMTMzMDM2
-NjQ1NCwtOTY1NTIwODExLC0xODA1MTQyNzk0LDc4ODY5MTY4Nl
-19
+eyJoaXN0b3J5IjpbLTM4NzUzNjUzMywtNDAzMDU2Mjk0LDE4Nj
+I1NDYzMDMsMTE0Mzg1MDY1MSwtMzA5OTI4MDIsLTE3MDUyMTE0
+MywxNTc2NDMwODIzLDE1NDgxNTM0MTQsLTE2MzU1MTQyMDcsLT
+UzNTQ1NDU5OSwtMjE0MzMwMjQ3LC03NDQwMDIxNTcsLTgyNjg2
+MDE4NSwxMzMwMzY2NDU0LC05NjU1MjA4MTEsLTE4MDUxNDI3OT
+QsNzg4NjkxNjg2XX0=
 -->
