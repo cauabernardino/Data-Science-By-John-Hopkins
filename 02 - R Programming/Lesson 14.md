@@ -16,7 +16,12 @@ If we have the following linear model:
 $$
 y = \beta_0 + \beta_1x + \varepsilon
 $$
-where $\varepsilon \sim N(0, 2^2)$. Assume $\varepsilon \sim N(0, 1^2)$, $\beta_0 = 0.5$ and  $\beta_1= 2$
+where $\varepsilon \sim N(0, 2^2)$. Assume $x \sim N(0, 1^2)$, $\beta_0 = 0.5$ and  $\beta_1= 2$.
+
+```r
+
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODYzMDI2OTgsLTk0Nzk3MzM2M119
+eyJoaXN0b3J5IjpbLTIxNDIwNTYwODMsLTk0Nzk3MzM2M119
 -->
