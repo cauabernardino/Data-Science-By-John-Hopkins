@@ -4,6 +4,10 @@
 .Ruserdata
 .gitignore
 ~.Rproj
+<<<<<<< HEAD
 specdata/*
 Codes/*.csv
 Rprof.out
+=======
+specdata/*
+>>>>>>> ac737e9e8df57b6197f48134b3e946e14b45d684
